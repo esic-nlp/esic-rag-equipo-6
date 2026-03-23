@@ -1,8 +1,10 @@
 import faiss
 import numpy as np
+import pandas as pd
 from sentence_transformers import SentenceTransformer
 
 # Inicializamos el modelo de lenguaje de forma global para mejorar la eficiencia
+# (Este modelo es excelente porque es ligero y entiende español perfectamente)
 embedder = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 
@@ -12,7 +14,7 @@ def crear_indice(df):
     Recibe: DataFrame con la columna 'texto_busqueda'.
     Retorna: El índice FAISS listo para consultas.
     """
-    print("[RAG] Generando embeddings e índice FAISS...")
+    print("[RAG] Generando embeddings e índice FAISS (esto puede tardar unos segundos)...")
     embeddings = embedder.encode(df["texto_busqueda"].tolist(), show_progress_bar=False)
 
     # Creamos un índice de tipo L2 (distancia euclidiana)
@@ -39,18 +41,20 @@ def buscar_y_responder(consulta, df, index):
     candidatos["norm_dist"] = 1 - (dist[0] / max_dist)
 
     # Aplicamos la fórmula: 60% Semántica + 20% Salud + 20% Precio
+    # Se divide norm_nutri entre 100 para que esté en escala 0-1 igual que el resto
     candidatos["rank_final"] = (
         candidatos["norm_dist"] * 0.6
-        + candidatos["norm_nutri"] * 0.2
+        + (candidatos["norm_nutri"] / 100.0) * 0.2
         + candidatos["norm_precio"] * 0.2
     )
 
     # 3. Formateo de respuesta
     mejores = candidatos.sort_values("rank_final", ascending=False).head(3)
 
+    # Formateamos la salida para que los números no tengan demasiados decimales
     contexto = "".join(
         [
-            f"- {r['titulo']} | Precio: {r['precio']}€ | Proteínas: {r['proteinas']}g | Salud: {int(r['score_nutricional'])}/100\n"
+            f"- {r['titulo']} | Precio: {r['precio']:.2f}€ | Proteínas: {r['proteinas']:.1f}g | Salud: {int(r['norm_nutri'])}/100\n"
             for _, r in mejores.iterrows()
         ]
     )
@@ -62,11 +66,19 @@ def consultar(df):
     """
     Función principal para ejecutar el RAG.
     """
-    id = crear_indice(df)
+    id_index = crear_indice(df)
+    print("\n✅ ¡Sistema RAG listo! Ya puedes chatear con el asistente.\n")
+    
     while True:
         consulta = input("Introduce tu consulta (o 'salir' para terminar): ")
+        
         if consulta.lower() == "salir":
             print("¡Hasta luego!")
             break
-        respuesta = buscar_y_responder(consulta, df, id)
-        print(respuesta)
+            
+        # Evitamos que pete si el usuario pulsa Enter sin escribir nada
+        if not consulta.strip():
+            continue
+            
+        respuesta = buscar_y_responder(consulta, df, id_index)
+        print("\n" + respuesta + "-" * 60 + "\n")
