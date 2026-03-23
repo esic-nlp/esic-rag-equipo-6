@@ -8,6 +8,7 @@ wheels/
 .mypy_cache/
 .vscode/
 .DS_Store
+data/
 
 # Virtual environments
 .venv
