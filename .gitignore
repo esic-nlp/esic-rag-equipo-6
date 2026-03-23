@@ -9,7 +9,7 @@ wheels/
 .vscode/
 .DS_Store
 data/
-
+src - copia
 
 # Virtual environments
 .venv
