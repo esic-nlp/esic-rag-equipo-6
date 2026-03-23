@@ -10,9 +10,11 @@ wheels/
 .DS_Store
 data/
 
+
 # Virtual environments
 .venv
 
 # Particular files
 src/acquisition_result.py
 src/preprocessing_result.py
+data/ejemplo.json

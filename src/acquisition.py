@@ -138,3 +138,4 @@ def obtener_productos():
 
 if __name__ == "__main__":
     obtener_productos()
+
