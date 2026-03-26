@@ -1,84 +1,95 @@
 import faiss
 import numpy as np
-import pandas as pd
+import re
 from sentence_transformers import SentenceTransformer
 
-# Inicializamos el modelo de lenguaje de forma global para mejorar la eficiencia
-# (Este modelo es excelente porque es ligero y entiende español perfectamente)
+# Modelo robusto para español
 embedder = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
+def extraer_top_n(consulta, default=3):
+    match = re.search(r"(?:top|dame|los|las)\s*(\d+)", consulta.lower())
+    if match: return int(match.group(1))
+    match_simple = re.search(r"(\d+)", consulta)
+    return int(match_simple.group(1)) if match_simple else default
+
+def analizar_intencion(consulta):
+    c = consulta.lower()
+    es_ranking_puro = False
+    col = None
+    asc = False
+
+    if "proteina" in c or "proteico" in c:
+        if any(x in c for x in ["más", "mas", "alto", "ranking"]):
+            es_ranking_puro, col, asc = True, "proteinas", False
+    elif any(x in c for x in ["barato", "económico", "precio"]):
+        es_ranking_puro, col, asc = True, "precio", True
+        
+    return {
+        "es_ranking_puro": es_ranking_puro,
+        "columna_sort": col,
+        "ascendente": asc,
+        "termino_busqueda": c.replace("top", "").strip()
+    }
 
 def crear_indice(df):
-    """
-    Transforma el texto de búsqueda en vectores y crea el índice FAISS.
-    Recibe: DataFrame con la columna 'texto_busqueda'.
-    Retorna: El índice FAISS listo para consultas.
-    """
-    print("[RAG] Generando embeddings e índice FAISS (esto puede tardar unos segundos)...")
-    embeddings = embedder.encode(df["texto_busqueda"].tolist(), show_progress_bar=False)
-
-    # Creamos un índice de tipo L2 (distancia euclidiana)
-    d = embeddings.shape[1]
-    index = faiss.IndexFlatL2(d)
+    # Usamos solo el título para el embedding para evitar confusión con descripciones largas
+    embeddings = embedder.encode(df["titulo"].tolist(), show_progress_bar=False)
+    index = faiss.IndexFlatL2(embeddings.shape[1])
     index.add(np.array(embeddings).astype("float32"))
-
     return index
 
-
 def buscar_y_responder(consulta, df, index):
-    """
-    Busca los productos más relevantes y aplica el ranking personalizado.
-    Recibe: consulta (str), dataframe procesado y el índice FAISS.
-    """
-    # 1. Búsqueda Vectorial
-    vec_query = embedder.encode([consulta]).astype("float32")
-    dist, indices = index.search(vec_query, 15)  # Recuperamos 15 candidatos iniciales
+    intencion = analizar_intencion(consulta)
+    top_n = extraer_top_n(consulta)
+    
+    # 1. FILTRO DE PALABRAS CLAVE (Para evitar gazpachos en embutidos)
+    # Extraemos la palabra más importante de la consulta (quitando 'top 5', etc)
+    palabras_clave = [p for p in intencion["termino_busqueda"].split() if len(p) > 3]
+    
+    if intencion["es_ranking_puro"]:
+        # Si pide ranking de proteínas de ALGO específico (ej: top 5 embutidos con proteina)
+        df_filtrado = df.copy()
+        if palabras_clave:
+            # Filtramos que el título contenga al menos una de las palabras clave
+            mask = df_filtrado['titulo'].str.contains('|'.join(palabras_clave), case=False, na=False)
+            df_filtrado = df_filtrado[mask]
+        
+        mejores = df_filtrado.sort_values(intencion["columna_sort"], ascending=intencion["ascendente"]).head(top_n)
+        metodo = "Ranking Directo"
+    else:
+        # 2. BÚSQUEDA SEMÁNTICA CON FILTRO DE CORTE
+        vec_query = embedder.encode([consulta]).astype("float32")
+        dist, indices = index.search(vec_query, 100) # Buscamos en 100 productos
+        candidatos = df.iloc[indices[0]].copy()
+        
+        # Invertimos la distancia para que 1 sea perfecto y 0 nada
+        max_d = dist[0].max() if dist[0].max() > 0 else 1
+        candidatos["score_texto"] = 1 - (dist[0] / max_d)
+        
+        # FILTRO DE CORTE ESTRICTO: Si el score de texto es bajo, fuera.
+        candidatos = candidatos[candidatos["score_texto"] > 0.45]
+        
+        # 3. RE-RANKING (80% Texto, 20% Nutrición)
+        candidatos["rank_final"] = (candidatos["score_texto"] * 0.8) + ((candidatos["norm_nutri"]/100) * 0.2)
+        
+        mejores = candidatos.sort_values("rank_final", ascending=False).head(top_n)
+        metodo = "Búsqueda Semántica Optimizada"
 
-    candidatos = df.iloc[indices[0]].copy()
+    # --- FORMATO DE SALIDA ---
+    if mejores.empty:
+        return f"No encontré productos que coincidan con '{consulta}'. Intenta ser más específico."
 
-    # 2. Re-ranking (Normalización local de distancias)
-    max_dist = dist[0].max() if dist[0].max() > 0 else 1
-    candidatos["norm_dist"] = 1 - (dist[0] / max_dist)
-
-    # Aplicamos la fórmula: 60% Semántica + 20% Salud + 20% Precio
-    # Se divide norm_nutri entre 100 para que esté en escala 0-1 igual que el resto
-    candidatos["rank_final"] = (
-        candidatos["norm_dist"] * 0.6
-        + (candidatos["norm_nutri"] / 100.0) * 0.2
-        + candidatos["norm_precio"] * 0.2
-    )
-
-    # 3. Formateo de respuesta
-    mejores = candidatos.sort_values("rank_final", ascending=False).head(3)
-
-    # Formateamos la salida para que los números no tengan demasiados decimales
-    contexto = "".join(
-        [
-            f"- {r['titulo']} | Precio: {r['precio']:.2f}€ | Proteínas: {r['proteinas']:.1f}g | Salud: {int(r['norm_nutri'])}/100\n"
-            for _, r in mejores.iterrows()
-        ]
-    )
-
-    return f"**Asistente Nutricional:** Para '{consulta}', he encontrado estas opciones:\n\n{contexto}"
-
+    res = f"Resultados para: {consulta} ({metodo})\n" + "="*40 + "\n"
+    for i, (_, r) in enumerate(mejores.iterrows()):
+        res += f"{i+1}. {r['titulo']}\n"
+        res += f"   Precio: {r['precio']:.2f}€ | Prot: {r['proteinas']}g | Cal: {r['calories']}kcal\n"
+        res += f"   Link: {r.get('url', 'n/a')}\n\n"
+    return res
 
 def consultar(df):
-    """
-    Función principal para ejecutar el RAG.
-    """
-    id_index = crear_indice(df)
-    print("\n✅ ¡Sistema RAG listo! Ya puedes chatear con el asistente.\n")
-    
+    index = crear_indice(df)
+    print("Asistente listo. Sin emojis y con filtros estrictos.")
     while True:
-        consulta = input("Introduce tu consulta (o 'salir' para terminar): ")
-        
-        if consulta.lower() == "salir":
-            print("¡Hasta luego!")
-            break
-            
-        # Evitamos que pete si el usuario pulsa Enter sin escribir nada
-        if not consulta.strip():
-            continue
-            
-        respuesta = buscar_y_responder(consulta, df, id_index)
-        print("\n" + respuesta + "-" * 60 + "\n")
+        user_input = input("Que buscas?: ")
+        if user_input.lower() in ["salir", "exit"]: break
+        print(buscar_y_responder(user_input, df, index))
