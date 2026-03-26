@@ -6,13 +6,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 14.48,
+    "precio_total": 13.21,
     "valores_nutricionales_100_g": {
-      "Grasas": "5.0 g",
-      "Carbohidratos": "9.4 g",
-      "Proteinas": "18.9 g",
-      "Fibra": "5.5 g",
-      "Valor energetico": "399 kcal"
+      "Grasas": "12.0 g",
+      "Carbohidratos": "41.5 g",
+      "Proteinas": "15.6 g",
+      "Fibra": "6.8 g",
+      "Valor energetico": "53 kcal"
     }
   },
   {
@@ -22,13 +22,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 4.62,
+    "precio_total": 6.45,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.4 g",
-      "Carbohidratos": "42.4 g",
-      "Proteinas": "3.2 g",
-      "Fibra": "7.6 g",
-      "Valor energetico": "452 kcal"
+      "Grasas": "1.8 g",
+      "Carbohidratos": "8.9 g",
+      "Proteinas": "0.8 g",
+      "Fibra": "9.4 g",
+      "Valor energetico": "60 kcal"
     }
   },
   {
@@ -38,13 +38,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 1.12,
+    "precio_total": 9.19,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.0 g",
-      "Carbohidratos": "14.2 g",
-      "Proteinas": "9.5 g",
-      "Fibra": "6.8 g",
-      "Valor energetico": "211 kcal"
+      "Grasas": "23.6 g",
+      "Carbohidratos": "34.7 g",
+      "Proteinas": "11.4 g",
+      "Fibra": "5.9 g",
+      "Valor energetico": "491 kcal"
     }
   },
   {
@@ -54,13 +54,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 5.47,
+    "precio_total": 12.93,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.6 g",
-      "Carbohidratos": "7.8 g",
-      "Proteinas": "13.2 g",
-      "Fibra": "6.9 g",
-      "Valor energetico": "334 kcal"
+      "Grasas": "5.3 g",
+      "Carbohidratos": "25.9 g",
+      "Proteinas": "8.3 g",
+      "Fibra": "9.6 g",
+      "Valor energetico": "225 kcal"
     }
   },
   {
@@ -70,13 +70,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 7.13,
+    "precio_total": 14.33,
     "valores_nutricionales_100_g": {
-      "Grasas": "5.9 g",
-      "Carbohidratos": "57.9 g",
-      "Proteinas": "22.3 g",
-      "Fibra": "4.4 g",
-      "Valor energetico": "185 kcal"
+      "Grasas": "28.8 g",
+      "Carbohidratos": "12.2 g",
+      "Proteinas": "7.7 g",
+      "Fibra": "2.0 g",
+      "Valor energetico": "89 kcal"
     }
   },
   {
@@ -86,13 +86,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 9.19,
+    "precio_total": 13.4,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.2 g",
-      "Carbohidratos": "41.2 g",
-      "Proteinas": "24.1 g",
-      "Fibra": "3.8 g",
-      "Valor energetico": "146 kcal"
+      "Grasas": "16.4 g",
+      "Carbohidratos": "34.6 g",
+      "Proteinas": "3.5 g",
+      "Fibra": "7.8 g",
+      "Valor energetico": "380 kcal"
     }
   },
   {
@@ -102,13 +102,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 2.79,
+    "precio_total": 11.41,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.4 g",
-      "Carbohidratos": "57.3 g",
-      "Proteinas": "18.6 g",
-      "Fibra": "5.1 g",
-      "Valor energetico": "479 kcal"
+      "Grasas": "28.7 g",
+      "Carbohidratos": "35.9 g",
+      "Proteinas": "2.2 g",
+      "Fibra": "0.9 g",
+      "Valor energetico": "428 kcal"
     }
   },
   {
@@ -118,13 +118,29 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 6.2,
+    "precio_total": 9.99,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.3 g",
-      "Carbohidratos": "52.5 g",
-      "Proteinas": "4.7 g",
-      "Fibra": "2.9 g",
-      "Valor energetico": "391 kcal"
+      "Grasas": "27.3 g",
+      "Carbohidratos": "6.0 g",
+      "Proteinas": "24.6 g",
+      "Fibra": "3.7 g",
+      "Valor energetico": "468 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/frutas/manzanas-y-peras/p/11466",
+    "titulo": "Manzana roja dulce bolsa 1 Kg",
+    "descripcion": "Manzana roja dulce bolsa 1 Kg",
+    "categorias": [
+      "Frescos"
+    ],
+    "precio_total": 11.83,
+    "valores_nutricionales_100_g": {
+      "Grasas": "29.7 g",
+      "Carbohidratos": "12.5 g",
+      "Proteinas": "1.2 g",
+      "Fibra": "1.4 g",
+      "Valor energetico": "494 kcal"
     }
   },
   {
@@ -134,29 +150,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 7.88,
+    "precio_total": 10.43,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.1 g",
-      "Carbohidratos": "55.2 g",
-      "Proteinas": "17.7 g",
-      "Fibra": "1.1 g",
-      "Valor energetico": "387 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/frutas/manzanas-y-peras/p/32063",
-    "titulo": "Pera D.O.P. Rincon de soto granel 800 g aprox.",
-    "descripcion": "Pera D.O.P. Rincon de soto granel 800 g aprox.",
-    "categorias": [
-      "Frescos"
-    ],
-    "precio_total": 2.55,
-    "valores_nutricionales_100_g": {
-      "Grasas": "20.9 g",
-      "Carbohidratos": "9.6 g",
-      "Proteinas": "8.6 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "105 kcal"
+      "Grasas": "9.3 g",
+      "Carbohidratos": "3.7 g",
+      "Proteinas": "8.4 g",
+      "Fibra": "1.6 g",
+      "Valor energetico": "236 kcal"
     }
   },
   {
@@ -166,13 +166,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 10.47,
+    "precio_total": 8.5,
     "valores_nutricionales_100_g": {
-      "Grasas": "23.1 g",
-      "Carbohidratos": "34.0 g",
-      "Proteinas": "6.0 g",
-      "Fibra": "2.4 g",
-      "Valor energetico": "98 kcal"
+      "Grasas": "3.3 g",
+      "Carbohidratos": "8.5 g",
+      "Proteinas": "24.7 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "202 kcal"
     }
   },
   {
@@ -182,13 +182,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 5.61,
+    "precio_total": 8.65,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.2 g",
-      "Carbohidratos": "8.9 g",
-      "Proteinas": "23.2 g",
-      "Fibra": "8.2 g",
-      "Valor energetico": "283 kcal"
+      "Grasas": "10.4 g",
+      "Carbohidratos": "7.8 g",
+      "Proteinas": "3.1 g",
+      "Fibra": "5.0 g",
+      "Valor energetico": "85 kcal"
     }
   },
   {
@@ -198,13 +198,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 4.58,
+    "precio_total": 8.25,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.6 g",
-      "Carbohidratos": "15.9 g",
-      "Proteinas": "18.6 g",
-      "Fibra": "3.2 g",
-      "Valor energetico": "99 kcal"
+      "Grasas": "25.1 g",
+      "Carbohidratos": "14.7 g",
+      "Proteinas": "3.4 g",
+      "Fibra": "5.5 g",
+      "Valor energetico": "132 kcal"
     }
   },
   {
@@ -214,29 +214,29 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 1.32,
+    "precio_total": 11.94,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.5 g",
-      "Carbohidratos": "44.3 g",
-      "Proteinas": "14.3 g",
-      "Fibra": "8.5 g",
-      "Valor energetico": "290 kcal"
+      "Grasas": "22.4 g",
+      "Carbohidratos": "26.0 g",
+      "Proteinas": "7.1 g",
+      "Fibra": "0.0 g",
+      "Valor energetico": "386 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/206952",
-    "titulo": "Mandarina selección malla 750 g",
-    "descripcion": "Mandarina selección malla 750 g",
+    "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/84",
+    "titulo": "Mandarina granel 500 g aprox.",
+    "descripcion": "Mandarina granel 500 g aprox.",
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 9.09,
+    "precio_total": 11.54,
     "valores_nutricionales_100_g": {
-      "Grasas": "28.2 g",
-      "Carbohidratos": "8.4 g",
-      "Proteinas": "11.3 g",
-      "Fibra": "7.1 g",
-      "Valor energetico": "250 kcal"
+      "Grasas": "11.0 g",
+      "Carbohidratos": "54.2 g",
+      "Proteinas": "18.5 g",
+      "Fibra": "1.9 g",
+      "Valor energetico": "393 kcal"
     }
   },
   {
@@ -246,13 +246,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 6.32,
+    "precio_total": 3.54,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.8 g",
-      "Carbohidratos": "18.1 g",
-      "Proteinas": "0.1 g",
-      "Fibra": "3.7 g",
-      "Valor energetico": "280 kcal"
+      "Grasas": "11.0 g",
+      "Carbohidratos": "19.0 g",
+      "Proteinas": "10.9 g",
+      "Fibra": "3.4 g",
+      "Valor energetico": "74 kcal"
     }
   },
   {
@@ -262,13 +262,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 1.64,
+    "precio_total": 10.33,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.7 g",
-      "Carbohidratos": "15.2 g",
-      "Proteinas": "14.7 g",
-      "Fibra": "1.4 g",
-      "Valor energetico": "243 kcal"
+      "Grasas": "2.6 g",
+      "Carbohidratos": "18.5 g",
+      "Proteinas": "1.4 g",
+      "Fibra": "5.3 g",
+      "Valor energetico": "56 kcal"
     }
   },
   {
@@ -278,13 +278,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 3.27,
+    "precio_total": 3.8,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.1 g",
+      "Grasas": "15.5 g",
       "Carbohidratos": "42.7 g",
-      "Proteinas": "4.8 g",
-      "Fibra": "5.7 g",
-      "Valor energetico": "305 kcal"
+      "Proteinas": "23.7 g",
+      "Fibra": "4.7 g",
+      "Valor energetico": "135 kcal"
     }
   },
   {
@@ -294,13 +294,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 2.59,
+    "precio_total": 8.93,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.3 g",
-      "Carbohidratos": "19.5 g",
-      "Proteinas": "11.1 g",
-      "Fibra": "0.7 g",
-      "Valor energetico": "312 kcal"
+      "Grasas": "6.7 g",
+      "Carbohidratos": "15.3 g",
+      "Proteinas": "19.2 g",
+      "Fibra": "8.9 g",
+      "Valor energetico": "484 kcal"
     }
   },
   {
@@ -310,13 +310,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 3.92,
+    "precio_total": 9.42,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.7 g",
-      "Carbohidratos": "52.8 g",
-      "Proteinas": "8.7 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "115 kcal"
+      "Grasas": "4.8 g",
+      "Carbohidratos": "53.6 g",
+      "Proteinas": "14.7 g",
+      "Fibra": "9.3 g",
+      "Valor energetico": "98 kcal"
     }
   },
   {
@@ -326,13 +326,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 2.1,
+    "precio_total": 3.86,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.7 g",
-      "Carbohidratos": "50.2 g",
-      "Proteinas": "12.0 g",
-      "Fibra": "9.9 g",
-      "Valor energetico": "149 kcal"
+      "Grasas": "27.0 g",
+      "Carbohidratos": "57.0 g",
+      "Proteinas": "10.8 g",
+      "Fibra": "0.5 g",
+      "Valor energetico": "156 kcal"
     }
   },
   {
@@ -342,13 +342,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 6.07,
+    "precio_total": 9.88,
     "valores_nutricionales_100_g": {
-      "Grasas": "5.4 g",
-      "Carbohidratos": "22.3 g",
-      "Proteinas": "9.1 g",
-      "Fibra": "6.1 g",
-      "Valor energetico": "54 kcal"
+      "Grasas": "10.5 g",
+      "Carbohidratos": "32.5 g",
+      "Proteinas": "16.8 g",
+      "Fibra": "2.5 g",
+      "Valor energetico": "346 kcal"
     }
   },
   {
@@ -358,13 +358,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 6.03,
+    "precio_total": 14.42,
     "valores_nutricionales_100_g": {
-      "Grasas": "23.3 g",
-      "Carbohidratos": "11.6 g",
-      "Proteinas": "3.4 g",
-      "Fibra": "2.3 g",
-      "Valor energetico": "142 kcal"
+      "Grasas": "26.9 g",
+      "Carbohidratos": "34.9 g",
+      "Proteinas": "6.2 g",
+      "Fibra": "1.2 g",
+      "Valor energetico": "367 kcal"
     }
   },
   {
@@ -374,13 +374,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 14.03,
+    "precio_total": 7.61,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.6 g",
-      "Carbohidratos": "36.9 g",
-      "Proteinas": "0.9 g",
-      "Fibra": "3.8 g",
-      "Valor energetico": "385 kcal"
+      "Grasas": "8.3 g",
+      "Carbohidratos": "59.6 g",
+      "Proteinas": "12.4 g",
+      "Fibra": "1.8 g",
+      "Valor energetico": "202 kcal"
     }
   },
   {
@@ -390,13 +390,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 12.6,
+    "precio_total": 2.68,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.0 g",
-      "Carbohidratos": "55.5 g",
-      "Proteinas": "15.3 g",
-      "Fibra": "1.5 g",
-      "Valor energetico": "405 kcal"
+      "Grasas": "2.8 g",
+      "Carbohidratos": "21.4 g",
+      "Proteinas": "14.4 g",
+      "Fibra": "8.7 g",
+      "Valor energetico": "304 kcal"
     }
   },
   {
@@ -406,29 +406,29 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 9.59,
+    "precio_total": 12.63,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.2 g",
-      "Carbohidratos": "2.9 g",
-      "Proteinas": "24.3 g",
-      "Fibra": "8.2 g",
-      "Valor energetico": "125 kcal"
+      "Grasas": "14.2 g",
+      "Carbohidratos": "42.8 g",
+      "Proteinas": "21.0 g",
+      "Fibra": "6.4 g",
+      "Valor energetico": "435 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/frutas/frutas-tropicales/p/237458",
-    "titulo": "Kiwi amarillo Zespri bandeja 500 g",
-    "descripcion": "Kiwi amarillo Zespri bandeja 500 g",
+    "url": "https://www.dia.es/frutas/frutas-tropicales/p/289184",
+    "titulo": "Pulpa de aguacate Dia Al Punto tarrina 125 g",
+    "descripcion": "Pulpa de aguacate Dia Al Punto tarrina 125 g",
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 2.8,
+    "precio_total": 12.33,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.5 g",
-      "Carbohidratos": "40.3 g",
-      "Proteinas": "9.8 g",
-      "Fibra": "5.9 g",
-      "Valor energetico": "487 kcal"
+      "Grasas": "13.8 g",
+      "Carbohidratos": "33.3 g",
+      "Proteinas": "2.4 g",
+      "Fibra": "8.2 g",
+      "Valor energetico": "237 kcal"
     }
   },
   {
@@ -438,13 +438,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 8.99,
+    "precio_total": 11.18,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.4 g",
-      "Carbohidratos": "23.1 g",
-      "Proteinas": "24.5 g",
-      "Fibra": "0.8 g",
-      "Valor energetico": "443 kcal"
+      "Grasas": "3.8 g",
+      "Carbohidratos": "41.6 g",
+      "Proteinas": "13.5 g",
+      "Fibra": "5.2 g",
+      "Valor energetico": "491 kcal"
     }
   },
   {
@@ -454,13 +454,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 6.81,
+    "precio_total": 2.19,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.1 g",
-      "Carbohidratos": "46.8 g",
-      "Proteinas": "14.7 g",
-      "Fibra": "3.7 g",
-      "Valor energetico": "313 kcal"
+      "Grasas": "13.7 g",
+      "Carbohidratos": "9.0 g",
+      "Proteinas": "18.8 g",
+      "Fibra": "7.2 g",
+      "Valor energetico": "329 kcal"
     }
   },
   {
@@ -470,13 +470,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 7.22,
+    "precio_total": 11.35,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.7 g",
-      "Carbohidratos": "34.7 g",
-      "Proteinas": "17.9 g",
-      "Fibra": "6.2 g",
-      "Valor energetico": "352 kcal"
+      "Grasas": "17.9 g",
+      "Carbohidratos": "39.6 g",
+      "Proteinas": "23.4 g",
+      "Fibra": "1.6 g",
+      "Valor energetico": "206 kcal"
     }
   },
   {
@@ -486,29 +486,29 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 12.86,
+    "precio_total": 1.49,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.9 g",
-      "Carbohidratos": "38.7 g",
-      "Proteinas": "16.8 g",
-      "Fibra": "7.6 g",
-      "Valor energetico": "422 kcal"
+      "Grasas": "2.2 g",
+      "Carbohidratos": "56.6 g",
+      "Proteinas": "3.6 g",
+      "Fibra": "2.1 g",
+      "Valor energetico": "336 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/frutas/frutos-rojos-y-del-bosque/p/133913",
-    "titulo": "Frambuesas bandeja 125 g",
-    "descripcion": "Frambuesas bandeja 125 g",
+    "url": "https://www.dia.es/frutas/frutos-rojos-y-del-bosque/p/285489",
+    "titulo": "Arándanos bandeja 300 g",
+    "descripcion": "Arándanos bandeja 300 g",
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 14.76,
+    "precio_total": 7.15,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.7 g",
-      "Carbohidratos": "0.2 g",
-      "Proteinas": "24.5 g",
-      "Fibra": "3.1 g",
-      "Valor energetico": "414 kcal"
+      "Grasas": "1.9 g",
+      "Carbohidratos": "30.0 g",
+      "Proteinas": "15.4 g",
+      "Fibra": "9.5 g",
+      "Valor energetico": "316 kcal"
     }
   },
   {
@@ -518,13 +518,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 4.47,
+    "precio_total": 10.68,
     "valores_nutricionales_100_g": {
-      "Grasas": "7.7 g",
-      "Carbohidratos": "28.0 g",
-      "Proteinas": "7.4 g",
-      "Fibra": "8.7 g",
-      "Valor energetico": "289 kcal"
+      "Grasas": "3.5 g",
+      "Carbohidratos": "19.2 g",
+      "Proteinas": "16.7 g",
+      "Fibra": "9.0 g",
+      "Valor energetico": "412 kcal"
     }
   },
   {
@@ -534,29 +534,13 @@
     "categorias": [
       "Frescos"
     ],
-    "precio_total": 5.55,
+    "precio_total": 3.49,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.7 g",
-      "Carbohidratos": "43.9 g",
-      "Proteinas": "24.0 g",
-      "Fibra": "6.1 g",
-      "Valor energetico": "295 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/273810",
-    "titulo": "Pechuga de pavo Dia Nuestra Alacena 2 x 200 g",
-    "descripcion": "Pechuga de pavo Dia Nuestra Alacena 2 x 200 g",
-    "categorias": [
-      "Charcuteria"
-    ],
-    "precio_total": 8.11,
-    "valores_nutricionales_100_g": {
-      "Grasas": "14.7 g",
-      "Carbohidratos": "0.2 g",
-      "Proteinas": "1.0 g",
-      "Fibra": "4.6 g",
-      "Valor energetico": "425 kcal"
+      "Grasas": "3.7 g",
+      "Carbohidratos": "54.1 g",
+      "Proteinas": "21.6 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "398 kcal"
     }
   },
   {
@@ -566,13 +550,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 8.6,
+    "precio_total": 13.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.6 g",
-      "Carbohidratos": "33.4 g",
-      "Proteinas": "23.3 g",
-      "Fibra": "5.4 g",
-      "Valor energetico": "251 kcal"
+      "Grasas": "0.1 g",
+      "Carbohidratos": "54.7 g",
+      "Proteinas": "20.6 g",
+      "Fibra": "4.7 g",
+      "Valor energetico": "382 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/273810",
+    "titulo": "Pechuga de pavo Dia Nuestra Alacena 2 x 200 g",
+    "descripcion": "Pechuga de pavo Dia Nuestra Alacena 2 x 200 g",
+    "categorias": [
+      "Charcuteria"
+    ],
+    "precio_total": 5.51,
+    "valores_nutricionales_100_g": {
+      "Grasas": "17.1 g",
+      "Carbohidratos": "53.5 g",
+      "Proteinas": "20.2 g",
+      "Fibra": "0.2 g",
+      "Valor energetico": "148 kcal"
     }
   },
   {
@@ -582,13 +582,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 7.45,
+    "precio_total": 13.79,
     "valores_nutricionales_100_g": {
-      "Grasas": "7.1 g",
-      "Carbohidratos": "31.4 g",
-      "Proteinas": "6.1 g",
-      "Fibra": "0.1 g",
-      "Valor energetico": "160 kcal"
+      "Grasas": "10.0 g",
+      "Carbohidratos": "52.2 g",
+      "Proteinas": "12.1 g",
+      "Fibra": "4.8 g",
+      "Valor energetico": "237 kcal"
     }
   },
   {
@@ -598,13 +598,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 3.45,
+    "precio_total": 8.7,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.6 g",
-      "Carbohidratos": "24.7 g",
-      "Proteinas": "23.0 g",
-      "Fibra": "6.0 g",
-      "Valor energetico": "334 kcal"
+      "Grasas": "3.0 g",
+      "Carbohidratos": "36.0 g",
+      "Proteinas": "23.5 g",
+      "Fibra": "8.2 g",
+      "Valor energetico": "408 kcal"
     }
   },
   {
@@ -614,13 +614,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.93,
+    "precio_total": 3.82,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.8 g",
-      "Carbohidratos": "53.7 g",
-      "Proteinas": "15.6 g",
-      "Fibra": "8.6 g",
-      "Valor energetico": "66 kcal"
+      "Grasas": "29.7 g",
+      "Carbohidratos": "55.5 g",
+      "Proteinas": "5.0 g",
+      "Fibra": "1.9 g",
+      "Valor energetico": "202 kcal"
     }
   },
   {
@@ -630,13 +630,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 1.09,
+    "precio_total": 4.8,
     "valores_nutricionales_100_g": {
-      "Grasas": "29.9 g",
-      "Carbohidratos": "30.3 g",
-      "Proteinas": "0.4 g",
-      "Fibra": "2.0 g",
-      "Valor energetico": "473 kcal"
+      "Grasas": "24.1 g",
+      "Carbohidratos": "39.5 g",
+      "Proteinas": "10.8 g",
+      "Fibra": "4.1 g",
+      "Valor energetico": "437 kcal"
     }
   },
   {
@@ -646,13 +646,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 13.14,
+    "precio_total": 13.64,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.8 g",
-      "Carbohidratos": "51.9 g",
-      "Proteinas": "2.3 g",
-      "Fibra": "1.5 g",
-      "Valor energetico": "325 kcal"
+      "Grasas": "19.0 g",
+      "Carbohidratos": "36.7 g",
+      "Proteinas": "7.2 g",
+      "Fibra": "8.7 g",
+      "Valor energetico": "228 kcal"
     }
   },
   {
@@ -662,29 +662,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 4.05,
+    "precio_total": 4.06,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.1 g",
-      "Carbohidratos": "22.3 g",
-      "Proteinas": "8.4 g",
-      "Fibra": "7.9 g",
-      "Valor energetico": "55 kcal"
+      "Grasas": "1.1 g",
+      "Carbohidratos": "27.5 g",
+      "Proteinas": "17.0 g",
+      "Fibra": "9.0 g",
+      "Valor energetico": "401 kcal"
     }
   },
   {
     "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/307223",
-    "titulo": "Jamón curado gran reserva 50% Duroc Dia Nuestra Alacena 90 g",
-    "descripcion": "Jamón curado gran reserva 50% Duroc Dia Nuestra Alacena 90 g",
+    "titulo": "Jamón serrano 50% Duroc Dia Nuestra Alacena 90 g",
+    "descripcion": "Jamón serrano 50% Duroc Dia Nuestra Alacena 90 g",
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 6.26,
+    "precio_total": 2.51,
     "valores_nutricionales_100_g": {
-      "Grasas": "29.5 g",
-      "Carbohidratos": "41.1 g",
-      "Proteinas": "5.7 g",
-      "Fibra": "7.0 g",
-      "Valor energetico": "291 kcal"
+      "Grasas": "22.1 g",
+      "Carbohidratos": "47.7 g",
+      "Proteinas": "19.8 g",
+      "Fibra": "7.4 g",
+      "Valor energetico": "472 kcal"
     }
   },
   {
@@ -694,13 +694,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 2.75,
+    "precio_total": 4.66,
     "valores_nutricionales_100_g": {
-      "Grasas": "1.4 g",
-      "Carbohidratos": "18.1 g",
-      "Proteinas": "17.9 g",
-      "Fibra": "3.5 g",
-      "Valor energetico": "75 kcal"
+      "Grasas": "1.1 g",
+      "Carbohidratos": "59.7 g",
+      "Proteinas": "15.6 g",
+      "Fibra": "8.8 g",
+      "Valor energetico": "262 kcal"
     }
   },
   {
@@ -710,13 +710,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 7.64,
+    "precio_total": 9.92,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.9 g",
-      "Carbohidratos": "40.2 g",
-      "Proteinas": "12.3 g",
-      "Fibra": "2.4 g",
-      "Valor energetico": "487 kcal"
+      "Grasas": "12.3 g",
+      "Carbohidratos": "27.8 g",
+      "Proteinas": "6.1 g",
+      "Fibra": "2.7 g",
+      "Valor energetico": "86 kcal"
     }
   },
   {
@@ -726,13 +726,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 1.63,
+    "precio_total": 2.54,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.2 g",
-      "Carbohidratos": "30.3 g",
-      "Proteinas": "1.4 g",
-      "Fibra": "0.8 g",
-      "Valor energetico": "392 kcal"
+      "Grasas": "14.5 g",
+      "Carbohidratos": "25.5 g",
+      "Proteinas": "6.2 g",
+      "Fibra": "9.0 g",
+      "Valor energetico": "394 kcal"
     }
   },
   {
@@ -742,13 +742,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 11.21,
+    "precio_total": 12.37,
     "valores_nutricionales_100_g": {
-      "Grasas": "21.6 g",
-      "Carbohidratos": "4.2 g",
-      "Proteinas": "5.1 g",
-      "Fibra": "4.9 g",
-      "Valor energetico": "252 kcal"
+      "Grasas": "5.1 g",
+      "Carbohidratos": "33.3 g",
+      "Proteinas": "19.0 g",
+      "Fibra": "0.4 g",
+      "Valor energetico": "297 kcal"
     }
   },
   {
@@ -758,13 +758,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.61,
+    "precio_total": 9.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "1.7 g",
-      "Carbohidratos": "0.4 g",
-      "Proteinas": "0.9 g",
-      "Fibra": "1.3 g",
-      "Valor energetico": "160 kcal"
+      "Grasas": "9.3 g",
+      "Carbohidratos": "38.7 g",
+      "Proteinas": "19.9 g",
+      "Fibra": "5.8 g",
+      "Valor energetico": "255 kcal"
     }
   },
   {
@@ -774,13 +774,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 4.48,
+    "precio_total": 6.11,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.7 g",
-      "Carbohidratos": "59.2 g",
-      "Proteinas": "12.0 g",
-      "Fibra": "3.1 g",
-      "Valor energetico": "294 kcal"
+      "Grasas": "20.3 g",
+      "Carbohidratos": "16.6 g",
+      "Proteinas": "3.6 g",
+      "Fibra": "5.1 g",
+      "Valor energetico": "382 kcal"
     }
   },
   {
@@ -790,13 +790,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 6.99,
+    "precio_total": 10.13,
     "valores_nutricionales_100_g": {
-      "Grasas": "5.6 g",
-      "Carbohidratos": "45.9 g",
-      "Proteinas": "11.5 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "386 kcal"
+      "Grasas": "11.2 g",
+      "Carbohidratos": "40.6 g",
+      "Proteinas": "20.7 g",
+      "Fibra": "9.6 g",
+      "Valor energetico": "76 kcal"
     }
   },
   {
@@ -806,13 +806,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.14,
+    "precio_total": 5.4,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.6 g",
-      "Carbohidratos": "38.6 g",
-      "Proteinas": "22.5 g",
-      "Fibra": "3.1 g",
-      "Valor energetico": "96 kcal"
+      "Grasas": "27.8 g",
+      "Carbohidratos": "60.0 g",
+      "Proteinas": "20.9 g",
+      "Fibra": "9.5 g",
+      "Valor energetico": "52 kcal"
     }
   },
   {
@@ -822,13 +822,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 14.33,
+    "precio_total": 12.67,
     "valores_nutricionales_100_g": {
-      "Grasas": "28.6 g",
-      "Carbohidratos": "3.5 g",
-      "Proteinas": "8.2 g",
-      "Fibra": "5.7 g",
-      "Valor energetico": "367 kcal"
+      "Grasas": "17.2 g",
+      "Carbohidratos": "58.9 g",
+      "Proteinas": "0.6 g",
+      "Fibra": "5.4 g",
+      "Valor energetico": "286 kcal"
     }
   },
   {
@@ -838,13 +838,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 4.05,
+    "precio_total": 11.12,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.3 g",
-      "Carbohidratos": "21.4 g",
-      "Proteinas": "11.7 g",
-      "Fibra": "7.8 g",
-      "Valor energetico": "268 kcal"
+      "Grasas": "15.0 g",
+      "Carbohidratos": "16.9 g",
+      "Proteinas": "20.2 g",
+      "Fibra": "7.4 g",
+      "Valor energetico": "363 kcal"
     }
   },
   {
@@ -854,13 +854,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 13.06,
+    "precio_total": 11.97,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.9 g",
-      "Carbohidratos": "55.5 g",
-      "Proteinas": "8.0 g",
-      "Fibra": "6.9 g",
-      "Valor energetico": "296 kcal"
+      "Grasas": "26.2 g",
+      "Carbohidratos": "6.8 g",
+      "Proteinas": "20.3 g",
+      "Fibra": "4.2 g",
+      "Valor energetico": "211 kcal"
     }
   },
   {
@@ -870,13 +870,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 10.57,
+    "precio_total": 1.73,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.8 g",
-      "Carbohidratos": "58.1 g",
-      "Proteinas": "7.2 g",
-      "Fibra": "6.8 g",
-      "Valor energetico": "349 kcal"
+      "Grasas": "14.7 g",
+      "Carbohidratos": "45.2 g",
+      "Proteinas": "12.4 g",
+      "Fibra": "6.4 g",
+      "Valor energetico": "351 kcal"
     }
   },
   {
@@ -886,13 +886,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 7.46,
+    "precio_total": 9.5,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.1 g",
-      "Carbohidratos": "42.6 g",
-      "Proteinas": "17.2 g",
-      "Fibra": "1.6 g",
-      "Valor energetico": "262 kcal"
+      "Grasas": "1.8 g",
+      "Carbohidratos": "0.4 g",
+      "Proteinas": "23.8 g",
+      "Fibra": "3.3 g",
+      "Valor energetico": "431 kcal"
     }
   },
   {
@@ -902,13 +902,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 7.19,
+    "precio_total": 6.52,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.9 g",
-      "Carbohidratos": "55.6 g",
-      "Proteinas": "8.5 g",
-      "Fibra": "3.4 g",
-      "Valor energetico": "299 kcal"
+      "Grasas": "23.7 g",
+      "Carbohidratos": "38.3 g",
+      "Proteinas": "4.0 g",
+      "Fibra": "6.8 g",
+      "Valor energetico": "96 kcal"
     }
   },
   {
@@ -918,13 +918,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 14.72,
+    "precio_total": 3.57,
     "valores_nutricionales_100_g": {
-      "Grasas": "5.2 g",
-      "Carbohidratos": "46.7 g",
-      "Proteinas": "23.3 g",
-      "Fibra": "4.3 g",
-      "Valor energetico": "183 kcal"
+      "Grasas": "19.8 g",
+      "Carbohidratos": "10.5 g",
+      "Proteinas": "19.6 g",
+      "Fibra": "2.5 g",
+      "Valor energetico": "184 kcal"
     }
   },
   {
@@ -934,13 +934,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.45,
+    "precio_total": 3.1,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.2 g",
-      "Carbohidratos": "5.0 g",
-      "Proteinas": "2.4 g",
-      "Fibra": "9.0 g",
-      "Valor energetico": "366 kcal"
+      "Grasas": "3.4 g",
+      "Carbohidratos": "11.6 g",
+      "Proteinas": "12.3 g",
+      "Fibra": "0.4 g",
+      "Valor energetico": "63 kcal"
     }
   },
   {
@@ -950,13 +950,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 8.63,
+    "precio_total": 3.86,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.4 g",
-      "Carbohidratos": "41.2 g",
-      "Proteinas": "14.4 g",
-      "Fibra": "0.1 g",
-      "Valor energetico": "181 kcal"
+      "Grasas": "19.2 g",
+      "Carbohidratos": "8.8 g",
+      "Proteinas": "7.1 g",
+      "Fibra": "9.2 g",
+      "Valor energetico": "169 kcal"
     }
   },
   {
@@ -966,13 +966,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 7.78,
+    "precio_total": 10.27,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.0 g",
-      "Carbohidratos": "52.7 g",
-      "Proteinas": "14.1 g",
-      "Fibra": "1.2 g",
-      "Valor energetico": "410 kcal"
+      "Grasas": "11.9 g",
+      "Carbohidratos": "0.4 g",
+      "Proteinas": "18.4 g",
+      "Fibra": "5.7 g",
+      "Valor energetico": "477 kcal"
     }
   },
   {
@@ -982,29 +982,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 10.21,
+    "precio_total": 14.1,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.9 g",
-      "Carbohidratos": "3.6 g",
-      "Proteinas": "1.3 g",
-      "Fibra": "0.9 g",
-      "Valor energetico": "345 kcal"
+      "Grasas": "16.2 g",
+      "Carbohidratos": "39.0 g",
+      "Proteinas": "21.2 g",
+      "Fibra": "7.2 g",
+      "Valor energetico": "191 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/307381",
-    "titulo": "Paté de sardinas Dia Nuestra Alacena 110 g",
-    "descripcion": "Paté de sardinas Dia Nuestra Alacena 110 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/307382",
+    "titulo": "Paté olivada Dia Nuestra Alacena 135 g",
+    "descripcion": "Paté olivada Dia Nuestra Alacena 135 g",
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 2.61,
+    "precio_total": 4.02,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.3 g",
-      "Carbohidratos": "16.3 g",
-      "Proteinas": "14.6 g",
-      "Fibra": "1.9 g",
-      "Valor energetico": "202 kcal"
+      "Grasas": "21.3 g",
+      "Carbohidratos": "19.6 g",
+      "Proteinas": "7.2 g",
+      "Fibra": "1.8 g",
+      "Valor energetico": "278 kcal"
     }
   },
   {
@@ -1014,13 +1014,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 14.76,
+    "precio_total": 5.13,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.0 g",
-      "Carbohidratos": "27.2 g",
-      "Proteinas": "4.4 g",
-      "Fibra": "8.4 g",
-      "Valor energetico": "287 kcal"
+      "Grasas": "9.6 g",
+      "Carbohidratos": "57.9 g",
+      "Proteinas": "14.7 g",
+      "Fibra": "9.2 g",
+      "Valor energetico": "173 kcal"
     }
   },
   {
@@ -1030,13 +1030,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 12.67,
+    "precio_total": 9.56,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.5 g",
-      "Carbohidratos": "35.7 g",
-      "Proteinas": "10.5 g",
-      "Fibra": "9.2 g",
-      "Valor energetico": "210 kcal"
+      "Grasas": "23.3 g",
+      "Carbohidratos": "18.0 g",
+      "Proteinas": "23.1 g",
+      "Fibra": "0.2 g",
+      "Valor energetico": "227 kcal"
     }
   },
   {
@@ -1046,13 +1046,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 13.14,
+    "precio_total": 14.13,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.5 g",
-      "Carbohidratos": "43.9 g",
-      "Proteinas": "2.3 g",
-      "Fibra": "9.9 g",
-      "Valor energetico": "445 kcal"
+      "Grasas": "25.7 g",
+      "Carbohidratos": "14.7 g",
+      "Proteinas": "15.6 g",
+      "Fibra": "0.1 g",
+      "Valor energetico": "303 kcal"
     }
   },
   {
@@ -1062,13 +1062,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 13.38,
+    "precio_total": 1.45,
     "valores_nutricionales_100_g": {
-      "Grasas": "7.6 g",
-      "Carbohidratos": "5.4 g",
-      "Proteinas": "22.7 g",
-      "Fibra": "5.9 g",
-      "Valor energetico": "485 kcal"
+      "Grasas": "19.9 g",
+      "Carbohidratos": "34.8 g",
+      "Proteinas": "2.2 g",
+      "Fibra": "8.7 g",
+      "Valor energetico": "394 kcal"
     }
   },
   {
@@ -1078,29 +1078,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 6.63,
+    "precio_total": 5.36,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.1 g",
-      "Carbohidratos": "28.0 g",
-      "Proteinas": "12.0 g",
-      "Fibra": "7.5 g",
-      "Valor energetico": "385 kcal"
+      "Grasas": "4.0 g",
+      "Carbohidratos": "45.4 g",
+      "Proteinas": "13.3 g",
+      "Fibra": "5.8 g",
+      "Valor energetico": "414 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/queso-azul-roquefort-y-cabra/p/120966",
-    "titulo": "Rulo de queso de cabra Dia Láctea 140 g",
-    "descripcion": "Rulo de queso de cabra Dia Láctea 140 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/263674",
+    "titulo": "Queso semicurado cortado Dia El Cencerro 250 g",
+    "descripcion": "Queso semicurado cortado Dia El Cencerro 250 g",
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 8.33,
+    "precio_total": 12.53,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.1 g",
-      "Carbohidratos": "25.5 g",
-      "Proteinas": "7.2 g",
-      "Fibra": "6.9 g",
-      "Valor energetico": "50 kcal"
+      "Grasas": "0.6 g",
+      "Carbohidratos": "41.5 g",
+      "Proteinas": "2.4 g",
+      "Fibra": "6.3 g",
+      "Valor energetico": "105 kcal"
     }
   },
   {
@@ -1110,13 +1110,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 6.52,
+    "precio_total": 12.23,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.4 g",
-      "Carbohidratos": "20.6 g",
-      "Proteinas": "11.9 g",
-      "Fibra": "8.6 g",
-      "Valor energetico": "349 kcal"
+      "Grasas": "27.1 g",
+      "Carbohidratos": "54.9 g",
+      "Proteinas": "4.3 g",
+      "Fibra": "3.0 g",
+      "Valor energetico": "114 kcal"
     }
   },
   {
@@ -1126,13 +1126,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 9.75,
+    "precio_total": 5.36,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.0 g",
-      "Carbohidratos": "43.6 g",
-      "Proteinas": "2.5 g",
-      "Fibra": "5.9 g",
-      "Valor energetico": "485 kcal"
+      "Grasas": "22.9 g",
+      "Carbohidratos": "38.7 g",
+      "Proteinas": "24.4 g",
+      "Fibra": "0.7 g",
+      "Valor energetico": "267 kcal"
     }
   },
   {
@@ -1142,12 +1142,12 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 11.42,
+    "precio_total": 13.21,
     "valores_nutricionales_100_g": {
-      "Grasas": "16.1 g",
-      "Carbohidratos": "59.9 g",
-      "Proteinas": "22.0 g",
-      "Fibra": "5.2 g",
+      "Grasas": "22.0 g",
+      "Carbohidratos": "18.0 g",
+      "Proteinas": "24.8 g",
+      "Fibra": "6.2 g",
       "Valor energetico": "66 kcal"
     }
   },
@@ -1158,13 +1158,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 11.71,
+    "precio_total": 12.56,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.4 g",
-      "Carbohidratos": "57.5 g",
-      "Proteinas": "13.0 g",
-      "Fibra": "1.4 g",
-      "Valor energetico": "488 kcal"
+      "Grasas": "1.4 g",
+      "Carbohidratos": "56.0 g",
+      "Proteinas": "21.7 g",
+      "Fibra": "8.4 g",
+      "Valor energetico": "439 kcal"
     }
   },
   {
@@ -1174,12 +1174,12 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 14.68,
+    "precio_total": 1.07,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.4 g",
-      "Carbohidratos": "9.5 g",
-      "Proteinas": "5.6 g",
-      "Fibra": "1.8 g",
+      "Grasas": "0.6 g",
+      "Carbohidratos": "13.7 g",
+      "Proteinas": "1.4 g",
+      "Fibra": "5.2 g",
       "Valor energetico": "449 kcal"
     }
   },
@@ -1190,13 +1190,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 4.9,
+    "precio_total": 12.08,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.1 g",
-      "Carbohidratos": "15.3 g",
-      "Proteinas": "12.1 g",
-      "Fibra": "9.3 g",
-      "Valor energetico": "317 kcal"
+      "Grasas": "2.0 g",
+      "Carbohidratos": "30.1 g",
+      "Proteinas": "21.1 g",
+      "Fibra": "2.8 g",
+      "Valor energetico": "431 kcal"
     }
   },
   {
@@ -1206,29 +1206,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 14.18,
+    "precio_total": 3.71,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.2 g",
-      "Carbohidratos": "56.4 g",
-      "Proteinas": "24.7 g",
-      "Fibra": "2.8 g",
-      "Valor energetico": "111 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/120200",
-    "titulo": "Crema de queso camembert Dia Láctea 125 g",
-    "descripcion": "Crema de queso camembert Dia Láctea 125 g",
-    "categorias": [
-      "Charcuteria"
-    ],
-    "precio_total": 14.82,
-    "valores_nutricionales_100_g": {
-      "Grasas": "11.0 g",
-      "Carbohidratos": "42.2 g",
-      "Proteinas": "18.5 g",
-      "Fibra": "0.1 g",
-      "Valor energetico": "126 kcal"
+      "Grasas": "18.2 g",
+      "Carbohidratos": "38.2 g",
+      "Proteinas": "6.3 g",
+      "Fibra": "1.2 g",
+      "Valor energetico": "479 kcal"
     }
   },
   {
@@ -1238,29 +1222,45 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 11.06,
+    "precio_total": 1.13,
     "valores_nutricionales_100_g": {
-      "Grasas": "7.0 g",
-      "Carbohidratos": "32.5 g",
-      "Proteinas": "24.8 g",
-      "Fibra": "9.7 g",
-      "Valor energetico": "358 kcal"
+      "Grasas": "0.7 g",
+      "Carbohidratos": "9.2 g",
+      "Proteinas": "11.6 g",
+      "Fibra": "3.4 g",
+      "Valor energetico": "456 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/296013",
-    "titulo": "Crema de queso semicurado Dia Láctea 125 g",
-    "descripcion": "Crema de queso semicurado Dia Láctea 125 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/120200",
+    "titulo": "Crema de queso camembert Dia Láctea 125 g",
+    "descripcion": "Crema de queso camembert Dia Láctea 125 g",
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 12.38,
+    "precio_total": 9.32,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.1 g",
-      "Carbohidratos": "37.5 g",
-      "Proteinas": "15.2 g",
-      "Fibra": "9.0 g",
-      "Valor energetico": "419 kcal"
+      "Grasas": "9.8 g",
+      "Carbohidratos": "15.0 g",
+      "Proteinas": "22.8 g",
+      "Fibra": "7.3 g",
+      "Valor energetico": "354 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/296054",
+    "titulo": "Crema de queso de cabra Dia Láctea 125 g",
+    "descripcion": "Crema de queso de cabra Dia Láctea 125 g",
+    "categorias": [
+      "Charcuteria"
+    ],
+    "precio_total": 2.19,
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.4 g",
+      "Carbohidratos": "21.5 g",
+      "Proteinas": "24.9 g",
+      "Fibra": "1.3 g",
+      "Valor energetico": "398 kcal"
     }
   },
   {
@@ -1270,13 +1270,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 1.15,
+    "precio_total": 12.23,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.7 g",
-      "Carbohidratos": "13.6 g",
-      "Proteinas": "5.0 g",
-      "Fibra": "8.2 g",
-      "Valor energetico": "74 kcal"
+      "Grasas": "22.2 g",
+      "Carbohidratos": "6.9 g",
+      "Proteinas": "24.8 g",
+      "Fibra": "1.3 g",
+      "Valor energetico": "395 kcal"
     }
   },
   {
@@ -1286,13 +1286,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 9.04,
+    "precio_total": 12.33,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.8 g",
-      "Carbohidratos": "0.9 g",
-      "Proteinas": "10.4 g",
-      "Fibra": "5.2 g",
-      "Valor energetico": "352 kcal"
+      "Grasas": "24.7 g",
+      "Carbohidratos": "46.5 g",
+      "Proteinas": "20.9 g",
+      "Fibra": "9.2 g",
+      "Valor energetico": "200 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/303551",
+    "titulo": "Queso fresco de Burgos Dia Láctea 250 g",
+    "descripcion": "Queso fresco de Burgos Dia Láctea 250 g",
+    "categorias": [
+      "Charcuteria"
+    ],
+    "precio_total": 14.86,
+    "valores_nutricionales_100_g": {
+      "Grasas": "24.8 g",
+      "Carbohidratos": "59.8 g",
+      "Proteinas": "5.6 g",
+      "Fibra": "9.6 g",
+      "Valor energetico": "334 kcal"
     }
   },
   {
@@ -1302,29 +1318,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 2.31,
+    "precio_total": 9.1,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.1 g",
-      "Carbohidratos": "21.5 g",
-      "Proteinas": "20.9 g",
-      "Fibra": "9.0 g",
-      "Valor energetico": "306 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/265592",
-    "titulo": "Queso fresco de cabra Dia El Cencerro 250 g",
-    "descripcion": "Queso fresco de cabra Dia El Cencerro 250 g",
-    "categorias": [
-      "Charcuteria"
-    ],
-    "precio_total": 5.02,
-    "valores_nutricionales_100_g": {
-      "Grasas": "27.5 g",
-      "Carbohidratos": "17.9 g",
-      "Proteinas": "11.9 g",
-      "Fibra": "0.0 g",
-      "Valor energetico": "377 kcal"
+      "Grasas": "18.1 g",
+      "Carbohidratos": "38.7 g",
+      "Proteinas": "5.9 g",
+      "Fibra": "3.9 g",
+      "Valor energetico": "56 kcal"
     }
   },
   {
@@ -1334,13 +1334,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.2,
+    "precio_total": 11.29,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.9 g",
-      "Carbohidratos": "5.4 g",
-      "Proteinas": "7.8 g",
-      "Fibra": "7.4 g",
-      "Valor energetico": "88 kcal"
+      "Grasas": "29.3 g",
+      "Carbohidratos": "35.2 g",
+      "Proteinas": "4.4 g",
+      "Fibra": "0.1 g",
+      "Valor energetico": "259 kcal"
     }
   },
   {
@@ -1350,13 +1350,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.52,
+    "precio_total": 6.83,
     "valores_nutricionales_100_g": {
-      "Grasas": "7.9 g",
-      "Carbohidratos": "26.5 g",
-      "Proteinas": "3.9 g",
-      "Fibra": "3.5 g",
-      "Valor energetico": "204 kcal"
+      "Grasas": "1.5 g",
+      "Carbohidratos": "22.3 g",
+      "Proteinas": "17.5 g",
+      "Fibra": "5.3 g",
+      "Valor energetico": "249 kcal"
     }
   },
   {
@@ -1366,13 +1366,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 7.05,
+    "precio_total": 1.54,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.5 g",
-      "Carbohidratos": "24.7 g",
-      "Proteinas": "20.8 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "307 kcal"
+      "Grasas": "21.2 g",
+      "Carbohidratos": "37.7 g",
+      "Proteinas": "11.4 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "162 kcal"
     }
   },
   {
@@ -1382,13 +1382,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 11.28,
+    "precio_total": 6.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.4 g",
-      "Carbohidratos": "47.9 g",
-      "Proteinas": "19.3 g",
-      "Fibra": "3.2 g",
-      "Valor energetico": "105 kcal"
+      "Grasas": "25.5 g",
+      "Carbohidratos": "48.2 g",
+      "Proteinas": "21.4 g",
+      "Fibra": "5.3 g",
+      "Valor energetico": "228 kcal"
     }
   },
   {
@@ -1398,13 +1398,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.34,
+    "precio_total": 12.74,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.0 g",
-      "Carbohidratos": "17.7 g",
-      "Proteinas": "18.2 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "323 kcal"
+      "Grasas": "18.0 g",
+      "Carbohidratos": "39.1 g",
+      "Proteinas": "4.1 g",
+      "Fibra": "5.1 g",
+      "Valor energetico": "382 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-azul-roquefort-y-cabra/p/120966",
+    "titulo": "Rulo de queso de cabra Dia Láctea 140 g",
+    "descripcion": "Rulo de queso de cabra Dia Láctea 140 g",
+    "categorias": [
+      "Charcuteria"
+    ],
+    "precio_total": 5.12,
+    "valores_nutricionales_100_g": {
+      "Grasas": "24.3 g",
+      "Carbohidratos": "11.9 g",
+      "Proteinas": "15.8 g",
+      "Fibra": "4.3 g",
+      "Valor energetico": "168 kcal"
     }
   },
   {
@@ -1414,13 +1430,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 10.74,
+    "precio_total": 12.64,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.6 g",
-      "Carbohidratos": "7.3 g",
-      "Proteinas": "4.1 g",
-      "Fibra": "8.0 g",
-      "Valor energetico": "364 kcal"
+      "Grasas": "19.1 g",
+      "Carbohidratos": "59.2 g",
+      "Proteinas": "4.7 g",
+      "Fibra": "3.1 g",
+      "Valor energetico": "134 kcal"
     }
   },
   {
@@ -1430,13 +1446,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 2.38,
+    "precio_total": 10.65,
     "valores_nutricionales_100_g": {
-      "Grasas": "11.4 g",
-      "Carbohidratos": "12.7 g",
-      "Proteinas": "13.8 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "246 kcal"
+      "Grasas": "27.2 g",
+      "Carbohidratos": "54.0 g",
+      "Proteinas": "1.0 g",
+      "Fibra": "5.2 g",
+      "Valor energetico": "423 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-internacionales/p/263574",
+    "titulo": "Queso curado italiano Dia Selección Mundial 200 g",
+    "descripcion": "Queso curado italiano Dia Selección Mundial 200 g",
+    "categorias": [
+      "Charcuteria"
+    ],
+    "precio_total": 5.26,
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.0 g",
+      "Carbohidratos": "13.4 g",
+      "Proteinas": "2.5 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "216 kcal"
     }
   },
   {
@@ -1446,13 +1478,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 3.44,
+    "precio_total": 10.17,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.5 g",
-      "Carbohidratos": "8.4 g",
-      "Proteinas": "14.4 g",
-      "Fibra": "3.7 g",
-      "Valor energetico": "424 kcal"
+      "Grasas": "2.9 g",
+      "Carbohidratos": "13.7 g",
+      "Proteinas": "18.0 g",
+      "Fibra": "7.9 g",
+      "Valor energetico": "379 kcal"
     }
   },
   {
@@ -1462,13 +1494,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 11.0,
+    "precio_total": 4.45,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.2 g",
-      "Carbohidratos": "6.6 g",
-      "Proteinas": "12.6 g",
-      "Fibra": "5.1 g",
-      "Valor energetico": "237 kcal"
+      "Grasas": "23.6 g",
+      "Carbohidratos": "9.6 g",
+      "Proteinas": "1.7 g",
+      "Fibra": "6.5 g",
+      "Valor energetico": "351 kcal"
     }
   },
   {
@@ -1478,13 +1510,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 9.54,
+    "precio_total": 8.06,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.0 g",
-      "Carbohidratos": "8.2 g",
-      "Proteinas": "12.1 g",
-      "Fibra": "9.0 g",
-      "Valor energetico": "154 kcal"
+      "Grasas": "13.0 g",
+      "Carbohidratos": "56.0 g",
+      "Proteinas": "20.7 g",
+      "Fibra": "0.8 g",
+      "Valor energetico": "361 kcal"
     }
   },
   {
@@ -1494,29 +1526,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 5.81,
+    "precio_total": 5.87,
     "valores_nutricionales_100_g": {
-      "Grasas": "1.2 g",
-      "Carbohidratos": "0.6 g",
-      "Proteinas": "19.6 g",
-      "Fibra": "8.9 g",
-      "Valor energetico": "244 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-altos-en-proteinas/p/274204",
-    "titulo": "Queso fresco batido rico en proteínas Granja Rinya 400 g",
-    "descripcion": "Queso fresco batido rico en proteínas Granja Rinya 400 g",
-    "categorias": [
-      "Charcuteria"
-    ],
-    "precio_total": 8.39,
-    "valores_nutricionales_100_g": {
-      "Grasas": "11.3 g",
-      "Carbohidratos": "21.3 g",
-      "Proteinas": "9.9 g",
-      "Fibra": "6.2 g",
-      "Valor energetico": "412 kcal"
+      "Grasas": "16.8 g",
+      "Carbohidratos": "27.4 g",
+      "Proteinas": "17.3 g",
+      "Fibra": "0.4 g",
+      "Valor energetico": "364 kcal"
     }
   },
   {
@@ -1526,13 +1542,13 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 10.17,
+    "precio_total": 13.73,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.4 g",
-      "Carbohidratos": "21.3 g",
-      "Proteinas": "4.7 g",
-      "Fibra": "0.4 g",
-      "Valor energetico": "351 kcal"
+      "Grasas": "16.0 g",
+      "Carbohidratos": "14.6 g",
+      "Proteinas": "5.1 g",
+      "Fibra": "3.4 g",
+      "Valor energetico": "305 kcal"
     }
   },
   {
@@ -1542,13 +1558,29 @@
     "categorias": [
       "Charcuteria"
     ],
-    "precio_total": 2.97,
+    "precio_total": 1.32,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.8 g",
+      "Grasas": "0.0 g",
+      "Carbohidratos": "0.6 g",
+      "Proteinas": "24.8 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "58 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-altos-en-proteinas/p/274204",
+    "titulo": "Queso fresco batido rico en proteínas Granja Rinya 400 g",
+    "descripcion": "Queso fresco batido rico en proteínas Granja Rinya 400 g",
+    "categorias": [
+      "Charcuteria"
+    ],
+    "precio_total": 4.25,
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.9 g",
       "Carbohidratos": "4.4 g",
-      "Proteinas": "20.3 g",
-      "Fibra": "7.5 g",
-      "Valor energetico": "471 kcal"
+      "Proteinas": "11.0 g",
+      "Fibra": "4.4 g",
+      "Valor energetico": "295 kcal"
     }
   },
   {
@@ -1558,13 +1590,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 1.38,
+    "precio_total": 8.7,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.5 g",
-      "Carbohidratos": "53.7 g",
-      "Proteinas": "3.9 g",
-      "Fibra": "6.4 g",
-      "Valor energetico": "156 kcal"
+      "Grasas": "28.5 g",
+      "Carbohidratos": "39.2 g",
+      "Proteinas": "18.4 g",
+      "Fibra": "1.9 g",
+      "Valor energetico": "130 kcal"
     }
   },
   {
@@ -1574,13 +1606,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 5.97,
+    "precio_total": 11.49,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.8 g",
-      "Carbohidratos": "6.1 g",
-      "Proteinas": "22.9 g",
-      "Fibra": "2.7 g",
-      "Valor energetico": "280 kcal"
+      "Grasas": "15.1 g",
+      "Carbohidratos": "53.1 g",
+      "Proteinas": "6.3 g",
+      "Fibra": "8.8 g",
+      "Valor energetico": "98 kcal"
     }
   },
   {
@@ -1590,13 +1622,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 5.85,
+    "precio_total": 12.26,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.3 g",
-      "Carbohidratos": "32.8 g",
-      "Proteinas": "6.7 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "124 kcal"
+      "Grasas": "11.2 g",
+      "Carbohidratos": "20.1 g",
+      "Proteinas": "13.9 g",
+      "Fibra": "0.9 g",
+      "Valor energetico": "55 kcal"
     }
   },
   {
@@ -1606,13 +1638,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 14.86,
+    "precio_total": 6.85,
     "valores_nutricionales_100_g": {
-      "Grasas": "21.0 g",
-      "Carbohidratos": "0.4 g",
-      "Proteinas": "1.9 g",
-      "Fibra": "1.2 g",
-      "Valor energetico": "404 kcal"
+      "Grasas": "28.6 g",
+      "Carbohidratos": "11.4 g",
+      "Proteinas": "22.2 g",
+      "Fibra": "1.5 g",
+      "Valor energetico": "286 kcal"
     }
   },
   {
@@ -1622,13 +1654,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 7.83,
+    "precio_total": 3.89,
     "valores_nutricionales_100_g": {
-      "Grasas": "29.8 g",
-      "Carbohidratos": "13.6 g",
-      "Proteinas": "18.4 g",
-      "Fibra": "7.9 g",
-      "Valor energetico": "190 kcal"
+      "Grasas": "23.3 g",
+      "Carbohidratos": "54.9 g",
+      "Proteinas": "22.3 g",
+      "Fibra": "1.1 g",
+      "Valor energetico": "62 kcal"
     }
   },
   {
@@ -1638,13 +1670,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 7.12,
+    "precio_total": 1.06,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.5 g",
-      "Carbohidratos": "40.1 g",
-      "Proteinas": "12.4 g",
-      "Fibra": "1.0 g",
-      "Valor energetico": "169 kcal"
+      "Grasas": "28.8 g",
+      "Carbohidratos": "43.2 g",
+      "Proteinas": "5.2 g",
+      "Fibra": "4.7 g",
+      "Valor energetico": "364 kcal"
     }
   },
   {
@@ -1654,13 +1686,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 8.1,
+    "precio_total": 12.98,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.0 g",
-      "Carbohidratos": "11.3 g",
-      "Proteinas": "11.2 g",
-      "Fibra": "9.3 g",
-      "Valor energetico": "154 kcal"
+      "Grasas": "25.5 g",
+      "Carbohidratos": "53.1 g",
+      "Proteinas": "0.2 g",
+      "Fibra": "8.1 g",
+      "Valor energetico": "185 kcal"
     }
   },
   {
@@ -1670,29 +1702,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 12.28,
+    "precio_total": 13.23,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.3 g",
-      "Carbohidratos": "55.9 g",
-      "Proteinas": "20.3 g",
-      "Fibra": "6.3 g",
-      "Valor energetico": "429 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/210477",
-    "titulo": "Hogaza con pipas de calabaza El molino de Dia 500 g",
-    "descripcion": "Hogaza con pipas de calabaza El molino de Dia 500 g",
-    "categorias": [
-      "Panaderia"
-    ],
-    "precio_total": 5.25,
-    "valores_nutricionales_100_g": {
-      "Grasas": "12.8 g",
-      "Carbohidratos": "1.5 g",
-      "Proteinas": "21.2 g",
-      "Fibra": "6.8 g",
-      "Valor energetico": "195 kcal"
+      "Grasas": "26.4 g",
+      "Carbohidratos": "34.9 g",
+      "Proteinas": "21.0 g",
+      "Fibra": "9.5 g",
+      "Valor energetico": "369 kcal"
     }
   },
   {
@@ -1702,45 +1718,29 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 7.0,
+    "precio_total": 5.82,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.1 g",
-      "Carbohidratos": "7.3 g",
-      "Proteinas": "2.2 g",
-      "Fibra": "6.1 g",
-      "Valor energetico": "85 kcal"
+      "Grasas": "25.3 g",
+      "Carbohidratos": "12.8 g",
+      "Proteinas": "20.7 g",
+      "Fibra": "1.8 g",
+      "Valor energetico": "187 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/230230",
-    "titulo": "Pan de molde con masa madre The rustik bakery 400 g",
-    "descripcion": "Pan de molde con masa madre The rustik bakery 400 g",
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/210477",
+    "titulo": "Hogaza con pipas de calabaza El molino de Dia 500 g",
+    "descripcion": "Hogaza con pipas de calabaza El molino de Dia 500 g",
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 1.56,
+    "precio_total": 8.04,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.3 g",
-      "Carbohidratos": "10.9 g",
-      "Proteinas": "23.5 g",
-      "Fibra": "8.1 g",
-      "Valor energetico": "179 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/277674",
-    "titulo": "Chapata de cristal 2 unidades Cristallino 190 g",
-    "descripcion": "Chapata de cristal 2 unidades Cristallino 190 g",
-    "categorias": [
-      "Panaderia"
-    ],
-    "precio_total": 13.96,
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.3 g",
-      "Carbohidratos": "25.2 g",
-      "Proteinas": "15.1 g",
-      "Fibra": "0.3 g",
-      "Valor energetico": "352 kcal"
+      "Grasas": "15.8 g",
+      "Carbohidratos": "1.1 g",
+      "Proteinas": "11.9 g",
+      "Fibra": "4.8 g",
+      "Valor energetico": "356 kcal"
     }
   },
   {
@@ -1750,13 +1750,45 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 5.31,
+    "precio_total": 1.17,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.1 g",
-      "Carbohidratos": "12.4 g",
-      "Proteinas": "23.7 g",
-      "Fibra": "8.4 g",
-      "Valor energetico": "178 kcal"
+      "Grasas": "15.5 g",
+      "Carbohidratos": "43.2 g",
+      "Proteinas": "19.1 g",
+      "Fibra": "4.2 g",
+      "Valor energetico": "67 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/230230",
+    "titulo": "Pan de molde con masa madre The rustik bakery 400 g",
+    "descripcion": "Pan de molde con masa madre The rustik bakery 400 g",
+    "categorias": [
+      "Panaderia"
+    ],
+    "precio_total": 3.69,
+    "valores_nutricionales_100_g": {
+      "Grasas": "14.8 g",
+      "Carbohidratos": "2.2 g",
+      "Proteinas": "5.4 g",
+      "Fibra": "3.4 g",
+      "Valor energetico": "359 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/277674",
+    "titulo": "Chapata de cristal 2 unidades Cristallino 190 g",
+    "descripcion": "Chapata de cristal 2 unidades Cristallino 190 g",
+    "categorias": [
+      "Panaderia"
+    ],
+    "precio_total": 7.91,
+    "valores_nutricionales_100_g": {
+      "Grasas": "21.8 g",
+      "Carbohidratos": "10.8 g",
+      "Proteinas": "20.5 g",
+      "Fibra": "9.8 g",
+      "Valor energetico": "290 kcal"
     }
   },
   {
@@ -1766,29 +1798,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 1.58,
+    "precio_total": 3.41,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.5 g",
-      "Carbohidratos": "54.4 g",
-      "Proteinas": "16.4 g",
-      "Fibra": "2.3 g",
-      "Valor energetico": "73 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/263284",
-    "titulo": "Barra de pan para torrijas 300 g",
-    "descripcion": "Barra de pan para torrijas 300 g",
-    "categorias": [
-      "Panaderia"
-    ],
-    "precio_total": 11.04,
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.4 g",
-      "Carbohidratos": "0.6 g",
-      "Proteinas": "3.2 g",
-      "Fibra": "2.5 g",
-      "Valor energetico": "381 kcal"
+      "Grasas": "23.0 g",
+      "Carbohidratos": "15.8 g",
+      "Proteinas": "21.6 g",
+      "Fibra": "3.9 g",
+      "Valor energetico": "165 kcal"
     }
   },
   {
@@ -1798,29 +1814,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 3.4,
+    "precio_total": 2.14,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.0 g",
-      "Carbohidratos": "45.1 g",
-      "Proteinas": "18.1 g",
-      "Fibra": "3.0 g",
-      "Valor energetico": "490 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/230240",
-    "titulo": "Pan de molde artesano Bimbo 500 g",
-    "descripcion": "Pan de molde artesano Bimbo 500 g",
-    "categorias": [
-      "Panaderia"
-    ],
-    "precio_total": 10.73,
-    "valores_nutricionales_100_g": {
-      "Grasas": "25.9 g",
-      "Carbohidratos": "39.5 g",
-      "Proteinas": "13.8 g",
-      "Fibra": "1.4 g",
-      "Valor energetico": "90 kcal"
+      "Grasas": "29.4 g",
+      "Carbohidratos": "9.8 g",
+      "Proteinas": "5.0 g",
+      "Fibra": "2.5 g",
+      "Valor energetico": "170 kcal"
     }
   },
   {
@@ -1830,13 +1830,29 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 10.67,
+    "precio_total": 7.18,
     "valores_nutricionales_100_g": {
-      "Grasas": "16.7 g",
-      "Carbohidratos": "36.6 g",
-      "Proteinas": "19.9 g",
-      "Fibra": "0.6 g",
-      "Valor energetico": "114 kcal"
+      "Grasas": "0.2 g",
+      "Carbohidratos": "7.1 g",
+      "Proteinas": "3.9 g",
+      "Fibra": "8.2 g",
+      "Valor energetico": "470 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/230240",
+    "titulo": "Pan de molde artesano Bimbo 500 g",
+    "descripcion": "Pan de molde artesano Bimbo 500 g",
+    "categorias": [
+      "Panaderia"
+    ],
+    "precio_total": 2.92,
+    "valores_nutricionales_100_g": {
+      "Grasas": "14.9 g",
+      "Carbohidratos": "20.6 g",
+      "Proteinas": "3.4 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "257 kcal"
     }
   },
   {
@@ -1846,45 +1862,29 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 6.61,
+    "precio_total": 8.49,
     "valores_nutricionales_100_g": {
-      "Grasas": "29.2 g",
-      "Carbohidratos": "24.3 g",
-      "Proteinas": "13.9 g",
-      "Fibra": "9.2 g",
-      "Valor energetico": "294 kcal"
+      "Grasas": "14.4 g",
+      "Carbohidratos": "0.7 g",
+      "Proteinas": "20.1 g",
+      "Fibra": "6.2 g",
+      "Valor energetico": "150 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/310278",
-    "titulo": "Pan de molde blanco sin gluten Bimbo 375 g",
-    "descripcion": "Pan de molde blanco sin gluten Bimbo 375 g",
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/263284",
+    "titulo": "Barra de pan para torrijas 300 g",
+    "descripcion": "Barra de pan para torrijas 300 g",
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 1.91,
+    "precio_total": 7.47,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.2 g",
-      "Carbohidratos": "46.6 g",
-      "Proteinas": "12.7 g",
-      "Fibra": "0.1 g",
-      "Valor energetico": "415 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/178617",
-    "titulo": "Pan de molde sin gluten Dr. Schar 300 g",
-    "descripcion": "Pan de molde sin gluten Dr. Schar 300 g",
-    "categorias": [
-      "Panaderia"
-    ],
-    "precio_total": 10.68,
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.3 g",
-      "Carbohidratos": "25.9 g",
-      "Proteinas": "11.6 g",
-      "Fibra": "5.2 g",
-      "Valor energetico": "92 kcal"
+      "Grasas": "5.4 g",
+      "Carbohidratos": "22.2 g",
+      "Proteinas": "1.8 g",
+      "Fibra": "3.2 g",
+      "Valor energetico": "110 kcal"
     }
   },
   {
@@ -1894,13 +1894,13 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 6.92,
+    "precio_total": 5.28,
     "valores_nutricionales_100_g": {
-      "Grasas": "1.4 g",
-      "Carbohidratos": "59.4 g",
-      "Proteinas": "18.9 g",
-      "Fibra": "9.1 g",
-      "Valor energetico": "328 kcal"
+      "Grasas": "1.6 g",
+      "Carbohidratos": "29.4 g",
+      "Proteinas": "8.8 g",
+      "Fibra": "1.1 g",
+      "Valor energetico": "382 kcal"
     }
   },
   {
@@ -1910,13 +1910,45 @@
     "categorias": [
       "Panaderia"
     ],
-    "precio_total": 4.97,
+    "precio_total": 6.8,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.7 g",
-      "Carbohidratos": "47.6 g",
-      "Proteinas": "20.6 g",
-      "Fibra": "2.0 g",
-      "Valor energetico": "255 kcal"
+      "Grasas": "1.1 g",
+      "Carbohidratos": "14.3 g",
+      "Proteinas": "21.5 g",
+      "Fibra": "0.2 g",
+      "Valor energetico": "405 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/310278",
+    "titulo": "Pan de molde blanco sin gluten Bimbo 375 g",
+    "descripcion": "Pan de molde blanco sin gluten Bimbo 375 g",
+    "categorias": [
+      "Panaderia"
+    ],
+    "precio_total": 8.45,
+    "valores_nutricionales_100_g": {
+      "Grasas": "12.5 g",
+      "Carbohidratos": "22.2 g",
+      "Proteinas": "6.9 g",
+      "Fibra": "5.2 g",
+      "Valor energetico": "498 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/178617",
+    "titulo": "Pan de molde sin gluten Dr. Schar 300 g",
+    "descripcion": "Pan de molde sin gluten Dr. Schar 300 g",
+    "categorias": [
+      "Panaderia"
+    ],
+    "precio_total": 13.69,
+    "valores_nutricionales_100_g": {
+      "Grasas": "25.2 g",
+      "Carbohidratos": "25.3 g",
+      "Proteinas": "0.5 g",
+      "Fibra": "1.8 g",
+      "Valor energetico": "187 kcal"
     }
   },
   {
@@ -1926,13 +1958,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 13.35,
+    "precio_total": 12.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.5 g",
-      "Carbohidratos": "16.8 g",
-      "Proteinas": "15.3 g",
-      "Fibra": "6.7 g",
-      "Valor energetico": "127 kcal"
+      "Grasas": "29.4 g",
+      "Carbohidratos": "42.3 g",
+      "Proteinas": "13.5 g",
+      "Fibra": "7.4 g",
+      "Valor energetico": "165 kcal"
     }
   },
   {
@@ -1942,13 +1974,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 1.28,
+    "precio_total": 8.84,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.8 g",
-      "Carbohidratos": "48.5 g",
-      "Proteinas": "19.7 g",
-      "Fibra": "7.0 g",
-      "Valor energetico": "459 kcal"
+      "Grasas": "5.1 g",
+      "Carbohidratos": "18.0 g",
+      "Proteinas": "18.4 g",
+      "Fibra": "8.3 g",
+      "Valor energetico": "350 kcal"
     }
   },
   {
@@ -1958,13 +1990,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 4.97,
+    "precio_total": 1.19,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.0 g",
-      "Carbohidratos": "44.0 g",
-      "Proteinas": "9.7 g",
-      "Fibra": "3.2 g",
-      "Valor energetico": "56 kcal"
+      "Grasas": "12.7 g",
+      "Carbohidratos": "11.2 g",
+      "Proteinas": "13.4 g",
+      "Fibra": "1.2 g",
+      "Valor energetico": "169 kcal"
     }
   },
   {
@@ -1974,13 +2006,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 5.45,
+    "precio_total": 12.5,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.8 g",
-      "Carbohidratos": "48.2 g",
-      "Proteinas": "12.3 g",
-      "Fibra": "8.5 g",
-      "Valor energetico": "202 kcal"
+      "Grasas": "3.1 g",
+      "Carbohidratos": "28.2 g",
+      "Proteinas": "14.2 g",
+      "Fibra": "6.8 g",
+      "Valor energetico": "379 kcal"
     }
   },
   {
@@ -1990,13 +2022,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 6.28,
+    "precio_total": 5.55,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.6 g",
-      "Carbohidratos": "11.0 g",
-      "Proteinas": "7.8 g",
-      "Fibra": "6.6 g",
-      "Valor energetico": "59 kcal"
+      "Grasas": "21.6 g",
+      "Carbohidratos": "51.9 g",
+      "Proteinas": "17.5 g",
+      "Fibra": "8.5 g",
+      "Valor energetico": "164 kcal"
     }
   },
   {
@@ -2006,13 +2038,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 8.01,
+    "precio_total": 10.52,
     "valores_nutricionales_100_g": {
-      "Grasas": "20.2 g",
-      "Carbohidratos": "57.7 g",
-      "Proteinas": "18.3 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "220 kcal"
+      "Grasas": "27.5 g",
+      "Carbohidratos": "55.6 g",
+      "Proteinas": "9.8 g",
+      "Fibra": "3.5 g",
+      "Valor energetico": "372 kcal"
     }
   },
   {
@@ -2022,13 +2054,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 13.43,
+    "precio_total": 1.64,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.9 g",
-      "Carbohidratos": "29.7 g",
-      "Proteinas": "21.5 g",
-      "Fibra": "1.9 g",
-      "Valor energetico": "118 kcal"
+      "Grasas": "27.9 g",
+      "Carbohidratos": "40.1 g",
+      "Proteinas": "12.8 g",
+      "Fibra": "7.8 g",
+      "Valor energetico": "240 kcal"
     }
   },
   {
@@ -2038,13 +2070,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 9.29,
+    "precio_total": 7.36,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.6 g",
-      "Carbohidratos": "14.3 g",
-      "Proteinas": "5.5 g",
-      "Fibra": "1.4 g",
-      "Valor energetico": "289 kcal"
+      "Grasas": "17.8 g",
+      "Carbohidratos": "6.4 g",
+      "Proteinas": "3.0 g",
+      "Fibra": "6.5 g",
+      "Valor energetico": "176 kcal"
     }
   },
   {
@@ -2054,13 +2086,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 6.95,
+    "precio_total": 12.16,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.0 g",
+      "Grasas": "28.2 g",
       "Carbohidratos": "37.7 g",
-      "Proteinas": "4.1 g",
-      "Fibra": "5.7 g",
-      "Valor energetico": "236 kcal"
+      "Proteinas": "21.4 g",
+      "Fibra": "3.8 g",
+      "Valor energetico": "56 kcal"
     }
   },
   {
@@ -2070,13 +2102,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 10.75,
+    "precio_total": 13.23,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.4 g",
-      "Carbohidratos": "4.8 g",
-      "Proteinas": "21.8 g",
-      "Fibra": "6.4 g",
-      "Valor energetico": "327 kcal"
+      "Grasas": "6.5 g",
+      "Carbohidratos": "54.4 g",
+      "Proteinas": "2.4 g",
+      "Fibra": "1.4 g",
+      "Valor energetico": "142 kcal"
     }
   },
   {
@@ -2086,13 +2118,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 10.09,
+    "precio_total": 14.16,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.4 g",
-      "Carbohidratos": "46.8 g",
-      "Proteinas": "13.8 g",
-      "Fibra": "6.6 g",
-      "Valor energetico": "60 kcal"
+      "Grasas": "11.7 g",
+      "Carbohidratos": "10.2 g",
+      "Proteinas": "7.0 g",
+      "Fibra": "6.0 g",
+      "Valor energetico": "162 kcal"
     }
   },
   {
@@ -2102,13 +2134,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 10.98,
+    "precio_total": 3.96,
     "valores_nutricionales_100_g": {
-      "Grasas": "16.4 g",
-      "Carbohidratos": "11.3 g",
-      "Proteinas": "24.2 g",
-      "Fibra": "3.0 g",
-      "Valor energetico": "404 kcal"
+      "Grasas": "13.7 g",
+      "Carbohidratos": "17.6 g",
+      "Proteinas": "7.2 g",
+      "Fibra": "7.0 g",
+      "Valor energetico": "477 kcal"
     }
   },
   {
@@ -2118,13 +2150,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 12.33,
+    "precio_total": 13.79,
     "valores_nutricionales_100_g": {
-      "Grasas": "7.4 g",
-      "Carbohidratos": "50.9 g",
-      "Proteinas": "22.3 g",
-      "Fibra": "1.3 g",
-      "Valor energetico": "281 kcal"
+      "Grasas": "11.1 g",
+      "Carbohidratos": "54.4 g",
+      "Proteinas": "6.4 g",
+      "Fibra": "2.8 g",
+      "Valor energetico": "169 kcal"
     }
   },
   {
@@ -2134,125 +2166,109 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 3.37,
+    "precio_total": 5.31,
     "valores_nutricionales_100_g": {
-      "Grasas": "20.1 g",
-      "Carbohidratos": "27.1 g",
-      "Proteinas": "23.5 g",
-      "Fibra": "9.5 g",
-      "Valor energetico": "222 kcal"
+      "Grasas": "19.9 g",
+      "Carbohidratos": "5.0 g",
+      "Proteinas": "10.5 g",
+      "Fibra": "0.4 g",
+      "Valor energetico": "366 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-sin-lactosa-y-enriquecidas/p/185450",
-    "titulo": "Leche desnatada sin lactosa Dia Láctea 1 L",
-    "descripcion": "Leche desnatada sin lactosa Dia Láctea 1 L",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-sin-lactosa-y-enriquecidas/p/225278P6",
+    "titulo": "Leche entera sin lactosa Dia Láctea pack 6 x 1 L",
+    "descripcion": "Leche entera sin lactosa Dia Láctea pack 6 x 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 11.58,
+    "precio_total": 11.42,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.2 g",
-      "Carbohidratos": "7.0 g",
-      "Proteinas": "5.8 g",
-      "Fibra": "3.3 g",
-      "Valor energetico": "163 kcal"
+      "Grasas": "25.3 g",
+      "Carbohidratos": "51.2 g",
+      "Proteinas": "6.5 g",
+      "Fibra": "8.3 g",
+      "Valor energetico": "112 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales/p/293332",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales-y-horchatas/p/293332",
     "titulo": "Bebida de avena 0% azúcares Dia Vegedia 1 L",
     "descripcion": "Bebida de avena 0% azúcares Dia Vegedia 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 12.99,
+    "precio_total": 8.3,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.3 g",
-      "Carbohidratos": "10.6 g",
-      "Proteinas": "7.6 g",
-      "Fibra": "4.1 g",
-      "Valor energetico": "304 kcal"
+      "Grasas": "2.9 g",
+      "Carbohidratos": "17.7 g",
+      "Proteinas": "9.8 g",
+      "Fibra": "7.0 g",
+      "Valor energetico": "184 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales/p/267684",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales-y-horchatas/p/267684",
     "titulo": "Bebida de almendras 0% azúcares Dia Vegedia 1 L",
     "descripcion": "Bebida de almendras 0% azúcares Dia Vegedia 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 2.92,
+    "precio_total": 3.19,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.2 g",
-      "Carbohidratos": "51.2 g",
-      "Proteinas": "19.8 g",
-      "Fibra": "7.1 g",
-      "Valor energetico": "132 kcal"
+      "Grasas": "15.5 g",
+      "Carbohidratos": "1.8 g",
+      "Proteinas": "8.9 g",
+      "Fibra": "9.5 g",
+      "Valor energetico": "496 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales/p/294323",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales-y-horchatas/p/294323",
     "titulo": "Bebida de soja 0% azúcares Dia Vegedia 1 L",
     "descripcion": "Bebida de soja 0% azúcares Dia Vegedia 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 14.74,
+    "precio_total": 13.78,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.0 g",
-      "Carbohidratos": "29.0 g",
-      "Proteinas": "3.7 g",
-      "Fibra": "2.8 g",
-      "Valor energetico": "488 kcal"
+      "Grasas": "14.1 g",
+      "Carbohidratos": "41.9 g",
+      "Proteinas": "17.9 g",
+      "Fibra": "3.1 g",
+      "Valor energetico": "399 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales/p/308443",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales-y-horchatas/p/308443",
     "titulo": "Bebida de avena y mango Dia Vegedia 1 L",
     "descripcion": "Bebida de avena y mango Dia Vegedia 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 8.35,
+    "precio_total": 13.2,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.5 g",
-      "Carbohidratos": "3.7 g",
-      "Proteinas": "22.2 g",
-      "Fibra": "5.7 g",
-      "Valor energetico": "205 kcal"
+      "Grasas": "5.9 g",
+      "Carbohidratos": "32.1 g",
+      "Proteinas": "18.8 g",
+      "Fibra": "9.6 g",
+      "Valor energetico": "470 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales/p/267682",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales-y-horchatas/p/267682",
     "titulo": "Bebida de avena Dia Vegedia 1 L",
     "descripcion": "Bebida de avena Dia Vegedia 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 14.83,
+    "precio_total": 3.9,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.2 g",
-      "Carbohidratos": "25.3 g",
-      "Proteinas": "1.1 g",
-      "Fibra": "7.3 g",
-      "Valor energetico": "85 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/bebe/leche-para-bebes/p/78262",
-    "titulo": "Leche infantil crecimiento Peques 3 Puleva 1 L",
-    "descripcion": "Leche infantil crecimiento Peques 3 Puleva 1 L",
-    "categorias": [
-      "Lacteos"
-    ],
-    "precio_total": 2.92,
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.5 g",
-      "Carbohidratos": "25.1 g",
-      "Proteinas": "24.8 g",
-      "Fibra": "0.6 g",
-      "Valor energetico": "81 kcal"
+      "Grasas": "11.8 g",
+      "Carbohidratos": "34.7 g",
+      "Proteinas": "9.4 g",
+      "Fibra": "8.1 g",
+      "Valor energetico": "209 kcal"
     }
   },
   {
@@ -2262,13 +2278,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 2.12,
+    "precio_total": 11.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.9 g",
-      "Carbohidratos": "11.6 g",
-      "Proteinas": "19.8 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "465 kcal"
+      "Grasas": "12.9 g",
+      "Carbohidratos": "5.2 g",
+      "Proteinas": "3.6 g",
+      "Fibra": "7.4 g",
+      "Valor energetico": "86 kcal"
     }
   },
   {
@@ -2278,61 +2294,77 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 11.81,
+    "precio_total": 2.47,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.6 g",
-      "Carbohidratos": "21.8 g",
-      "Proteinas": "10.3 g",
-      "Fibra": "7.6 g",
-      "Valor energetico": "328 kcal"
+      "Grasas": "5.5 g",
+      "Carbohidratos": "4.8 g",
+      "Proteinas": "18.9 g",
+      "Fibra": "0.0 g",
+      "Valor energetico": "57 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/bebe/leche-para-bebes/p/63050",
-    "titulo": "Bebida láctea crecimiento y desarrollo Puleva 1 L",
-    "descripcion": "Bebida láctea crecimiento y desarrollo Puleva 1 L",
+    "url": "https://www.dia.es/bebe/leche-para-bebes/p/78262",
+    "titulo": "Leche infantil crecimiento Peques 3 Puleva 1 L",
+    "descripcion": "Leche infantil crecimiento Peques 3 Puleva 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 8.3,
+    "precio_total": 2.17,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.9 g",
-      "Carbohidratos": "24.1 g",
-      "Proteinas": "15.9 g",
-      "Fibra": "2.3 g",
-      "Valor energetico": "228 kcal"
+      "Grasas": "19.9 g",
+      "Carbohidratos": "11.6 g",
+      "Proteinas": "17.4 g",
+      "Fibra": "4.4 g",
+      "Valor energetico": "143 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/bebe/leche-para-bebes/p/129519",
-    "titulo": "Bebida láctea con cereales crecimiento y desarrollo Puleva 1 L",
-    "descripcion": "Bebida láctea con cereales crecimiento y desarrollo Puleva 1 L",
+    "url": "https://www.dia.es/bebe/leche-para-bebes/p/155416",
+    "titulo": "Leche crecimiento con galleta maría +3 años Nestlé 1 L",
+    "descripcion": "Leche crecimiento con galleta maría +3 años Nestlé 1 L",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 6.58,
+    "precio_total": 9.95,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.0 g",
-      "Carbohidratos": "26.0 g",
-      "Proteinas": "6.8 g",
-      "Fibra": "3.7 g",
-      "Valor energetico": "67 kcal"
+      "Grasas": "9.4 g",
+      "Carbohidratos": "33.1 g",
+      "Proteinas": "6.0 g",
+      "Fibra": "7.9 g",
+      "Valor energetico": "142 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos-cafes-frios-y-horchatas/p/115833",
+    "url": "https://www.dia.es/bebe/leche-para-bebes/p/129742",
+    "titulo": "Leche infantil en polvo de inicio de 0 a 6 meses Nativa 800 g",
+    "descripcion": "Leche infantil en polvo de inicio de 0 a 6 meses Nativa 800 g",
+    "categorias": [
+      "Lacteos"
+    ],
+    "precio_total": 4.73,
+    "valores_nutricionales_100_g": {
+      "Grasas": "17.8 g",
+      "Carbohidratos": "26.5 g",
+      "Proteinas": "10.0 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "384 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos/p/115833",
     "titulo": "Batido de cacao 90% leche Dia Láctea 6 x 200 ml",
     "descripcion": "Batido de cacao 90% leche Dia Láctea 6 x 200 ml",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 1.25,
+    "precio_total": 5.64,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.4 g",
-      "Carbohidratos": "46.4 g",
-      "Proteinas": "16.9 g",
-      "Fibra": "6.5 g",
-      "Valor energetico": "268 kcal"
+      "Grasas": "21.6 g",
+      "Carbohidratos": "38.4 g",
+      "Proteinas": "3.0 g",
+      "Fibra": "2.3 g",
+      "Valor energetico": "193 kcal"
     }
   },
   {
@@ -2342,61 +2374,61 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 7.34,
+    "precio_total": 14.94,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.2 g",
-      "Carbohidratos": "43.1 g",
-      "Proteinas": "25.0 g",
-      "Fibra": "0.4 g",
-      "Valor energetico": "297 kcal"
+      "Grasas": "13.0 g",
+      "Carbohidratos": "42.3 g",
+      "Proteinas": "3.7 g",
+      "Fibra": "1.7 g",
+      "Valor energetico": "271 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos-cafes-frios-y-horchatas/p/134753",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos/p/134753",
     "titulo": "Batido de fresa Dia Láctea 6 x 200 ml",
     "descripcion": "Batido de fresa Dia Láctea 6 x 200 ml",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 1.76,
+    "precio_total": 9.05,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.2 g",
-      "Carbohidratos": "9.5 g",
-      "Proteinas": "14.9 g",
-      "Fibra": "8.2 g",
-      "Valor energetico": "378 kcal"
+      "Grasas": "1.9 g",
+      "Carbohidratos": "23.4 g",
+      "Proteinas": "13.7 g",
+      "Fibra": "0.4 g",
+      "Valor energetico": "151 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafes-frios/p/308136",
-    "titulo": "Café latte macchiato Dia Arom'arte 250 ml",
-    "descripcion": "Café latte macchiato Dia Arom'arte 250 ml",
-    "categorias": [
-      "Lacteos"
-    ],
-    "precio_total": 12.14,
-    "valores_nutricionales_100_g": {
-      "Grasas": "21.3 g",
-      "Carbohidratos": "12.2 g",
-      "Proteinas": "5.9 g",
-      "Fibra": "4.5 g",
-      "Valor energetico": "386 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos-cafes-frios-y-horchatas/p/134754",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos/p/134754",
     "titulo": "Batido de vainilla Dia Láctea 6 x 200 ml",
     "descripcion": "Batido de vainilla Dia Láctea 6 x 200 ml",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 12.0,
+    "precio_total": 1.2,
     "valores_nutricionales_100_g": {
-      "Grasas": "30.0 g",
-      "Carbohidratos": "9.0 g",
-      "Proteinas": "1.9 g",
-      "Fibra": "3.5 g",
-      "Valor energetico": "85 kcal"
+      "Grasas": "22.0 g",
+      "Carbohidratos": "50.6 g",
+      "Proteinas": "6.2 g",
+      "Fibra": "3.3 g",
+      "Valor energetico": "246 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos/p/1269",
+    "titulo": "Batido al cacao Dia Láctea botella 1 L",
+    "descripcion": "Batido al cacao Dia Láctea botella 1 L",
+    "categorias": [
+      "Lacteos"
+    ],
+    "precio_total": 6.83,
+    "valores_nutricionales_100_g": {
+      "Grasas": "29.1 g",
+      "Carbohidratos": "33.0 g",
+      "Proteinas": "4.0 g",
+      "Fibra": "8.4 g",
+      "Valor energetico": "181 kcal"
     }
   },
   {
@@ -2406,13 +2438,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 14.93,
+    "precio_total": 8.59,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.3 g",
-      "Carbohidratos": "40.3 g",
-      "Proteinas": "6.8 g",
-      "Fibra": "6.4 g",
-      "Valor energetico": "274 kcal"
+      "Grasas": "7.4 g",
+      "Carbohidratos": "27.6 g",
+      "Proteinas": "16.1 g",
+      "Fibra": "3.1 g",
+      "Valor energetico": "156 kcal"
     }
   },
   {
@@ -2422,13 +2454,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 5.65,
+    "precio_total": 2.96,
     "valores_nutricionales_100_g": {
-      "Grasas": "16.3 g",
-      "Carbohidratos": "1.0 g",
-      "Proteinas": "12.2 g",
-      "Fibra": "9.5 g",
-      "Valor energetico": "440 kcal"
+      "Grasas": "15.6 g",
+      "Carbohidratos": "1.6 g",
+      "Proteinas": "6.6 g",
+      "Fibra": "0.8 g",
+      "Valor energetico": "121 kcal"
     }
   },
   {
@@ -2438,13 +2470,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 1.49,
+    "precio_total": 1.22,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.8 g",
-      "Carbohidratos": "52.9 g",
-      "Proteinas": "1.1 g",
-      "Fibra": "3.4 g",
-      "Valor energetico": "133 kcal"
+      "Grasas": "26.1 g",
+      "Carbohidratos": "1.0 g",
+      "Proteinas": "5.2 g",
+      "Fibra": "2.6 g",
+      "Valor energetico": "307 kcal"
     }
   },
   {
@@ -2454,29 +2486,29 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 8.27,
+    "precio_total": 1.21,
     "valores_nutricionales_100_g": {
-      "Grasas": "11.2 g",
-      "Carbohidratos": "34.3 g",
-      "Proteinas": "19.4 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "105 kcal"
+      "Grasas": "7.4 g",
+      "Carbohidratos": "13.7 g",
+      "Proteinas": "22.5 g",
+      "Fibra": "7.4 g",
+      "Valor energetico": "224 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-condensada-y-evaporada/p/41309",
-    "titulo": "Leche condensada La lechera 450 g",
-    "descripcion": "Leche condensada La lechera 450 g",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-condensada-y-evaporada/p/163643",
+    "titulo": "Leche evaporada Ideal 525 g",
+    "descripcion": "Leche evaporada Ideal 525 g",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 2.78,
+    "precio_total": 8.73,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.9 g",
-      "Carbohidratos": "7.4 g",
-      "Proteinas": "14.6 g",
-      "Fibra": "7.3 g",
-      "Valor energetico": "481 kcal"
+      "Grasas": "27.4 g",
+      "Carbohidratos": "45.6 g",
+      "Proteinas": "11.3 g",
+      "Fibra": "1.2 g",
+      "Valor energetico": "163 kcal"
     }
   },
   {
@@ -2486,13 +2518,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 13.67,
+    "precio_total": 13.25,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.1 g",
-      "Carbohidratos": "19.8 g",
-      "Proteinas": "15.6 g",
-      "Fibra": "5.7 g",
-      "Valor energetico": "381 kcal"
+      "Grasas": "20.3 g",
+      "Carbohidratos": "53.7 g",
+      "Proteinas": "6.2 g",
+      "Fibra": "8.9 g",
+      "Valor energetico": "397 kcal"
     }
   },
   {
@@ -2502,13 +2534,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 11.25,
+    "precio_total": 13.32,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.0 g",
-      "Carbohidratos": "56.1 g",
-      "Proteinas": "20.0 g",
-      "Fibra": "9.0 g",
-      "Valor energetico": "349 kcal"
+      "Grasas": "9.2 g",
+      "Carbohidratos": "57.9 g",
+      "Proteinas": "3.7 g",
+      "Fibra": "2.0 g",
+      "Valor energetico": "319 kcal"
     }
   },
   {
@@ -2518,13 +2550,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 10.4,
+    "precio_total": 4.5,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.5 g",
-      "Carbohidratos": "28.5 g",
-      "Proteinas": "4.7 g",
-      "Fibra": "8.1 g",
-      "Valor energetico": "274 kcal"
+      "Grasas": "5.0 g",
+      "Carbohidratos": "10.8 g",
+      "Proteinas": "21.5 g",
+      "Fibra": "5.5 g",
+      "Valor energetico": "290 kcal"
     }
   },
   {
@@ -2534,29 +2566,29 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 9.9,
+    "precio_total": 8.02,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.4 g",
-      "Carbohidratos": "4.7 g",
-      "Proteinas": "9.6 g",
-      "Fibra": "1.3 g",
-      "Valor energetico": "252 kcal"
+      "Grasas": "0.0 g",
+      "Carbohidratos": "22.6 g",
+      "Proteinas": "20.5 g",
+      "Fibra": "3.6 g",
+      "Valor energetico": "211 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/275563",
-    "titulo": "Margarina con sal Tulipán 400 g",
-    "descripcion": "Margarina con sal Tulipán 400 g",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/275561",
+    "titulo": "Margarina Tulipán 400 g",
+    "descripcion": "Margarina Tulipán 400 g",
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 6.78,
+    "precio_total": 8.89,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.6 g",
-      "Carbohidratos": "13.0 g",
-      "Proteinas": "23.3 g",
-      "Fibra": "1.0 g",
-      "Valor energetico": "237 kcal"
+      "Grasas": "8.1 g",
+      "Carbohidratos": "55.8 g",
+      "Proteinas": "21.7 g",
+      "Fibra": "3.9 g",
+      "Valor energetico": "347 kcal"
     }
   },
   {
@@ -2566,13 +2598,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 6.17,
+    "precio_total": 14.1,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.6 g",
-      "Carbohidratos": "45.1 g",
-      "Proteinas": "10.5 g",
+      "Grasas": "10.6 g",
+      "Carbohidratos": "33.0 g",
+      "Proteinas": "16.0 g",
       "Fibra": "2.9 g",
-      "Valor energetico": "175 kcal"
+      "Valor energetico": "143 kcal"
     }
   },
   {
@@ -2582,29 +2614,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 4.78,
+    "precio_total": 8.22,
     "valores_nutricionales_100_g": {
-      "Grasas": "21.3 g",
-      "Carbohidratos": "27.6 g",
-      "Proteinas": "21.2 g",
-      "Fibra": "5.5 g",
-      "Valor energetico": "439 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/nata/p/145041",
-    "titulo": "Nata para montar Dia Láctea 3 x 200 ml",
-    "descripcion": "Nata para montar Dia Láctea 3 x 200 ml",
-    "categorias": [
-      "Lacteos"
-    ],
-    "precio_total": 3.23,
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.6 g",
-      "Carbohidratos": "16.6 g",
-      "Proteinas": "11.2 g",
-      "Fibra": "5.5 g",
-      "Valor energetico": "493 kcal"
+      "Grasas": "25.6 g",
+      "Carbohidratos": "20.5 g",
+      "Proteinas": "23.1 g",
+      "Fibra": "9.4 g",
+      "Valor energetico": "126 kcal"
     }
   },
   {
@@ -2614,13 +2630,29 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 12.41,
+    "precio_total": 4.84,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.1 g",
-      "Carbohidratos": "36.3 g",
-      "Proteinas": "24.7 g",
-      "Fibra": "6.0 g",
-      "Valor energetico": "351 kcal"
+      "Grasas": "27.6 g",
+      "Carbohidratos": "12.4 g",
+      "Proteinas": "12.4 g",
+      "Fibra": "0.6 g",
+      "Valor energetico": "156 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/nata/p/145041",
+    "titulo": "Nata para montar Dia Láctea 3 x 200 ml",
+    "descripcion": "Nata para montar Dia Láctea 3 x 200 ml",
+    "categorias": [
+      "Lacteos"
+    ],
+    "precio_total": 11.54,
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.2 g",
+      "Carbohidratos": "11.9 g",
+      "Proteinas": "15.3 g",
+      "Fibra": "4.1 g",
+      "Valor energetico": "228 kcal"
     }
   },
   {
@@ -2630,29 +2662,13 @@
     "categorias": [
       "Lacteos"
     ],
-    "precio_total": 12.54,
+    "precio_total": 5.78,
     "valores_nutricionales_100_g": {
-      "Grasas": "1.3 g",
-      "Carbohidratos": "12.6 g",
-      "Proteinas": "11.5 g",
-      "Fibra": "1.0 g",
-      "Valor energetico": "300 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308573",
-    "titulo": "Espaguetis carbonara 350 g",
-    "descripcion": "Espaguetis carbonara 350 g",
-    "categorias": [
-      "Platos_preparados"
-    ],
-    "precio_total": 1.09,
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.1 g",
-      "Carbohidratos": "1.1 g",
-      "Proteinas": "11.9 g",
-      "Fibra": "6.8 g",
-      "Valor energetico": "275 kcal"
+      "Grasas": "16.8 g",
+      "Carbohidratos": "21.6 g",
+      "Proteinas": "9.8 g",
+      "Fibra": "2.7 g",
+      "Valor energetico": "141 kcal"
     }
   },
   {
@@ -2662,29 +2678,45 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 9.92,
+    "precio_total": 10.11,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.4 g",
-      "Carbohidratos": "42.6 g",
-      "Proteinas": "17.2 g",
-      "Fibra": "4.0 g",
-      "Valor energetico": "317 kcal"
+      "Grasas": "26.5 g",
+      "Carbohidratos": "47.8 g",
+      "Proteinas": "19.0 g",
+      "Fibra": "7.7 g",
+      "Valor energetico": "106 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308577",
-    "titulo": "Libritos de jamón y queso con patatas fritas 250 g",
-    "descripcion": "Libritos de jamón y queso con patatas fritas 250 g",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308573",
+    "titulo": "Espaguetis carbonara 350 g",
+    "descripcion": "Espaguetis carbonara 350 g",
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 2.95,
+    "precio_total": 11.05,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.2 g",
-      "Carbohidratos": "23.7 g",
-      "Proteinas": "2.2 g",
-      "Fibra": "3.4 g",
-      "Valor energetico": "482 kcal"
+      "Grasas": "11.5 g",
+      "Carbohidratos": "37.0 g",
+      "Proteinas": "22.4 g",
+      "Fibra": "8.9 g",
+      "Valor energetico": "96 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308572",
+    "titulo": "Albóndigas en salsa con patatas 320 g",
+    "descripcion": "Albóndigas en salsa con patatas 320 g",
+    "categorias": [
+      "Platos_preparados"
+    ],
+    "precio_total": 8.87,
+    "valores_nutricionales_100_g": {
+      "Grasas": "6.4 g",
+      "Carbohidratos": "10.8 g",
+      "Proteinas": "0.6 g",
+      "Fibra": "2.9 g",
+      "Valor energetico": "206 kcal"
     }
   },
   {
@@ -2694,13 +2726,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 10.98,
+    "precio_total": 9.97,
     "valores_nutricionales_100_g": {
-      "Grasas": "23.0 g",
-      "Carbohidratos": "50.6 g",
-      "Proteinas": "19.9 g",
-      "Fibra": "4.1 g",
-      "Valor energetico": "438 kcal"
+      "Grasas": "12.8 g",
+      "Carbohidratos": "41.0 g",
+      "Proteinas": "6.8 g",
+      "Fibra": "1.4 g",
+      "Valor energetico": "402 kcal"
     }
   },
   {
@@ -2710,29 +2742,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 12.62,
+    "precio_total": 14.88,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.4 g",
-      "Carbohidratos": "7.2 g",
-      "Proteinas": "20.2 g",
-      "Fibra": "4.4 g",
-      "Valor energetico": "125 kcal"
+      "Grasas": "14.6 g",
+      "Carbohidratos": "29.0 g",
+      "Proteinas": "4.0 g",
+      "Fibra": "5.2 g",
+      "Valor energetico": "367 kcal"
     }
   },
   {
     "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308777",
-    "titulo": "Tortilla de patata ESTILO TRADICIONAL con cebolla 1.3 Kg",
-    "descripcion": "Tortilla de patata ESTILO TRADICIONAL con cebolla 1.3 Kg",
+    "titulo": "Tortilla de patata ESTILO TRADICIONAL con cebolla 1,3 Kg",
+    "descripcion": "Tortilla de patata ESTILO TRADICIONAL con cebolla 1,3 Kg",
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 2.9,
+    "precio_total": 9.74,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.2 g",
-      "Carbohidratos": "16.4 g",
-      "Proteinas": "19.4 g",
-      "Fibra": "9.5 g",
-      "Valor energetico": "289 kcal"
+      "Grasas": "29.8 g",
+      "Carbohidratos": "1.1 g",
+      "Proteinas": "12.6 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "182 kcal"
     }
   },
   {
@@ -2742,13 +2774,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 3.23,
+    "precio_total": 5.06,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.0 g",
-      "Carbohidratos": "41.4 g",
-      "Proteinas": "15.4 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "444 kcal"
+      "Grasas": "20.1 g",
+      "Carbohidratos": "24.4 g",
+      "Proteinas": "19.1 g",
+      "Fibra": "9.0 g",
+      "Valor energetico": "361 kcal"
     }
   },
   {
@@ -2758,45 +2790,45 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 13.18,
+    "precio_total": 13.5,
     "valores_nutricionales_100_g": {
-      "Grasas": "5.6 g",
-      "Carbohidratos": "40.2 g",
-      "Proteinas": "6.4 g",
-      "Fibra": "7.1 g",
-      "Valor energetico": "461 kcal"
+      "Grasas": "15.3 g",
+      "Carbohidratos": "26.5 g",
+      "Proteinas": "14.7 g",
+      "Fibra": "4.9 g",
+      "Valor energetico": "123 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/307539",
-    "titulo": "Empanada de pollo cremoso El molino de Dia 500 g",
-    "descripcion": "Empanada de pollo cremoso El molino de Dia 500 g",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/262523",
+    "titulo": "Tortilla de patatas sin cebolla Dia Al Punto 600 g",
+    "descripcion": "Tortilla de patatas sin cebolla Dia Al Punto 600 g",
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 6.85,
+    "precio_total": 14.28,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.9 g",
-      "Carbohidratos": "30.3 g",
-      "Proteinas": "15.8 g",
-      "Fibra": "9.8 g",
-      "Valor energetico": "423 kcal"
+      "Grasas": "13.7 g",
+      "Carbohidratos": "1.8 g",
+      "Proteinas": "8.1 g",
+      "Fibra": "1.5 g",
+      "Valor energetico": "247 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/299100",
-    "titulo": "Tortilla de patata estilo casero 41% huevo Dia Al Punto 600 g",
-    "descripcion": "Tortilla de patata estilo casero 41% huevo Dia Al Punto 600 g",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/183750",
+    "titulo": "Mini tortilla de patatas con cebolla Dia Al Punto 220 g",
+    "descripcion": "Mini tortilla de patatas con cebolla Dia Al Punto 220 g",
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 13.53,
+    "precio_total": 8.53,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.8 g",
-      "Carbohidratos": "31.8 g",
-      "Proteinas": "16.7 g",
-      "Fibra": "8.8 g",
-      "Valor energetico": "50 kcal"
+      "Grasas": "11.0 g",
+      "Carbohidratos": "7.3 g",
+      "Proteinas": "0.8 g",
+      "Fibra": "8.4 g",
+      "Valor energetico": "73 kcal"
     }
   },
   {
@@ -2806,13 +2838,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 14.57,
+    "precio_total": 5.87,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.8 g",
-      "Carbohidratos": "16.9 g",
-      "Proteinas": "21.0 g",
-      "Fibra": "3.0 g",
-      "Valor energetico": "57 kcal"
+      "Grasas": "11.4 g",
+      "Carbohidratos": "42.3 g",
+      "Proteinas": "14.1 g",
+      "Fibra": "5.2 g",
+      "Valor energetico": "58 kcal"
     }
   },
   {
@@ -2822,13 +2854,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 12.23,
+    "precio_total": 5.3,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.1 g",
-      "Carbohidratos": "19.8 g",
-      "Proteinas": "14.7 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "305 kcal"
+      "Grasas": "1.9 g",
+      "Carbohidratos": "46.2 g",
+      "Proteinas": "11.6 g",
+      "Fibra": "4.6 g",
+      "Valor energetico": "230 kcal"
     }
   },
   {
@@ -2838,13 +2870,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 3.68,
+    "precio_total": 13.13,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.9 g",
-      "Carbohidratos": "57.4 g",
-      "Proteinas": "15.9 g",
-      "Fibra": "1.4 g",
-      "Valor energetico": "85 kcal"
+      "Grasas": "15.6 g",
+      "Carbohidratos": "48.5 g",
+      "Proteinas": "3.1 g",
+      "Fibra": "0.8 g",
+      "Valor energetico": "461 kcal"
     }
   },
   {
@@ -2854,13 +2886,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 10.17,
+    "precio_total": 10.21,
     "valores_nutricionales_100_g": {
-      "Grasas": "5.3 g",
-      "Carbohidratos": "23.1 g",
-      "Proteinas": "18.8 g",
-      "Fibra": "0.4 g",
-      "Valor energetico": "324 kcal"
+      "Grasas": "29.9 g",
+      "Carbohidratos": "21.4 g",
+      "Proteinas": "1.3 g",
+      "Fibra": "8.3 g",
+      "Valor energetico": "221 kcal"
     }
   },
   {
@@ -2870,29 +2902,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 4.43,
+    "precio_total": 12.04,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.0 g",
-      "Carbohidratos": "40.6 g",
-      "Proteinas": "1.7 g",
-      "Fibra": "9.7 g",
-      "Valor energetico": "69 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/pizzas-y-masas/p/250252",
-    "titulo": "Pizza barbacoa Dia Al Punto 350 g",
-    "descripcion": "Pizza barbacoa Dia Al Punto 350 g",
-    "categorias": [
-      "Platos_preparados"
-    ],
-    "precio_total": 5.88,
-    "valores_nutricionales_100_g": {
-      "Grasas": "22.0 g",
-      "Carbohidratos": "23.6 g",
-      "Proteinas": "13.1 g",
-      "Fibra": "0.3 g",
-      "Valor energetico": "495 kcal"
+      "Grasas": "3.2 g",
+      "Carbohidratos": "5.9 g",
+      "Proteinas": "7.4 g",
+      "Fibra": "5.9 g",
+      "Valor energetico": "101 kcal"
     }
   },
   {
@@ -2902,13 +2918,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 11.17,
+    "precio_total": 4.77,
     "valores_nutricionales_100_g": {
-      "Grasas": "11.5 g",
-      "Carbohidratos": "36.4 g",
-      "Proteinas": "17.8 g",
-      "Fibra": "2.7 g",
-      "Valor energetico": "203 kcal"
+      "Grasas": "5.9 g",
+      "Carbohidratos": "38.9 g",
+      "Proteinas": "19.7 g",
+      "Fibra": "4.4 g",
+      "Valor energetico": "483 kcal"
     }
   },
   {
@@ -2918,13 +2934,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 10.02,
+    "precio_total": 9.47,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.8 g",
-      "Carbohidratos": "45.0 g",
-      "Proteinas": "22.1 g",
-      "Fibra": "6.1 g",
-      "Valor energetico": "358 kcal"
+      "Grasas": "2.9 g",
+      "Carbohidratos": "31.8 g",
+      "Proteinas": "2.6 g",
+      "Fibra": "9.4 g",
+      "Valor energetico": "425 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/pizzas-y-masas/p/250252",
+    "titulo": "Pizza barbacoa Dia Al Punto 350 g",
+    "descripcion": "Pizza barbacoa Dia Al Punto 350 g",
+    "categorias": [
+      "Platos_preparados"
+    ],
+    "precio_total": 6.36,
+    "valores_nutricionales_100_g": {
+      "Grasas": "3.6 g",
+      "Carbohidratos": "37.1 g",
+      "Proteinas": "4.1 g",
+      "Fibra": "10.0 g",
+      "Valor energetico": "371 kcal"
     }
   },
   {
@@ -2934,13 +2966,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 4.07,
+    "precio_total": 9.27,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.5 g",
-      "Carbohidratos": "53.9 g",
-      "Proteinas": "1.9 g",
-      "Fibra": "1.2 g",
-      "Valor energetico": "164 kcal"
+      "Grasas": "19.0 g",
+      "Carbohidratos": "19.3 g",
+      "Proteinas": "18.3 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "469 kcal"
     }
   },
   {
@@ -2950,13 +2982,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 6.89,
+    "precio_total": 1.23,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.6 g",
-      "Carbohidratos": "52.9 g",
-      "Proteinas": "23.9 g",
-      "Fibra": "7.0 g",
-      "Valor energetico": "318 kcal"
+      "Grasas": "5.9 g",
+      "Carbohidratos": "22.6 g",
+      "Proteinas": "20.6 g",
+      "Fibra": "1.3 g",
+      "Valor energetico": "342 kcal"
     }
   },
   {
@@ -2966,29 +2998,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 8.87,
+    "precio_total": 3.89,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.1 g",
-      "Carbohidratos": "25.9 g",
-      "Proteinas": "6.9 g",
-      "Fibra": "5.1 g",
-      "Valor energetico": "315 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/sandwiches-y-hamburguesas/p/296200",
-    "titulo": "Flautas de bacon y 2 quesos Dia Al Punto 275 g",
-    "descripcion": "Flautas de bacon y 2 quesos Dia Al Punto 275 g",
-    "categorias": [
-      "Platos_preparados"
-    ],
-    "precio_total": 13.43,
-    "valores_nutricionales_100_g": {
-      "Grasas": "22.9 g",
-      "Carbohidratos": "19.3 g",
-      "Proteinas": "7.9 g",
-      "Fibra": "3.7 g",
-      "Valor energetico": "61 kcal"
+      "Grasas": "17.0 g",
+      "Carbohidratos": "8.3 g",
+      "Proteinas": "15.8 g",
+      "Fibra": "2.9 g",
+      "Valor energetico": "313 kcal"
     }
   },
   {
@@ -2998,13 +3014,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 5.11,
+    "precio_total": 12.33,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.8 g",
-      "Carbohidratos": "59.5 g",
-      "Proteinas": "24.6 g",
-      "Fibra": "5.3 g",
-      "Valor energetico": "426 kcal"
+      "Grasas": "12.7 g",
+      "Carbohidratos": "13.5 g",
+      "Proteinas": "6.9 g",
+      "Fibra": "8.9 g",
+      "Valor energetico": "310 kcal"
     }
   },
   {
@@ -3014,13 +3030,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 14.71,
+    "precio_total": 9.7,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.4 g",
-      "Carbohidratos": "34.3 g",
-      "Proteinas": "11.0 g",
-      "Fibra": "0.5 g",
-      "Valor energetico": "407 kcal"
+      "Grasas": "0.7 g",
+      "Carbohidratos": "46.8 g",
+      "Proteinas": "4.2 g",
+      "Fibra": "4.5 g",
+      "Valor energetico": "470 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/sandwiches-y-hamburguesas/p/296200",
+    "titulo": "Flautas de bacon y 2 quesos Dia Al Punto 275 g",
+    "descripcion": "Flautas de bacon y 2 quesos Dia Al Punto 275 g",
+    "categorias": [
+      "Platos_preparados"
+    ],
+    "precio_total": 1.39,
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.6 g",
+      "Carbohidratos": "58.2 g",
+      "Proteinas": "13.4 g",
+      "Fibra": "7.2 g",
+      "Valor energetico": "450 kcal"
     }
   },
   {
@@ -3030,13 +3062,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 7.44,
+    "precio_total": 13.47,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.4 g",
-      "Carbohidratos": "19.2 g",
-      "Proteinas": "24.6 g",
-      "Fibra": "6.6 g",
-      "Valor energetico": "114 kcal"
+      "Grasas": "18.1 g",
+      "Carbohidratos": "24.5 g",
+      "Proteinas": "7.4 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "164 kcal"
     }
   },
   {
@@ -3046,13 +3078,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 12.15,
+    "precio_total": 5.07,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.7 g",
-      "Carbohidratos": "3.0 g",
-      "Proteinas": "11.4 g",
-      "Fibra": "4.4 g",
-      "Valor energetico": "95 kcal"
+      "Grasas": "22.6 g",
+      "Carbohidratos": "8.7 g",
+      "Proteinas": "5.5 g",
+      "Fibra": "2.9 g",
+      "Valor energetico": "427 kcal"
     }
   },
   {
@@ -3062,13 +3094,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 12.67,
+    "precio_total": 3.9,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.4 g",
-      "Carbohidratos": "13.2 g",
-      "Proteinas": "10.0 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "160 kcal"
+      "Grasas": "0.7 g",
+      "Carbohidratos": "37.0 g",
+      "Proteinas": "21.4 g",
+      "Fibra": "7.8 g",
+      "Valor energetico": "166 kcal"
     }
   },
   {
@@ -3078,13 +3110,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 5.89,
+    "precio_total": 10.34,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.2 g",
-      "Carbohidratos": "17.6 g",
-      "Proteinas": "19.7 g",
-      "Fibra": "4.4 g",
-      "Valor energetico": "432 kcal"
+      "Grasas": "22.3 g",
+      "Carbohidratos": "56.0 g",
+      "Proteinas": "18.7 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "202 kcal"
     }
   },
   {
@@ -3094,29 +3126,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 2.0,
+    "precio_total": 14.42,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.3 g",
-      "Carbohidratos": "27.1 g",
-      "Proteinas": "10.7 g",
-      "Fibra": "3.3 g",
-      "Valor energetico": "86 kcal"
+      "Grasas": "15.0 g",
+      "Carbohidratos": "55.4 g",
+      "Proteinas": "10.3 g",
+      "Fibra": "4.2 g",
+      "Valor energetico": "445 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/155804",
-    "titulo": "Lentejas con verduras Dia Al Punto 430 g",
-    "descripcion": "Lentejas con verduras Dia Al Punto 430 g",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/300690",
+    "titulo": "Albóndigas de pollo Dia Al Punto 415 g",
+    "descripcion": "Albóndigas de pollo Dia Al Punto 415 g",
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 3.21,
+    "precio_total": 2.42,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.2 g",
-      "Carbohidratos": "42.6 g",
-      "Proteinas": "10.9 g",
-      "Fibra": "6.6 g",
-      "Valor energetico": "291 kcal"
+      "Grasas": "23.0 g",
+      "Carbohidratos": "37.1 g",
+      "Proteinas": "19.2 g",
+      "Fibra": "0.2 g",
+      "Valor energetico": "65 kcal"
     }
   },
   {
@@ -3126,13 +3158,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 11.42,
+    "precio_total": 14.59,
     "valores_nutricionales_100_g": {
-      "Grasas": "11.6 g",
-      "Carbohidratos": "35.5 g",
-      "Proteinas": "1.1 g",
-      "Fibra": "8.3 g",
-      "Valor energetico": "470 kcal"
+      "Grasas": "25.4 g",
+      "Carbohidratos": "19.6 g",
+      "Proteinas": "14.2 g",
+      "Fibra": "7.8 g",
+      "Valor energetico": "217 kcal"
     }
   },
   {
@@ -3142,13 +3174,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 8.38,
+    "precio_total": 6.93,
     "valores_nutricionales_100_g": {
-      "Grasas": "20.7 g",
-      "Carbohidratos": "23.2 g",
-      "Proteinas": "24.8 g",
-      "Fibra": "6.1 g",
-      "Valor energetico": "87 kcal"
+      "Grasas": "19.5 g",
+      "Carbohidratos": "42.6 g",
+      "Proteinas": "9.2 g",
+      "Fibra": "6.0 g",
+      "Valor energetico": "300 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/panaderia/tortillas-de-trigo-y-pitas/p/307903",
+    "titulo": "Tortillas de trigo maxi Dia Al Punto 360 g",
+    "descripcion": "Tortillas de trigo maxi Dia Al Punto 360 g",
+    "categorias": [
+      "Platos_preparados"
+    ],
+    "precio_total": 11.22,
+    "valores_nutricionales_100_g": {
+      "Grasas": "25.8 g",
+      "Carbohidratos": "6.0 g",
+      "Proteinas": "7.5 g",
+      "Fibra": "7.6 g",
+      "Valor energetico": "405 kcal"
     }
   },
   {
@@ -3158,29 +3206,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 11.18,
+    "precio_total": 10.53,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.9 g",
-      "Carbohidratos": "31.7 g",
-      "Proteinas": "23.5 g",
-      "Fibra": "2.7 g",
-      "Valor energetico": "91 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/14107",
-    "titulo": "Salsa de queso Old El Paso 320 g",
-    "descripcion": "Salsa de queso Old El Paso 320 g",
-    "categorias": [
-      "Platos_preparados"
-    ],
-    "precio_total": 3.69,
-    "valores_nutricionales_100_g": {
-      "Grasas": "14.1 g",
-      "Carbohidratos": "39.8 g",
-      "Proteinas": "18.2 g",
-      "Fibra": "3.7 g",
-      "Valor energetico": "268 kcal"
+      "Grasas": "5.9 g",
+      "Carbohidratos": "23.6 g",
+      "Proteinas": "0.9 g",
+      "Fibra": "4.0 g",
+      "Valor energetico": "364 kcal"
     }
   },
   {
@@ -3190,13 +3222,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 6.04,
+    "precio_total": 1.8,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.9 g",
-      "Carbohidratos": "0.7 g",
-      "Proteinas": "5.3 g",
-      "Fibra": "1.2 g",
-      "Valor energetico": "132 kcal"
+      "Grasas": "7.4 g",
+      "Carbohidratos": "39.5 g",
+      "Proteinas": "10.0 g",
+      "Fibra": "6.6 g",
+      "Valor energetico": "429 kcal"
     }
   },
   {
@@ -3206,13 +3238,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 10.76,
+    "precio_total": 2.96,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.4 g",
-      "Carbohidratos": "44.8 g",
-      "Proteinas": "12.0 g",
-      "Fibra": "2.0 g",
-      "Valor energetico": "284 kcal"
+      "Grasas": "8.7 g",
+      "Carbohidratos": "4.6 g",
+      "Proteinas": "4.7 g",
+      "Fibra": "8.4 g",
+      "Valor energetico": "419 kcal"
     }
   },
   {
@@ -3222,13 +3254,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 12.82,
+    "precio_total": 2.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.1 g",
-      "Carbohidratos": "37.0 g",
-      "Proteinas": "20.0 g",
-      "Fibra": "2.0 g",
-      "Valor energetico": "386 kcal"
+      "Grasas": "1.5 g",
+      "Carbohidratos": "43.1 g",
+      "Proteinas": "21.0 g",
+      "Fibra": "0.9 g",
+      "Valor energetico": "307 kcal"
     }
   },
   {
@@ -3238,13 +3270,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 6.19,
+    "precio_total": 11.59,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.9 g",
-      "Carbohidratos": "44.6 g",
-      "Proteinas": "19.1 g",
-      "Fibra": "3.5 g",
-      "Valor energetico": "248 kcal"
+      "Grasas": "16.0 g",
+      "Carbohidratos": "59.3 g",
+      "Proteinas": "18.8 g",
+      "Fibra": "1.8 g",
+      "Valor energetico": "203 kcal"
     }
   },
   {
@@ -3254,29 +3286,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 13.57,
+    "precio_total": 3.98,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.1 g",
-      "Carbohidratos": "46.7 g",
-      "Proteinas": "8.8 g",
-      "Fibra": "0.5 g",
-      "Valor energetico": "210 kcal"
+      "Grasas": "26.0 g",
+      "Carbohidratos": "14.8 g",
+      "Proteinas": "8.3 g",
+      "Fibra": "5.5 g",
+      "Valor energetico": "93 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-asiatica/p/274616",
-    "titulo": "Gyozas de langostino al teppanyaki Dia Al Punto 140 g",
-    "descripcion": "Gyozas de langostino al teppanyaki Dia Al Punto 140 g",
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/noodles/p/218534",
+    "titulo": "Noodles orientales sabor verduras Dia Al Punto 65 g",
+    "descripcion": "Noodles orientales sabor verduras Dia Al Punto 65 g",
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 8.01,
+    "precio_total": 7.54,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.7 g",
-      "Carbohidratos": "38.8 g",
-      "Proteinas": "9.8 g",
-      "Fibra": "2.8 g",
-      "Valor energetico": "104 kcal"
+      "Grasas": "25.8 g",
+      "Carbohidratos": "57.1 g",
+      "Proteinas": "16.0 g",
+      "Fibra": "0.9 g",
+      "Valor energetico": "245 kcal"
     }
   },
   {
@@ -3286,13 +3318,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 13.48,
+    "precio_total": 2.48,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.7 g",
-      "Carbohidratos": "29.1 g",
-      "Proteinas": "9.1 g",
-      "Fibra": "4.6 g",
-      "Valor energetico": "192 kcal"
+      "Grasas": "15.0 g",
+      "Carbohidratos": "13.2 g",
+      "Proteinas": "23.3 g",
+      "Fibra": "9.1 g",
+      "Valor energetico": "65 kcal"
     }
   },
   {
@@ -3302,13 +3334,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 7.33,
+    "precio_total": 11.18,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.2 g",
-      "Carbohidratos": "17.1 g",
-      "Proteinas": "14.1 g",
-      "Fibra": "4.0 g",
-      "Valor energetico": "363 kcal"
+      "Grasas": "7.6 g",
+      "Carbohidratos": "53.2 g",
+      "Proteinas": "18.8 g",
+      "Fibra": "1.8 g",
+      "Valor energetico": "411 kcal"
     }
   },
   {
@@ -3318,13 +3350,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 13.76,
+    "precio_total": 6.03,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.0 g",
-      "Carbohidratos": "29.6 g",
-      "Proteinas": "12.5 g",
-      "Fibra": "3.3 g",
-      "Valor energetico": "490 kcal"
+      "Grasas": "14.8 g",
+      "Carbohidratos": "42.5 g",
+      "Proteinas": "17.4 g",
+      "Fibra": "7.3 g",
+      "Valor energetico": "93 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/verduras/ensaladas-y-verduras-preparadas/p/307740",
+    "titulo": "Ensalada Xtreme pollo crispy Florette 210 g",
+    "descripcion": "Ensalada Xtreme pollo crispy Florette 210 g",
+    "categorias": [
+      "Platos_preparados"
+    ],
+    "precio_total": 8.55,
+    "valores_nutricionales_100_g": {
+      "Grasas": "6.5 g",
+      "Carbohidratos": "3.0 g",
+      "Proteinas": "0.9 g",
+      "Fibra": "7.3 g",
+      "Valor energetico": "243 kcal"
     }
   },
   {
@@ -3334,29 +3382,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 13.27,
+    "precio_total": 10.89,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.2 g",
-      "Carbohidratos": "44.8 g",
-      "Proteinas": "23.5 g",
-      "Fibra": "4.6 g",
-      "Valor energetico": "357 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/verduras/ensaladas-y-verduras-preparadas/p/198528",
-    "titulo": "Ensalada de pasta y rúcula Florette 325 g",
-    "descripcion": "Ensalada de pasta y rúcula Florette 325 g",
-    "categorias": [
-      "Platos_preparados"
-    ],
-    "precio_total": 11.71,
-    "valores_nutricionales_100_g": {
-      "Grasas": "23.0 g",
-      "Carbohidratos": "58.9 g",
-      "Proteinas": "11.3 g",
+      "Grasas": "26.4 g",
+      "Carbohidratos": "19.2 g",
+      "Proteinas": "10.4 g",
       "Fibra": "7.5 g",
-      "Valor energetico": "372 kcal"
+      "Valor energetico": "338 kcal"
     }
   },
   {
@@ -3366,29 +3398,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 11.29,
+    "precio_total": 5.74,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.1 g",
-      "Carbohidratos": "55.5 g",
-      "Proteinas": "5.6 g",
-      "Fibra": "6.1 g",
-      "Valor energetico": "490 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/gazpachos-y-salmorejos/p/82955",
-    "titulo": "Gazpacho Dia Al Punto 3 x 330 ml",
-    "descripcion": "Gazpacho Dia Al Punto 3 x 330 ml",
-    "categorias": [
-      "Platos_preparados"
-    ],
-    "precio_total": 12.81,
-    "valores_nutricionales_100_g": {
-      "Grasas": "28.4 g",
-      "Carbohidratos": "11.1 g",
-      "Proteinas": "5.3 g",
-      "Fibra": "6.1 g",
-      "Valor energetico": "313 kcal"
+      "Grasas": "28.6 g",
+      "Carbohidratos": "39.1 g",
+      "Proteinas": "6.3 g",
+      "Fibra": "8.3 g",
+      "Valor energetico": "382 kcal"
     }
   },
   {
@@ -3398,13 +3414,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 3.63,
+    "precio_total": 8.3,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.3 g",
-      "Carbohidratos": "56.5 g",
-      "Proteinas": "14.1 g",
-      "Fibra": "5.3 g",
-      "Valor energetico": "303 kcal"
+      "Grasas": "25.7 g",
+      "Carbohidratos": "12.6 g",
+      "Proteinas": "22.8 g",
+      "Fibra": "6.2 g",
+      "Valor energetico": "317 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/gazpachos-y-salmorejos/p/82955",
+    "titulo": "Gazpacho Dia Al Punto 3 x 330 ml",
+    "descripcion": "Gazpacho Dia Al Punto 3 x 330 ml",
+    "categorias": [
+      "Platos_preparados"
+    ],
+    "precio_total": 12.91,
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.0 g",
+      "Carbohidratos": "0.7 g",
+      "Proteinas": "1.2 g",
+      "Fibra": "8.0 g",
+      "Valor energetico": "446 kcal"
     }
   },
   {
@@ -3414,13 +3446,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 13.33,
+    "precio_total": 2.86,
     "valores_nutricionales_100_g": {
-      "Grasas": "6.2 g",
-      "Carbohidratos": "51.7 g",
-      "Proteinas": "5.3 g",
-      "Fibra": "5.2 g",
-      "Valor energetico": "179 kcal"
+      "Grasas": "8.4 g",
+      "Carbohidratos": "22.9 g",
+      "Proteinas": "4.5 g",
+      "Fibra": "2.6 g",
+      "Valor energetico": "207 kcal"
     }
   },
   {
@@ -3430,13 +3462,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 10.62,
+    "precio_total": 2.09,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.5 g",
-      "Carbohidratos": "7.4 g",
-      "Proteinas": "19.4 g",
-      "Fibra": "8.2 g",
-      "Valor energetico": "157 kcal"
+      "Grasas": "18.1 g",
+      "Carbohidratos": "33.3 g",
+      "Proteinas": "18.9 g",
+      "Fibra": "1.2 g",
+      "Valor energetico": "234 kcal"
     }
   },
   {
@@ -3446,13 +3478,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 12.19,
+    "precio_total": 9.88,
     "valores_nutricionales_100_g": {
-      "Grasas": "1.4 g",
-      "Carbohidratos": "59.1 g",
-      "Proteinas": "18.9 g",
-      "Fibra": "2.2 g",
-      "Valor energetico": "455 kcal"
+      "Grasas": "15.8 g",
+      "Carbohidratos": "2.4 g",
+      "Proteinas": "2.9 g",
+      "Fibra": "3.6 g",
+      "Valor energetico": "219 kcal"
     }
   },
   {
@@ -3462,29 +3494,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 11.29,
+    "precio_total": 6.15,
     "valores_nutricionales_100_g": {
-      "Grasas": "20.7 g",
-      "Carbohidratos": "30.4 g",
-      "Proteinas": "0.3 g",
-      "Fibra": "2.4 g",
-      "Valor energetico": "186 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/frutas/frutas-tropicales/p/289184",
-    "titulo": "Pulpa de aguacate Dia Al Punto tarrina 125 g",
-    "descripcion": "Pulpa de aguacate Dia Al Punto tarrina 125 g",
-    "categorias": [
-      "Platos_preparados"
-    ],
-    "precio_total": 11.37,
-    "valores_nutricionales_100_g": {
-      "Grasas": "12.2 g",
-      "Carbohidratos": "1.3 g",
-      "Proteinas": "23.5 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "452 kcal"
+      "Grasas": "2.2 g",
+      "Carbohidratos": "23.0 g",
+      "Proteinas": "5.8 g",
+      "Fibra": "7.7 g",
+      "Valor energetico": "381 kcal"
     }
   },
   {
@@ -3494,13 +3510,29 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 12.82,
+    "precio_total": 9.46,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.8 g",
-      "Carbohidratos": "37.1 g",
-      "Proteinas": "10.4 g",
-      "Fibra": "7.3 g",
-      "Valor energetico": "71 kcal"
+      "Grasas": "11.8 g",
+      "Carbohidratos": "50.3 g",
+      "Proteinas": "17.5 g",
+      "Fibra": "5.4 g",
+      "Valor energetico": "280 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/frutas/frutas-tropicales/p/289184",
+    "titulo": "Pulpa de aguacate Dia Al Punto tarrina 125 g",
+    "descripcion": "Pulpa de aguacate Dia Al Punto tarrina 125 g",
+    "categorias": [
+      "Platos_preparados"
+    ],
+    "precio_total": 12.8,
+    "valores_nutricionales_100_g": {
+      "Grasas": "17.1 g",
+      "Carbohidratos": "57.7 g",
+      "Proteinas": "11.2 g",
+      "Fibra": "4.1 g",
+      "Valor energetico": "94 kcal"
     }
   },
   {
@@ -3510,13 +3542,13 @@
     "categorias": [
       "Platos_preparados"
     ],
-    "precio_total": 4.29,
+    "precio_total": 13.15,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.1 g",
-      "Carbohidratos": "22.7 g",
-      "Proteinas": "4.7 g",
-      "Fibra": "9.6 g",
-      "Valor energetico": "375 kcal"
+      "Grasas": "24.8 g",
+      "Carbohidratos": "26.0 g",
+      "Proteinas": "24.7 g",
+      "Fibra": "0.6 g",
+      "Valor energetico": "266 kcal"
     }
   },
   {
@@ -3526,13 +3558,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 4.69,
+    "precio_total": 4.42,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.7 g",
-      "Carbohidratos": "23.4 g",
-      "Proteinas": "5.6 g",
-      "Fibra": "8.9 g",
-      "Valor energetico": "74 kcal"
+      "Grasas": "27.6 g",
+      "Carbohidratos": "36.9 g",
+      "Proteinas": "0.1 g",
+      "Fibra": "6.3 g",
+      "Valor energetico": "290 kcal"
     }
   },
   {
@@ -3542,13 +3574,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 5.13,
+    "precio_total": 3.97,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.2 g",
-      "Carbohidratos": "26.3 g",
-      "Proteinas": "12.3 g",
-      "Fibra": "8.6 g",
-      "Valor energetico": "74 kcal"
+      "Grasas": "17.0 g",
+      "Carbohidratos": "43.4 g",
+      "Proteinas": "1.8 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "399 kcal"
     }
   },
   {
@@ -3558,13 +3590,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 3.64,
+    "precio_total": 3.48,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.9 g",
-      "Carbohidratos": "26.2 g",
-      "Proteinas": "11.4 g",
-      "Fibra": "5.1 g",
-      "Valor energetico": "95 kcal"
+      "Grasas": "28.1 g",
+      "Carbohidratos": "43.3 g",
+      "Proteinas": "5.6 g",
+      "Fibra": "0.8 g",
+      "Valor energetico": "309 kcal"
     }
   },
   {
@@ -3574,29 +3606,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 14.33,
+    "precio_total": 2.5,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.3 g",
-      "Carbohidratos": "53.9 g",
-      "Proteinas": "5.1 g",
-      "Fibra": "7.2 g",
-      "Valor energetico": "342 kcal"
+      "Grasas": "10.0 g",
+      "Carbohidratos": "33.4 g",
+      "Proteinas": "11.4 g",
+      "Fibra": "7.6 g",
+      "Valor energetico": "67 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/azucar-y-edulcorantes/p/304818",
-    "titulo": "Azúcar moreno de caña integral Dia bolsa 1 Kg",
-    "descripcion": "Azúcar moreno de caña integral Dia bolsa 1 Kg",
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/azucar-y-edulcorantes/p/108416",
+    "titulo": "Edulcorante Dia bote 50 g",
+    "descripcion": "Edulcorante Dia bote 50 g",
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 12.4,
+    "precio_total": 11.34,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.4 g",
-      "Carbohidratos": "26.7 g",
-      "Proteinas": "15.8 g",
-      "Fibra": "3.5 g",
-      "Valor energetico": "107 kcal"
+      "Grasas": "18.4 g",
+      "Carbohidratos": "0.3 g",
+      "Proteinas": "0.7 g",
+      "Fibra": "8.5 g",
+      "Valor energetico": "438 kcal"
     }
   },
   {
@@ -3606,29 +3638,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 4.98,
+    "precio_total": 9.85,
     "valores_nutricionales_100_g": {
-      "Grasas": "21.0 g",
-      "Carbohidratos": "37.1 g",
-      "Proteinas": "23.4 g",
-      "Fibra": "6.7 g",
-      "Valor energetico": "274 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/297",
-    "titulo": "Miel de flores Mielove de Dia frasco 1 Kg",
-    "descripcion": "Miel de flores Mielove de Dia frasco 1 Kg",
-    "categorias": [
-      "Alimentacion"
-    ],
-    "precio_total": 8.12,
-    "valores_nutricionales_100_g": {
-      "Grasas": "22.4 g",
-      "Carbohidratos": "1.9 g",
-      "Proteinas": "10.6 g",
-      "Fibra": "9.6 g",
-      "Valor energetico": "434 kcal"
+      "Grasas": "4.7 g",
+      "Carbohidratos": "22.4 g",
+      "Proteinas": "21.1 g",
+      "Fibra": "3.1 g",
+      "Valor energetico": "332 kcal"
     }
   },
   {
@@ -3638,29 +3654,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 14.55,
+    "precio_total": 12.53,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.2 g",
-      "Carbohidratos": "3.9 g",
-      "Proteinas": "4.0 g",
-      "Fibra": "1.6 g",
-      "Valor energetico": "209 kcal"
+      "Grasas": "1.6 g",
+      "Carbohidratos": "18.3 g",
+      "Proteinas": "4.8 g",
+      "Fibra": "9.3 g",
+      "Valor energetico": "208 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/302704",
-    "titulo": "Miel de montaña Mielove de Dia frasco 500 g",
-    "descripcion": "Miel de montaña Mielove de Dia frasco 500 g",
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/297",
+    "titulo": "Miel de flores Mielove de Dia frasco 1 Kg",
+    "descripcion": "Miel de flores Mielove de Dia frasco 1 Kg",
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 10.91,
+    "precio_total": 3.55,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.8 g",
-      "Carbohidratos": "32.3 g",
-      "Proteinas": "17.1 g",
-      "Fibra": "1.3 g",
-      "Valor energetico": "254 kcal"
+      "Grasas": "12.9 g",
+      "Carbohidratos": "39.2 g",
+      "Proteinas": "16.3 g",
+      "Fibra": "8.1 g",
+      "Valor energetico": "382 kcal"
     }
   },
   {
@@ -3670,13 +3686,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 8.03,
+    "precio_total": 13.98,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.9 g",
-      "Carbohidratos": "52.2 g",
-      "Proteinas": "8.2 g",
-      "Fibra": "0.2 g",
-      "Valor energetico": "416 kcal"
+      "Grasas": "6.3 g",
+      "Carbohidratos": "11.1 g",
+      "Proteinas": "19.9 g",
+      "Fibra": "3.9 g",
+      "Valor energetico": "424 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/302704",
+    "titulo": "Miel de montaña Mielove de Dia frasco 500 g",
+    "descripcion": "Miel de montaña Mielove de Dia frasco 500 g",
+    "categorias": [
+      "Alimentacion"
+    ],
+    "precio_total": 10.63,
+    "valores_nutricionales_100_g": {
+      "Grasas": "25.7 g",
+      "Carbohidratos": "27.1 g",
+      "Proteinas": "11.1 g",
+      "Fibra": "7.5 g",
+      "Valor energetico": "112 kcal"
     }
   },
   {
@@ -3686,13 +3718,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 1.81,
+    "precio_total": 12.29,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.3 g",
-      "Carbohidratos": "56.0 g",
-      "Proteinas": "4.0 g",
-      "Fibra": "8.8 g",
-      "Valor energetico": "329 kcal"
+      "Grasas": "9.5 g",
+      "Carbohidratos": "4.9 g",
+      "Proteinas": "0.7 g",
+      "Fibra": "1.4 g",
+      "Valor energetico": "77 kcal"
     }
   },
   {
@@ -3702,13 +3734,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 4.43,
+    "precio_total": 3.31,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.9 g",
-      "Carbohidratos": "24.1 g",
-      "Proteinas": "23.8 g",
-      "Fibra": "1.7 g",
-      "Valor energetico": "342 kcal"
+      "Grasas": "4.9 g",
+      "Carbohidratos": "3.5 g",
+      "Proteinas": "2.7 g",
+      "Fibra": "7.9 g",
+      "Valor energetico": "270 kcal"
     }
   },
   {
@@ -3718,29 +3750,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 7.68,
+    "precio_total": 13.76,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.0 g",
-      "Carbohidratos": "47.9 g",
-      "Proteinas": "15.4 g",
-      "Fibra": "2.4 g",
-      "Valor energetico": "260 kcal"
+      "Grasas": "5.2 g",
+      "Carbohidratos": "38.2 g",
+      "Proteinas": "2.1 g",
+      "Fibra": "5.5 g",
+      "Valor energetico": "328 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/mermeladas-y-frutas-en-almibar/p/148313",
-    "titulo": "Mermelada de albaricoque extra Dia Fruticampo frasco 390 g",
-    "descripcion": "Mermelada de albaricoque extra Dia Fruticampo frasco 390 g",
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/mermeladas-y-frutas-en-almibar/p/183577",
+    "titulo": "Mermelada de higo extra 60% fruta Dia Fruticampo frasco 320 g",
+    "descripcion": "Mermelada de higo extra 60% fruta Dia Fruticampo frasco 320 g",
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 13.36,
+    "precio_total": 3.38,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.0 g",
-      "Carbohidratos": "26.3 g",
-      "Proteinas": "16.2 g",
-      "Fibra": "4.3 g",
-      "Valor energetico": "297 kcal"
+      "Grasas": "0.1 g",
+      "Carbohidratos": "13.2 g",
+      "Proteinas": "18.7 g",
+      "Fibra": "9.7 g",
+      "Valor energetico": "182 kcal"
     }
   },
   {
@@ -3750,13 +3782,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 9.2,
+    "precio_total": 13.85,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.6 g",
-      "Carbohidratos": "24.2 g",
-      "Proteinas": "4.9 g",
-      "Fibra": "9.2 g",
-      "Valor energetico": "173 kcal"
+      "Grasas": "14.3 g",
+      "Carbohidratos": "43.2 g",
+      "Proteinas": "9.9 g",
+      "Fibra": "8.8 g",
+      "Valor energetico": "148 kcal"
     }
   },
   {
@@ -3766,13 +3798,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 8.11,
+    "precio_total": 6.51,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.5 g",
-      "Carbohidratos": "40.6 g",
-      "Proteinas": "7.6 g",
-      "Fibra": "7.5 g",
-      "Valor energetico": "465 kcal"
+      "Grasas": "17.2 g",
+      "Carbohidratos": "9.7 g",
+      "Proteinas": "20.8 g",
+      "Fibra": "9.5 g",
+      "Valor energetico": "144 kcal"
     }
   },
   {
@@ -3782,29 +3814,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 2.58,
+    "precio_total": 5.62,
     "valores_nutricionales_100_g": {
-      "Grasas": "12.3 g",
-      "Carbohidratos": "50.5 g",
-      "Proteinas": "5.5 g",
-      "Fibra": "6.5 g",
-      "Valor energetico": "261 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/301463",
-    "titulo": "Crema de avellanas y cacao Dia Temptation frasco 380 g",
-    "descripcion": "Crema de avellanas y cacao Dia Temptation frasco 380 g",
-    "categorias": [
-      "Alimentacion"
-    ],
-    "precio_total": 8.32,
-    "valores_nutricionales_100_g": {
-      "Grasas": "26.5 g",
-      "Carbohidratos": "37.2 g",
-      "Proteinas": "9.9 g",
-      "Fibra": "7.1 g",
-      "Valor energetico": "94 kcal"
+      "Grasas": "9.9 g",
+      "Carbohidratos": "54.2 g",
+      "Proteinas": "22.8 g",
+      "Fibra": "8.4 g",
+      "Valor energetico": "417 kcal"
     }
   },
   {
@@ -3814,29 +3830,45 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 2.85,
+    "precio_total": 10.96,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.8 g",
-      "Carbohidratos": "35.0 g",
-      "Proteinas": "20.2 g",
-      "Fibra": "3.6 g",
-      "Valor energetico": "75 kcal"
+      "Grasas": "5.6 g",
+      "Carbohidratos": "57.7 g",
+      "Proteinas": "18.7 g",
+      "Fibra": "0.6 g",
+      "Valor energetico": "158 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/101749",
-    "titulo": "Crema de cacao con avellanas original Nocilla bote 180 g",
-    "descripcion": "Crema de cacao con avellanas original Nocilla bote 180 g",
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/301463",
+    "titulo": "Crema de avellanas y cacao Dia Temptation frasco 380 g",
+    "descripcion": "Crema de avellanas y cacao Dia Temptation frasco 380 g",
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 7.43,
+    "precio_total": 6.18,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.0 g",
-      "Carbohidratos": "37.7 g",
-      "Proteinas": "23.5 g",
-      "Fibra": "2.4 g",
-      "Valor energetico": "98 kcal"
+      "Grasas": "12.1 g",
+      "Carbohidratos": "53.6 g",
+      "Proteinas": "0.8 g",
+      "Fibra": "6.7 g",
+      "Valor energetico": "197 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/271523",
+    "titulo": "Crema de cacahuete Just loading frasco 500 g",
+    "descripcion": "Crema de cacahuete Just loading frasco 500 g",
+    "categorias": [
+      "Alimentacion"
+    ],
+    "precio_total": 6.59,
+    "valores_nutricionales_100_g": {
+      "Grasas": "15.7 g",
+      "Carbohidratos": "17.9 g",
+      "Proteinas": "23.2 g",
+      "Fibra": "2.9 g",
+      "Valor energetico": "263 kcal"
     }
   },
   {
@@ -3846,29 +3878,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 10.0,
+    "precio_total": 1.74,
     "valores_nutricionales_100_g": {
-      "Grasas": "29.5 g",
-      "Carbohidratos": "28.2 g",
-      "Proteinas": "17.2 g",
-      "Fibra": "7.6 g",
-      "Valor energetico": "325 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/243992",
-    "titulo": "Perlitas de chocolate Dr. Oetker bolsa 100 g",
-    "descripcion": "Perlitas de chocolate Dr. Oetker bolsa 100 g",
-    "categorias": [
-      "Alimentacion"
-    ],
-    "precio_total": 10.83,
-    "valores_nutricionales_100_g": {
-      "Grasas": "9.7 g",
-      "Carbohidratos": "0.2 g",
-      "Proteinas": "0.2 g",
-      "Fibra": "5.7 g",
-      "Valor energetico": "103 kcal"
+      "Grasas": "24.9 g",
+      "Carbohidratos": "21.4 g",
+      "Proteinas": "11.2 g",
+      "Fibra": "9.1 g",
+      "Valor energetico": "274 kcal"
     }
   },
   {
@@ -3878,29 +3894,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 13.5,
+    "precio_total": 5.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.9 g",
-      "Carbohidratos": "18.3 g",
-      "Proteinas": "10.8 g",
-      "Fibra": "6.5 g",
-      "Valor energetico": "177 kcal"
+      "Grasas": "29.7 g",
+      "Carbohidratos": "30.5 g",
+      "Proteinas": "12.0 g",
+      "Fibra": "9.2 g",
+      "Valor energetico": "491 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/5373",
-    "titulo": "Preparado para pastel fresco sabor limón Royal caja 103 g",
-    "descripcion": "Preparado para pastel fresco sabor limón Royal caja 103 g",
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/106037",
+    "titulo": "Preparado para crepes Delimagic de Dia frasco 200 g",
+    "descripcion": "Preparado para crepes Delimagic de Dia frasco 200 g",
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 9.53,
+    "precio_total": 1.0,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.3 g",
-      "Carbohidratos": "4.1 g",
-      "Proteinas": "19.4 g",
+      "Grasas": "7.6 g",
+      "Carbohidratos": "46.1 g",
+      "Proteinas": "22.1 g",
       "Fibra": "9.6 g",
-      "Valor energetico": "81 kcal"
+      "Valor energetico": "129 kcal"
     }
   },
   {
@@ -3910,13 +3926,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 11.37,
+    "precio_total": 8.16,
     "valores_nutricionales_100_g": {
-      "Grasas": "15.3 g",
-      "Carbohidratos": "4.8 g",
-      "Proteinas": "14.7 g",
-      "Fibra": "2.7 g",
-      "Valor energetico": "111 kcal"
+      "Grasas": "26.6 g",
+      "Carbohidratos": "3.0 g",
+      "Proteinas": "4.1 g",
+      "Fibra": "0.9 g",
+      "Valor energetico": "228 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/243992",
+    "titulo": "Perlitas de chocolate Dr. Oetker bolsa 100 g",
+    "descripcion": "Perlitas de chocolate Dr. Oetker bolsa 100 g",
+    "categorias": [
+      "Alimentacion"
+    ],
+    "precio_total": 12.7,
+    "valores_nutricionales_100_g": {
+      "Grasas": "3.0 g",
+      "Carbohidratos": "39.1 g",
+      "Proteinas": "7.7 g",
+      "Fibra": "6.7 g",
+      "Valor energetico": "183 kcal"
     }
   },
   {
@@ -3926,13 +3958,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 13.4,
+    "precio_total": 7.78,
     "valores_nutricionales_100_g": {
-      "Grasas": "11.7 g",
-      "Carbohidratos": "36.2 g",
-      "Proteinas": "24.1 g",
-      "Fibra": "1.0 g",
-      "Valor energetico": "171 kcal"
+      "Grasas": "6.9 g",
+      "Carbohidratos": "25.7 g",
+      "Proteinas": "2.6 g",
+      "Fibra": "1.5 g",
+      "Valor energetico": "413 kcal"
     }
   },
   {
@@ -3942,29 +3974,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 12.69,
+    "precio_total": 4.86,
     "valores_nutricionales_100_g": {
-      "Grasas": "2.5 g",
-      "Carbohidratos": "1.5 g",
-      "Proteinas": "0.2 g",
-      "Fibra": "3.2 g",
-      "Valor energetico": "489 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/chocolates-y-bombones/p/235055",
-    "titulo": "Chocolate negro 85% cacao Dia Temptation 100 g",
-    "descripcion": "Chocolate negro 85% cacao Dia Temptation 100 g",
-    "categorias": [
-      "Alimentacion"
-    ],
-    "precio_total": 3.59,
-    "valores_nutricionales_100_g": {
-      "Grasas": "9.1 g",
-      "Carbohidratos": "23.7 g",
-      "Proteinas": "24.3 g",
-      "Fibra": "5.3 g",
-      "Valor energetico": "226 kcal"
+      "Grasas": "17.9 g",
+      "Carbohidratos": "11.2 g",
+      "Proteinas": "0.6 g",
+      "Fibra": "7.4 g",
+      "Valor energetico": "435 kcal"
     }
   },
   {
@@ -3974,13 +3990,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 9.67,
+    "precio_total": 5.16,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.4 g",
-      "Carbohidratos": "10.6 g",
-      "Proteinas": "4.8 g",
-      "Fibra": "8.1 g",
-      "Valor energetico": "492 kcal"
+      "Grasas": "11.2 g",
+      "Carbohidratos": "34.7 g",
+      "Proteinas": "15.5 g",
+      "Fibra": "3.8 g",
+      "Valor energetico": "483 kcal"
     }
   },
   {
@@ -3990,13 +4006,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 7.69,
+    "precio_total": 11.02,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.7 g",
-      "Carbohidratos": "21.0 g",
-      "Proteinas": "17.2 g",
-      "Fibra": "7.7 g",
-      "Valor energetico": "215 kcal"
+      "Grasas": "20.4 g",
+      "Carbohidratos": "48.1 g",
+      "Proteinas": "18.0 g",
+      "Fibra": "3.6 g",
+      "Valor energetico": "72 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/chocolates-y-bombones/p/1553",
+    "titulo": "Chocolate negro Dia Temptation 100 g",
+    "descripcion": "Chocolate negro Dia Temptation 100 g",
+    "categorias": [
+      "Alimentacion"
+    ],
+    "precio_total": 12.53,
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.1 g",
+      "Carbohidratos": "35.6 g",
+      "Proteinas": "8.3 g",
+      "Fibra": "1.1 g",
+      "Valor energetico": "88 kcal"
     }
   },
   {
@@ -4006,13 +4038,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 9.36,
+    "precio_total": 10.04,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.1 g",
-      "Carbohidratos": "9.0 g",
-      "Proteinas": "0.8 g",
-      "Fibra": "5.4 g",
-      "Valor energetico": "496 kcal"
+      "Grasas": "6.7 g",
+      "Carbohidratos": "51.8 g",
+      "Proteinas": "3.1 g",
+      "Fibra": "6.0 g",
+      "Valor energetico": "295 kcal"
     }
   },
   {
@@ -4022,13 +4054,29 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 9.99,
+    "precio_total": 14.24,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.6 g",
-      "Carbohidratos": "36.0 g",
-      "Proteinas": "12.8 g",
-      "Fibra": "7.9 g",
-      "Valor energetico": "126 kcal"
+      "Grasas": "19.7 g",
+      "Carbohidratos": "36.6 g",
+      "Proteinas": "18.5 g",
+      "Fibra": "0.1 g",
+      "Valor energetico": "327 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/caramelos-chicles-y-golosinas/p/306389",
+    "titulo": "Golosinas pulpos pica Dia Marcelo Caramelo bolsa 100 g",
+    "descripcion": "Golosinas pulpos pica Dia Marcelo Caramelo bolsa 100 g",
+    "categorias": [
+      "Alimentacion"
+    ],
+    "precio_total": 3.86,
+    "valores_nutricionales_100_g": {
+      "Grasas": "18.6 g",
+      "Carbohidratos": "51.2 g",
+      "Proteinas": "14.1 g",
+      "Fibra": "0.6 g",
+      "Valor energetico": "238 kcal"
     }
   },
   {
@@ -4038,29 +4086,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 12.7,
+    "precio_total": 4.67,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.9 g",
-      "Carbohidratos": "26.4 g",
-      "Proteinas": "10.2 g",
-      "Fibra": "2.6 g",
-      "Valor energetico": "209 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/caramelos-chicles-y-golosinas/p/34769",
-    "titulo": "Nubes Dia Marcelo Caramelo bolsa 200 g",
-    "descripcion": "Nubes Dia Marcelo Caramelo bolsa 200 g",
-    "categorias": [
-      "Alimentacion"
-    ],
-    "precio_total": 4.92,
-    "valores_nutricionales_100_g": {
-      "Grasas": "21.6 g",
-      "Carbohidratos": "4.2 g",
-      "Proteinas": "21.6 g",
-      "Fibra": "1.0 g",
-      "Valor energetico": "59 kcal"
+      "Grasas": "10.5 g",
+      "Carbohidratos": "16.2 g",
+      "Proteinas": "9.2 g",
+      "Fibra": "9.2 g",
+      "Valor energetico": "107 kcal"
     }
   },
   {
@@ -4070,13 +4102,13 @@
     "categorias": [
       "Alimentacion"
     ],
-    "precio_total": 1.79,
+    "precio_total": 6.7,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.9 g",
-      "Carbohidratos": "12.7 g",
-      "Proteinas": "16.7 g",
-      "Fibra": "7.5 g",
-      "Valor energetico": "442 kcal"
+      "Grasas": "8.9 g",
+      "Carbohidratos": "40.0 g",
+      "Proteinas": "5.6 g",
+      "Fibra": "4.7 g",
+      "Valor energetico": "298 kcal"
     }
   },
   {
@@ -4086,13 +4118,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 3.97,
+    "precio_total": 13.15,
     "valores_nutricionales_100_g": {
-      "Grasas": "29.8 g",
-      "Carbohidratos": "39.8 g",
-      "Proteinas": "8.8 g",
-      "Fibra": "7.5 g",
-      "Valor energetico": "301 kcal"
+      "Grasas": "9.5 g",
+      "Carbohidratos": "4.7 g",
+      "Proteinas": "20.8 g",
+      "Fibra": "7.7 g",
+      "Valor energetico": "256 kcal"
     }
   },
   {
@@ -4102,93 +4134,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 9.08,
+    "precio_total": 4.32,
     "valores_nutricionales_100_g": {
-      "Grasas": "27.0 g",
-      "Carbohidratos": "49.8 g",
-      "Proteinas": "6.9 g",
-      "Fibra": "3.2 g",
-      "Valor energetico": "466 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/304896",
-    "titulo": "Tarrina de helado pistacho cheesecake Dia Temptation 350 g",
-    "descripcion": "Tarrina de helado pistacho cheesecake Dia Temptation 350 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 14.2,
-    "valores_nutricionales_100_g": {
-      "Grasas": "18.3 g",
-      "Carbohidratos": "22.6 g",
-      "Proteinas": "24.7 g",
-      "Fibra": "8.9 g",
-      "Valor energetico": "425 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309953",
-    "titulo": "Tarrina helado crunchy salted caramel y chocolate Dia Temptation 350 g",
-    "descripcion": "Tarrina helado crunchy salted caramel y chocolate Dia Temptation 350 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 5.15,
-    "valores_nutricionales_100_g": {
-      "Grasas": "20.4 g",
-      "Carbohidratos": "1.7 g",
-      "Proteinas": "21.6 g",
-      "Fibra": "9.5 g",
-      "Valor energetico": "275 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271062",
-    "titulo": "Tarrina de helado choco brownie con salsa chocolate Dia Temptation 350 g",
-    "descripcion": "Tarrina de helado choco brownie con salsa chocolate Dia Temptation 350 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 14.61,
-    "valores_nutricionales_100_g": {
-      "Grasas": "22.1 g",
-      "Carbohidratos": "38.8 g",
-      "Proteinas": "19.2 g",
-      "Fibra": "2.6 g",
-      "Valor energetico": "233 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309600",
-    "titulo": "Tarrrina helado frosty pop - dough Dia Temptation 350 g",
-    "descripcion": "Tarrrina helado frosty pop - dough Dia Temptation 350 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 6.03,
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.4 g",
-      "Carbohidratos": "6.3 g",
-      "Proteinas": "6.0 g",
-      "Fibra": "9.6 g",
-      "Valor energetico": "393 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/52192",
-    "titulo": "Helado cono fresa o limón Dia Temptation 4 x 68 g",
-    "descripcion": "Helado cono fresa o limón Dia Temptation 4 x 68 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 10.87,
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.5 g",
-      "Carbohidratos": "2.5 g",
-      "Proteinas": "19.6 g",
-      "Fibra": "1.0 g",
-      "Valor energetico": "108 kcal"
+      "Grasas": "16.8 g",
+      "Carbohidratos": "15.2 g",
+      "Proteinas": "4.9 g",
+      "Fibra": "10.0 g",
+      "Valor energetico": "299 kcal"
     }
   },
   {
@@ -4198,157 +4150,45 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 1.23,
+    "precio_total": 6.57,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.5 g",
-      "Carbohidratos": "43.7 g",
-      "Proteinas": "24.8 g",
-      "Fibra": "0.5 g",
-      "Valor energetico": "401 kcal"
+      "Grasas": "3.1 g",
+      "Carbohidratos": "42.9 g",
+      "Proteinas": "6.9 g",
+      "Fibra": "3.8 g",
+      "Valor energetico": "391 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309599",
-    "titulo": "Tarrrina helado lemon cake Dia Temptation 350 g",
-    "descripcion": "Tarrrina helado lemon cake Dia Temptation 350 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309953",
+    "titulo": "Tarrina helado crunchy salted caramel y chocolate Dia Temptation 350 g",
+    "descripcion": "Tarrina helado crunchy salted caramel y chocolate Dia Temptation 350 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 13.98,
+    "precio_total": 4.97,
     "valores_nutricionales_100_g": {
-      "Grasas": "21.8 g",
-      "Carbohidratos": "56.8 g",
-      "Proteinas": "6.7 g",
-      "Fibra": "9.0 g",
-      "Valor energetico": "347 kcal"
+      "Grasas": "13.1 g",
+      "Carbohidratos": "27.0 g",
+      "Proteinas": "13.4 g",
+      "Fibra": "2.3 g",
+      "Valor energetico": "119 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/44142",
-    "titulo": "Helado cono nata y chocolate Dia Temptation 4 x 68 g",
-    "descripcion": "Helado cono nata y chocolate Dia Temptation 4 x 68 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/52192",
+    "titulo": "Helado cono fresa o limón Dia Temptation 4 x 68 g",
+    "descripcion": "Helado cono fresa o limón Dia Temptation 4 x 68 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 10.26,
+    "precio_total": 7.93,
     "valores_nutricionales_100_g": {
-      "Grasas": "0.9 g",
-      "Carbohidratos": "57.0 g",
-      "Proteinas": "7.1 g",
-      "Fibra": "9.9 g",
-      "Valor energetico": "305 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/305214",
-    "titulo": "Helado bombón mini popcorn y cookies 6 unidades Dia Temptation 216 g",
-    "descripcion": "Helado bombón mini popcorn y cookies 6 unidades Dia Temptation 216 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 2.56,
-    "valores_nutricionales_100_g": {
-      "Grasas": "29.9 g",
-      "Carbohidratos": "14.9 g",
-      "Proteinas": "7.4 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "351 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/256103",
-    "titulo": "Helado de yogur y fresa Dia Temptation 6 x 43 g",
-    "descripcion": "Helado de yogur y fresa Dia Temptation 6 x 43 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 1.55,
-    "valores_nutricionales_100_g": {
-      "Grasas": "21.8 g",
-      "Carbohidratos": "42.1 g",
-      "Proteinas": "4.3 g",
-      "Fibra": "4.2 g",
-      "Valor energetico": "324 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271097",
-    "titulo": "Sándwich cookie y vainilla Dia Temptation 4 x 60 g",
-    "descripcion": "Sándwich cookie y vainilla Dia Temptation 4 x 60 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 6.74,
-    "valores_nutricionales_100_g": {
-      "Grasas": "9.4 g",
-      "Carbohidratos": "55.2 g",
-      "Proteinas": "11.5 g",
-      "Fibra": "0.5 g",
-      "Valor energetico": "229 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/261948",
-    "titulo": "Helado choco milky Dia Temptation 6 x 48 g",
-    "descripcion": "Helado choco milky Dia Temptation 6 x 48 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 5.55,
-    "valores_nutricionales_100_g": {
-      "Grasas": "8.5 g",
-      "Carbohidratos": "0.4 g",
-      "Proteinas": "1.7 g",
-      "Fibra": "2.7 g",
-      "Valor energetico": "416 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/73523",
-    "titulo": "Helado cono nata y caramelo Dia Temptation 4 x 68 g",
-    "descripcion": "Helado cono nata y caramelo Dia Temptation 4 x 68 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 6.36,
-    "valores_nutricionales_100_g": {
-      "Grasas": "23.6 g",
-      "Carbohidratos": "31.0 g",
-      "Proteinas": "21.1 g",
-      "Fibra": "0.2 g",
-      "Valor energetico": "51 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/270674",
-    "titulo": "Helado cono black cookies Dia Temptation 4 x 65 g",
-    "descripcion": "Helado cono black cookies Dia Temptation 4 x 65 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 9.42,
-    "valores_nutricionales_100_g": {
-      "Grasas": "13.4 g",
-      "Carbohidratos": "11.7 g",
-      "Proteinas": "11.7 g",
-      "Fibra": "5.9 g",
-      "Valor energetico": "212 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271096",
-    "titulo": "Helado sandwich maxi duo 4 unidades Dia Temptation caja 400 g",
-    "descripcion": "Helado sandwich maxi duo 4 unidades Dia Temptation caja 400 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 3.38,
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.4 g",
-      "Carbohidratos": "48.8 g",
-      "Proteinas": "14.0 g",
-      "Fibra": "9.8 g",
-      "Valor energetico": "487 kcal"
+      "Grasas": "4.9 g",
+      "Carbohidratos": "5.2 g",
+      "Proteinas": "4.8 g",
+      "Fibra": "3.8 g",
+      "Valor energetico": "335 kcal"
     }
   },
   {
@@ -4358,13 +4198,109 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 8.91,
+    "precio_total": 6.58,
     "valores_nutricionales_100_g": {
-      "Grasas": "18.0 g",
-      "Carbohidratos": "10.6 g",
-      "Proteinas": "4.0 g",
-      "Fibra": "2.9 g",
-      "Valor energetico": "146 kcal"
+      "Grasas": "6.6 g",
+      "Carbohidratos": "59.7 g",
+      "Proteinas": "22.1 g",
+      "Fibra": "4.8 g",
+      "Valor energetico": "249 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309600",
+    "titulo": "Tarrrina helado frosty pop - dough Dia Temptation 350 g",
+    "descripcion": "Tarrrina helado frosty pop - dough Dia Temptation 350 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 10.38,
+    "valores_nutricionales_100_g": {
+      "Grasas": "21.9 g",
+      "Carbohidratos": "18.1 g",
+      "Proteinas": "1.6 g",
+      "Fibra": "3.4 g",
+      "Valor energetico": "465 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/304896",
+    "titulo": "Tarrina de helado pistacho cheesecake Dia Temptation 350 g",
+    "descripcion": "Tarrina de helado pistacho cheesecake Dia Temptation 350 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 5.37,
+    "valores_nutricionales_100_g": {
+      "Grasas": "23.8 g",
+      "Carbohidratos": "15.4 g",
+      "Proteinas": "19.1 g",
+      "Fibra": "5.7 g",
+      "Valor energetico": "295 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271062",
+    "titulo": "Tarrina de helado choco brownie con salsa chocolate Dia Temptation 350 g",
+    "descripcion": "Tarrina de helado choco brownie con salsa chocolate Dia Temptation 350 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 14.44,
+    "valores_nutricionales_100_g": {
+      "Grasas": "27.9 g",
+      "Carbohidratos": "5.3 g",
+      "Proteinas": "9.2 g",
+      "Fibra": "6.5 g",
+      "Valor energetico": "84 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/44142",
+    "titulo": "Helado cono nata y chocolate Dia Temptation 4 x 68 g",
+    "descripcion": "Helado cono nata y chocolate Dia Temptation 4 x 68 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 6.25,
+    "valores_nutricionales_100_g": {
+      "Grasas": "10.7 g",
+      "Carbohidratos": "10.3 g",
+      "Proteinas": "15.1 g",
+      "Fibra": "9.8 g",
+      "Valor energetico": "235 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309599",
+    "titulo": "Tarrrina helado lemon cake Dia Temptation 350 g",
+    "descripcion": "Tarrrina helado lemon cake Dia Temptation 350 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 4.61,
+    "valores_nutricionales_100_g": {
+      "Grasas": "12.9 g",
+      "Carbohidratos": "34.1 g",
+      "Proteinas": "24.7 g",
+      "Fibra": "8.7 g",
+      "Valor energetico": "139 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271097",
+    "titulo": "Sándwich cookie y vainilla Dia Temptation 4 x 60 g",
+    "descripcion": "Sándwich cookie y vainilla Dia Temptation 4 x 60 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 6.38,
+    "valores_nutricionales_100_g": {
+      "Grasas": "24.7 g",
+      "Carbohidratos": "20.0 g",
+      "Proteinas": "17.2 g",
+      "Fibra": "2.7 g",
+      "Valor energetico": "143 kcal"
     }
   },
   {
@@ -4374,45 +4310,77 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 8.52,
+    "precio_total": 3.14,
     "valores_nutricionales_100_g": {
-      "Grasas": "16.3 g",
-      "Carbohidratos": "50.8 g",
-      "Proteinas": "10.1 g",
-      "Fibra": "7.6 g",
-      "Valor energetico": "297 kcal"
+      "Grasas": "11.3 g",
+      "Carbohidratos": "19.3 g",
+      "Proteinas": "21.6 g",
+      "Fibra": "6.7 g",
+      "Valor energetico": "252 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/310539",
-    "titulo": "Helado sándwich Lotus Biscuit 4 x 43 g",
-    "descripcion": "Helado sándwich Lotus Biscuit 4 x 43 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/261948",
+    "titulo": "Helado choco milky Dia Temptation 6 x 48 g",
+    "descripcion": "Helado choco milky Dia Temptation 6 x 48 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 7.97,
+    "precio_total": 2.16,
     "valores_nutricionales_100_g": {
       "Grasas": "11.9 g",
-      "Carbohidratos": "54.1 g",
-      "Proteinas": "9.9 g",
-      "Fibra": "1.1 g",
-      "Valor energetico": "115 kcal"
+      "Carbohidratos": "20.3 g",
+      "Proteinas": "18.9 g",
+      "Fibra": "0.6 g",
+      "Valor energetico": "156 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/261947",
-    "titulo": "Tarrina de helado strawberry cheesecake Dia Temptation 350 g",
-    "descripcion": "Tarrina de helado strawberry cheesecake Dia Temptation 350 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/305214",
+    "titulo": "Helado bombón mini popcorn y cookies 6 unidades Dia Temptation 216 g",
+    "descripcion": "Helado bombón mini popcorn y cookies 6 unidades Dia Temptation 216 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 2.21,
+    "precio_total": 8.82,
     "valores_nutricionales_100_g": {
-      "Grasas": "11.4 g",
-      "Carbohidratos": "59.8 g",
-      "Proteinas": "10.4 g",
+      "Grasas": "23.8 g",
+      "Carbohidratos": "50.8 g",
+      "Proteinas": "11.9 g",
+      "Fibra": "0.4 g",
+      "Valor energetico": "296 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/256103",
+    "titulo": "Helado de yogur y fresa Dia Temptation 6 x 43 g",
+    "descripcion": "Helado de yogur y fresa Dia Temptation 6 x 43 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 7.95,
+    "valores_nutricionales_100_g": {
+      "Grasas": "24.5 g",
+      "Carbohidratos": "33.9 g",
+      "Proteinas": "15.8 g",
       "Fibra": "5.1 g",
-      "Valor energetico": "435 kcal"
+      "Valor energetico": "129 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/73523",
+    "titulo": "Helado cono nata y caramelo Dia Temptation 4 x 68 g",
+    "descripcion": "Helado cono nata y caramelo Dia Temptation 4 x 68 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 1.89,
+    "valores_nutricionales_100_g": {
+      "Grasas": "24.8 g",
+      "Carbohidratos": "50.1 g",
+      "Proteinas": "4.2 g",
+      "Fibra": "4.6 g",
+      "Valor energetico": "295 kcal"
     }
   },
   {
@@ -4422,109 +4390,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 2.7,
+    "precio_total": 12.85,
     "valores_nutricionales_100_g": {
-      "Grasas": "16.9 g",
-      "Carbohidratos": "29.9 g",
-      "Proteinas": "4.9 g",
-      "Fibra": "1.9 g",
-      "Valor energetico": "77 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/118822",
-    "titulo": "Tarrina de helado de dulce de leche Dia Temptation 525 g",
-    "descripcion": "Tarrina de helado de dulce de leche Dia Temptation 525 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 12.47,
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.2 g",
-      "Carbohidratos": "31.4 g",
-      "Proteinas": "19.8 g",
-      "Fibra": "4.9 g",
-      "Valor energetico": "449 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/14343",
-    "titulo": "Helado cono vainilla Dia Temptation 4 x 68 g",
-    "descripcion": "Helado cono vainilla Dia Temptation 4 x 68 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 3.12,
-    "valores_nutricionales_100_g": {
-      "Grasas": "5.2 g",
-      "Carbohidratos": "32.9 g",
-      "Proteinas": "10.4 g",
-      "Fibra": "2.4 g",
-      "Valor energetico": "112 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/256189",
-    "titulo": "Tarrina de helado de vainilla Dia Temptation 500 g",
-    "descripcion": "Tarrina de helado de vainilla Dia Temptation 500 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 7.82,
-    "valores_nutricionales_100_g": {
-      "Grasas": "9.8 g",
-      "Carbohidratos": "56.8 g",
-      "Proteinas": "1.7 g",
-      "Fibra": "4.1 g",
-      "Valor energetico": "228 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/261946",
-    "titulo": "Tarrina de helado cookie dough Dia Temptation 350 g",
-    "descripcion": "Tarrina de helado cookie dough Dia Temptation 350 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 3.74,
-    "valores_nutricionales_100_g": {
-      "Grasas": "12.9 g",
-      "Carbohidratos": "22.3 g",
-      "Proteinas": "25.0 g",
-      "Fibra": "3.0 g",
-      "Valor energetico": "185 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/256380",
-    "titulo": "Tarrina de helado menta con chocolate Dia Temptation 350 g",
-    "descripcion": "Tarrina de helado menta con chocolate Dia Temptation 350 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 2.0,
-    "valores_nutricionales_100_g": {
-      "Grasas": "20.7 g",
-      "Carbohidratos": "36.2 g",
-      "Proteinas": "16.2 g",
-      "Fibra": "1.4 g",
-      "Valor energetico": "382 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271064",
-    "titulo": "Tarrina de helado vainilla con nueces de macadamia Dia Temptation 350 g",
-    "descripcion": "Tarrina de helado vainilla con nueces de macadamia Dia Temptation 350 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 8.5,
-    "valores_nutricionales_100_g": {
-      "Grasas": "7.7 g",
-      "Carbohidratos": "51.8 g",
-      "Proteinas": "21.2 g",
-      "Fibra": "5.7 g",
-      "Valor energetico": "311 kcal"
+      "Grasas": "13.8 g",
+      "Carbohidratos": "27.0 g",
+      "Proteinas": "23.0 g",
+      "Fibra": "5.8 g",
+      "Valor energetico": "232 kcal"
     }
   },
   {
@@ -4534,77 +4406,45 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 5.98,
+    "precio_total": 11.11,
     "valores_nutricionales_100_g": {
-      "Grasas": "21.4 g",
-      "Carbohidratos": "2.2 g",
-      "Proteinas": "15.1 g",
-      "Fibra": "2.7 g",
-      "Valor energetico": "185 kcal"
+      "Grasas": "21.5 g",
+      "Carbohidratos": "29.9 g",
+      "Proteinas": "15.8 g",
+      "Fibra": "7.1 g",
+      "Valor energetico": "490 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271058",
-    "titulo": "Tarrina de tiramisú Dia Temptation 468 g",
-    "descripcion": "Tarrina de tiramisú Dia Temptation 468 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/19519",
+    "titulo": "Helado bombón chocolate blanco Dia Temptation 4 x 84 g",
+    "descripcion": "Helado bombón chocolate blanco Dia Temptation 4 x 84 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 12.73,
+    "precio_total": 12.82,
     "valores_nutricionales_100_g": {
-      "Grasas": "9.3 g",
-      "Carbohidratos": "53.0 g",
-      "Proteinas": "8.1 g",
-      "Fibra": "0.7 g",
-      "Valor energetico": "221 kcal"
+      "Grasas": "15.9 g",
+      "Carbohidratos": "14.3 g",
+      "Proteinas": "17.8 g",
+      "Fibra": "5.5 g",
+      "Valor energetico": "384 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/291273",
-    "titulo": "Helado bombón galleta y caramelo Dia Temptation 3 x 71 g",
-    "descripcion": "Helado bombón galleta y caramelo Dia Temptation 3 x 71 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271064",
+    "titulo": "Tarrina de helado vainilla con nueces de macadamia Dia Temptation 350 g",
+    "descripcion": "Tarrina de helado vainilla con nueces de macadamia Dia Temptation 350 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 7.15,
+    "precio_total": 12.04,
     "valores_nutricionales_100_g": {
-      "Grasas": "28.8 g",
-      "Carbohidratos": "32.8 g",
-      "Proteinas": "17.0 g",
-      "Fibra": "3.3 g",
-      "Valor energetico": "253 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/120001",
-    "titulo": "Polo refrescante mix para congelar Dia Marcelo Caramelo 600 ml",
-    "descripcion": "Polo refrescante mix para congelar Dia Marcelo Caramelo 600 ml",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 11.74,
-    "valores_nutricionales_100_g": {
-      "Grasas": "26.7 g",
-      "Carbohidratos": "2.2 g",
-      "Proteinas": "14.5 g",
-      "Fibra": "9.0 g",
-      "Valor energetico": "447 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/129278",
-    "titulo": "Tarta laminada nata y chocolate Dia Temptation 525 g",
-    "descripcion": "Tarta laminada nata y chocolate Dia Temptation 525 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 7.47,
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.9 g",
-      "Carbohidratos": "47.9 g",
-      "Proteinas": "14.0 g",
-      "Fibra": "8.7 g",
-      "Valor energetico": "462 kcal"
+      "Grasas": "3.1 g",
+      "Carbohidratos": "31.0 g",
+      "Proteinas": "12.0 g",
+      "Fibra": "5.5 g",
+      "Valor energetico": "365 kcal"
     }
   },
   {
@@ -4614,61 +4454,61 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 8.29,
+    "precio_total": 3.75,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.8 g",
-      "Carbohidratos": "1.8 g",
-      "Proteinas": "13.0 g",
-      "Fibra": "0.9 g",
-      "Valor energetico": "353 kcal"
+      "Grasas": "10.6 g",
+      "Carbohidratos": "45.1 g",
+      "Proteinas": "20.4 g",
+      "Fibra": "3.8 g",
+      "Valor energetico": "349 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271101",
-    "titulo": "Helado sorbete remolino de sabores 7 unidades Dia Temptation caja 455 g",
-    "descripcion": "Helado sorbete remolino de sabores 7 unidades Dia Temptation caja 455 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/261946",
+    "titulo": "Tarrina de helado cookie dough Dia Temptation 350 g",
+    "descripcion": "Tarrina de helado cookie dough Dia Temptation 350 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 9.95,
+    "precio_total": 2.84,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.2 g",
-      "Carbohidratos": "28.1 g",
-      "Proteinas": "21.0 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "72 kcal"
+      "Grasas": "26.0 g",
+      "Carbohidratos": "11.4 g",
+      "Proteinas": "20.1 g",
+      "Fibra": "4.7 g",
+      "Valor energetico": "440 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/270898",
-    "titulo": "Helado bombón 70% cacao Dia Temptation 3 x 67 g",
-    "descripcion": "Helado bombón 70% cacao Dia Temptation 3 x 67 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271096",
+    "titulo": "Helado sandwich maxi duo 4 unidades Dia Temptation caja 400 g",
+    "descripcion": "Helado sandwich maxi duo 4 unidades Dia Temptation caja 400 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 10.27,
+    "precio_total": 5.6,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.1 g",
-      "Carbohidratos": "56.4 g",
-      "Proteinas": "2.8 g",
-      "Fibra": "1.4 g",
-      "Valor energetico": "331 kcal"
+      "Grasas": "7.7 g",
+      "Carbohidratos": "51.4 g",
+      "Proteinas": "8.8 g",
+      "Fibra": "0.3 g",
+      "Valor energetico": "259 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/101153",
-    "titulo": "Fantasmikos Nestlé 240 g",
-    "descripcion": "Fantasmikos Nestlé 240 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/270674",
+    "titulo": "Helado cono black cookies Dia Temptation 4 x 65 g",
+    "descripcion": "Helado cono black cookies Dia Temptation 4 x 65 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 5.57,
+    "precio_total": 3.93,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.3 g",
-      "Carbohidratos": "14.9 g",
-      "Proteinas": "21.2 g",
-      "Fibra": "7.3 g",
-      "Valor energetico": "214 kcal"
+      "Grasas": "17.6 g",
+      "Carbohidratos": "43.3 g",
+      "Proteinas": "5.1 g",
+      "Fibra": "2.7 g",
+      "Valor energetico": "332 kcal"
     }
   },
   {
@@ -4678,61 +4518,189 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 7.93,
+    "precio_total": 7.5,
     "valores_nutricionales_100_g": {
-      "Grasas": "24.7 g",
-      "Carbohidratos": "58.4 g",
-      "Proteinas": "7.7 g",
-      "Fibra": "7.0 g",
-      "Valor energetico": "303 kcal"
+      "Grasas": "8.0 g",
+      "Carbohidratos": "4.0 g",
+      "Proteinas": "11.8 g",
+      "Fibra": "8.5 g",
+      "Valor energetico": "220 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/270894",
-    "titulo": "Helado mini bombón nocciola Dia Temptation 6 x 38 g",
-    "descripcion": "Helado mini bombón nocciola Dia Temptation 6 x 38 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/118822",
+    "titulo": "Tarrina de helado de dulce de leche Dia Temptation 525 g",
+    "descripcion": "Tarrina de helado de dulce de leche Dia Temptation 525 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 1.58,
+    "precio_total": 3.43,
     "valores_nutricionales_100_g": {
-      "Grasas": "10.9 g",
-      "Carbohidratos": "34.7 g",
-      "Proteinas": "19.6 g",
-      "Fibra": "0.5 g",
-      "Valor energetico": "358 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309556",
-    "titulo": "Mini tarrinas helado 4 unidades Haagen Dazs 326 g",
-    "descripcion": "Mini tarrinas helado 4 unidades Haagen Dazs 326 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 7.16,
-    "valores_nutricionales_100_g": {
-      "Grasas": "28.3 g",
-      "Carbohidratos": "29.5 g",
-      "Proteinas": "10.9 g",
-      "Fibra": "4.0 g",
-      "Valor energetico": "169 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/44145",
-    "titulo": "Tarrina de helado stracciatella Dia Temptation 525 g",
-    "descripcion": "Tarrina de helado stracciatella Dia Temptation 525 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 6.99,
-    "valores_nutricionales_100_g": {
-      "Grasas": "7.9 g",
-      "Carbohidratos": "28.3 g",
-      "Proteinas": "15.0 g",
+      "Grasas": "0.5 g",
+      "Carbohidratos": "28.1 g",
+      "Proteinas": "5.7 g",
       "Fibra": "1.6 g",
-      "Valor energetico": "378 kcal"
+      "Valor energetico": "186 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/21122",
+    "titulo": "Helado corte tres sabores Dia Temptation 523 g",
+    "descripcion": "Helado corte tres sabores Dia Temptation 523 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 9.2,
+    "valores_nutricionales_100_g": {
+      "Grasas": "28.4 g",
+      "Carbohidratos": "5.5 g",
+      "Proteinas": "19.8 g",
+      "Fibra": "0.4 g",
+      "Valor energetico": "486 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/256189",
+    "titulo": "Tarrina de helado de vainilla Dia Temptation 500 g",
+    "descripcion": "Tarrina de helado de vainilla Dia Temptation 500 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 11.51,
+    "valores_nutricionales_100_g": {
+      "Grasas": "26.3 g",
+      "Carbohidratos": "9.3 g",
+      "Proteinas": "10.4 g",
+      "Fibra": "2.1 g",
+      "Valor energetico": "445 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/310539",
+    "titulo": "Helado sándwich Lotus Biscuit 4 x 43 g",
+    "descripcion": "Helado sándwich Lotus Biscuit 4 x 43 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 4.06,
+    "valores_nutricionales_100_g": {
+      "Grasas": "10.5 g",
+      "Carbohidratos": "12.0 g",
+      "Proteinas": "19.3 g",
+      "Fibra": "5.0 g",
+      "Valor energetico": "452 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/14343",
+    "titulo": "Helado cono vainilla Dia Temptation 4 x 68 g",
+    "descripcion": "Helado cono vainilla Dia Temptation 4 x 68 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 4.64,
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.9 g",
+      "Carbohidratos": "49.0 g",
+      "Proteinas": "19.6 g",
+      "Fibra": "8.4 g",
+      "Valor energetico": "402 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309601",
+    "titulo": "Minisorbetes Dia Temptation 3 x 75 g",
+    "descripcion": "Minisorbetes Dia Temptation 3 x 75 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 7.5,
+    "valores_nutricionales_100_g": {
+      "Grasas": "25.7 g",
+      "Carbohidratos": "44.1 g",
+      "Proteinas": "18.8 g",
+      "Fibra": "4.1 g",
+      "Valor energetico": "129 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/261947",
+    "titulo": "Tarrina de helado strawberry cheesecake Dia Temptation 350 g",
+    "descripcion": "Tarrina de helado strawberry cheesecake Dia Temptation 350 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 4.5,
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.1 g",
+      "Carbohidratos": "15.8 g",
+      "Proteinas": "6.6 g",
+      "Fibra": "9.9 g",
+      "Valor energetico": "417 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271058",
+    "titulo": "Tarrina de tiramisú Dia Temptation 468 g",
+    "descripcion": "Tarrina de tiramisú Dia Temptation 468 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 8.54,
+    "valores_nutricionales_100_g": {
+      "Grasas": "26.3 g",
+      "Carbohidratos": "48.8 g",
+      "Proteinas": "19.0 g",
+      "Fibra": "0.0 g",
+      "Valor energetico": "238 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271101",
+    "titulo": "Polo remolino de frutas Dia Temptation 7 x 65 g",
+    "descripcion": "Polo remolino de frutas Dia Temptation 7 x 65 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 10.86,
+    "valores_nutricionales_100_g": {
+      "Grasas": "8.0 g",
+      "Carbohidratos": "51.3 g",
+      "Proteinas": "15.3 g",
+      "Fibra": "2.3 g",
+      "Valor energetico": "268 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/299291",
+    "titulo": "Helado bombón yogur y frutos rojos Dia Temptation 3 x 66 g",
+    "descripcion": "Helado bombón yogur y frutos rojos Dia Temptation 3 x 66 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 14.39,
+    "valores_nutricionales_100_g": {
+      "Grasas": "3.6 g",
+      "Carbohidratos": "54.4 g",
+      "Proteinas": "8.4 g",
+      "Fibra": "8.7 g",
+      "Valor energetico": "202 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/291400",
+    "titulo": "Helado tropical lima-limón Dia Temptation 6 x 112 g",
+    "descripcion": "Helado tropical lima-limón Dia Temptation 6 x 112 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 9.84,
+    "valores_nutricionales_100_g": {
+      "Grasas": "26.5 g",
+      "Carbohidratos": "40.1 g",
+      "Proteinas": "3.6 g",
+      "Fibra": "7.5 g",
+      "Valor energetico": "478 kcal"
     }
   },
   {
@@ -4742,29 +4710,77 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 9.7,
+    "precio_total": 12.56,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.5 g",
-      "Carbohidratos": "24.9 g",
-      "Proteinas": "13.6 g",
-      "Fibra": "9.5 g",
-      "Valor energetico": "187 kcal"
+      "Grasas": "26.2 g",
+      "Carbohidratos": "37.6 g",
+      "Proteinas": "18.0 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "137 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/291267",
-    "titulo": "Helado mini bombón sin azúcar clásico y almendrado Dia Temptation 6 x 36 g",
-    "descripcion": "Helado mini bombón sin azúcar clásico y almendrado Dia Temptation 6 x 36 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271066",
+    "titulo": "Polo de frutas y verdura Dia Vegedia 6 x 52 g",
+    "descripcion": "Polo de frutas y verdura Dia Vegedia 6 x 52 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 8.69,
+    "precio_total": 8.72,
     "valores_nutricionales_100_g": {
-      "Grasas": "14.5 g",
-      "Carbohidratos": "34.6 g",
-      "Proteinas": "20.7 g",
-      "Fibra": "5.2 g",
-      "Valor energetico": "189 kcal"
+      "Grasas": "20.1 g",
+      "Carbohidratos": "22.7 g",
+      "Proteinas": "19.3 g",
+      "Fibra": "4.6 g",
+      "Valor energetico": "348 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271095",
+    "titulo": "Helado sándwich de nata sin azúcar añadido Dia Temptation 6 x 50 g",
+    "descripcion": "Helado sándwich de nata sin azúcar añadido Dia Temptation 6 x 50 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 10.09,
+    "valores_nutricionales_100_g": {
+      "Grasas": "27.4 g",
+      "Carbohidratos": "12.7 g",
+      "Proteinas": "21.7 g",
+      "Fibra": "2.9 g",
+      "Valor energetico": "221 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/129278",
+    "titulo": "Tarta laminada nata y chocolate Dia Temptation 525 g",
+    "descripcion": "Tarta laminada nata y chocolate Dia Temptation 525 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 3.5,
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.5 g",
+      "Carbohidratos": "7.2 g",
+      "Proteinas": "3.2 g",
+      "Fibra": "4.7 g",
+      "Valor energetico": "93 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/44145",
+    "titulo": "Tarrina de helado stracciatella Dia Temptation 525 g",
+    "descripcion": "Tarrina de helado stracciatella Dia Temptation 525 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 4.52,
+    "valores_nutricionales_100_g": {
+      "Grasas": "10.9 g",
+      "Carbohidratos": "12.7 g",
+      "Proteinas": "20.4 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "243 kcal"
     }
   },
   {
@@ -4774,29 +4790,29 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 5.57,
+    "precio_total": 11.65,
     "valores_nutricionales_100_g": {
-      "Grasas": "22.5 g",
-      "Carbohidratos": "58.8 g",
-      "Proteinas": "8.3 g",
-      "Fibra": "7.0 g",
-      "Valor energetico": "177 kcal"
+      "Grasas": "16.6 g",
+      "Carbohidratos": "40.3 g",
+      "Proteinas": "11.9 g",
+      "Fibra": "8.5 g",
+      "Valor energetico": "277 kcal"
     }
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/13201",
-    "titulo": "Tarrina sorbete de limón Dia Temptation 540 g",
-    "descripcion": "Tarrina sorbete de limón Dia Temptation 540 g",
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/291267",
+    "titulo": "Helado mini bombón sin azúcar clásico y almendrado Dia Temptation 6 x 36 g",
+    "descripcion": "Helado mini bombón sin azúcar clásico y almendrado Dia Temptation 6 x 36 g",
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 3.79,
+    "precio_total": 5.37,
     "valores_nutricionales_100_g": {
-      "Grasas": "20.9 g",
-      "Carbohidratos": "52.5 g",
-      "Proteinas": "20.6 g",
-      "Fibra": "5.3 g",
-      "Valor energetico": "242 kcal"
+      "Grasas": "20.0 g",
+      "Carbohidratos": "13.8 g",
+      "Proteinas": "3.9 g",
+      "Fibra": "1.3 g",
+      "Valor energetico": "254 kcal"
     }
   },
   {
@@ -4806,13 +4822,29 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 11.44,
+    "precio_total": 1.67,
     "valores_nutricionales_100_g": {
-      "Grasas": "3.8 g",
-      "Carbohidratos": "33.4 g",
-      "Proteinas": "0.5 g",
-      "Fibra": "5.1 g",
-      "Valor energetico": "226 kcal"
+      "Grasas": "26.4 g",
+      "Carbohidratos": "47.4 g",
+      "Proteinas": "17.6 g",
+      "Fibra": "2.5 g",
+      "Valor energetico": "475 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/13201",
+    "titulo": "Tarrina sorbete de limón Dia Temptation 540 g",
+    "descripcion": "Tarrina sorbete de limón Dia Temptation 540 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 4.53,
+    "valores_nutricionales_100_g": {
+      "Grasas": "15.3 g",
+      "Carbohidratos": "26.9 g",
+      "Proteinas": "4.7 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "366 kcal"
     }
   },
   {
@@ -4822,13 +4854,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 7.13,
+    "precio_total": 11.01,
     "valores_nutricionales_100_g": {
-      "Grasas": "4.3 g",
-      "Carbohidratos": "51.8 g",
-      "Proteinas": "1.6 g",
-      "Fibra": "5.8 g",
-      "Valor energetico": "377 kcal"
+      "Grasas": "27.9 g",
+      "Carbohidratos": "50.6 g",
+      "Proteinas": "11.2 g",
+      "Fibra": "7.1 g",
+      "Valor energetico": "403 kcal"
     }
   },
   {
@@ -4838,13 +4870,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 9.65,
+    "precio_total": 4.47,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.7 g",
-      "Carbohidratos": "56.7 g",
-      "Proteinas": "11.9 g",
-      "Fibra": "0.9 g",
-      "Valor energetico": "473 kcal"
+      "Grasas": "15.2 g",
+      "Carbohidratos": "15.2 g",
+      "Proteinas": "11.2 g",
+      "Fibra": "3.9 g",
+      "Valor energetico": "321 kcal"
     }
   },
   {
@@ -4854,13 +4886,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 5.57,
+    "precio_total": 10.72,
     "valores_nutricionales_100_g": {
-      "Grasas": "17.5 g",
-      "Carbohidratos": "25.3 g",
-      "Proteinas": "12.5 g",
-      "Fibra": "5.1 g",
-      "Valor energetico": "176 kcal"
+      "Grasas": "16.8 g",
+      "Carbohidratos": "26.3 g",
+      "Proteinas": "0.9 g",
+      "Fibra": "9.6 g",
+      "Valor energetico": "366 kcal"
     }
   },
   {
@@ -4870,13 +4902,29 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 1.62,
+    "precio_total": 8.14,
     "valores_nutricionales_100_g": {
-      "Grasas": "25.4 g",
-      "Carbohidratos": "17.8 g",
-      "Proteinas": "23.9 g",
-      "Fibra": "1.8 g",
-      "Valor energetico": "251 kcal"
+      "Grasas": "28.2 g",
+      "Carbohidratos": "3.7 g",
+      "Proteinas": "23.7 g",
+      "Fibra": "6.2 g",
+      "Valor energetico": "474 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309556",
+    "titulo": "Mini tarrinas helado 4 unidades Haagen Dazs 326 g",
+    "descripcion": "Mini tarrinas helado 4 unidades Haagen Dazs 326 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 14.22,
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.0 g",
+      "Carbohidratos": "6.5 g",
+      "Proteinas": "21.3 g",
+      "Fibra": "8.2 g",
+      "Valor energetico": "391 kcal"
     }
   },
   {
@@ -4886,13 +4934,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 2.19,
+    "precio_total": 9.15,
     "valores_nutricionales_100_g": {
-      "Grasas": "16.2 g",
-      "Carbohidratos": "38.0 g",
-      "Proteinas": "2.0 g",
-      "Fibra": "6.5 g",
-      "Valor energetico": "395 kcal"
+      "Grasas": "18.4 g",
+      "Carbohidratos": "39.3 g",
+      "Proteinas": "13.7 g",
+      "Fibra": "4.7 g",
+      "Valor energetico": "89 kcal"
     }
   },
   {
@@ -4902,13 +4950,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 14.3,
+    "precio_total": 3.25,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.8 g",
-      "Carbohidratos": "44.5 g",
-      "Proteinas": "5.3 g",
-      "Fibra": "6.8 g",
-      "Valor energetico": "184 kcal"
+      "Grasas": "3.0 g",
+      "Carbohidratos": "51.8 g",
+      "Proteinas": "11.5 g",
+      "Fibra": "3.4 g",
+      "Valor energetico": "328 kcal"
     }
   },
   {
@@ -4918,13 +4966,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 10.8,
+    "precio_total": 11.76,
     "valores_nutricionales_100_g": {
-      "Grasas": "26.8 g",
-      "Carbohidratos": "2.9 g",
-      "Proteinas": "11.7 g",
-      "Fibra": "6.8 g",
-      "Valor energetico": "428 kcal"
+      "Grasas": "3.0 g",
+      "Carbohidratos": "37.9 g",
+      "Proteinas": "4.5 g",
+      "Fibra": "5.8 g",
+      "Valor energetico": "214 kcal"
     }
   },
   {
@@ -4934,13 +4982,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 5.71,
+    "precio_total": 9.67,
     "valores_nutricionales_100_g": {
-      "Grasas": "19.0 g",
-      "Carbohidratos": "51.3 g",
-      "Proteinas": "10.8 g",
-      "Fibra": "4.9 g",
-      "Valor energetico": "340 kcal"
+      "Grasas": "29.7 g",
+      "Carbohidratos": "52.4 g",
+      "Proteinas": "10.1 g",
+      "Fibra": "6.9 g",
+      "Valor energetico": "396 kcal"
     }
   },
   {
@@ -4950,13 +4998,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 1.39,
+    "precio_total": 5.09,
     "valores_nutricionales_100_g": {
-      "Grasas": "13.4 g",
-      "Carbohidratos": "31.5 g",
-      "Proteinas": "0.9 g",
-      "Fibra": "6.8 g",
-      "Valor energetico": "270 kcal"
+      "Grasas": "0.7 g",
+      "Carbohidratos": "15.3 g",
+      "Proteinas": "13.0 g",
+      "Fibra": "0.6 g",
+      "Valor energetico": "170 kcal"
     }
   },
   {
@@ -4966,13 +5014,45 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 10.85,
+    "precio_total": 5.82,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.7 g",
-      "Carbohidratos": "13.6 g",
-      "Proteinas": "10.4 g",
-      "Fibra": "2.2 g",
-      "Valor energetico": "279 kcal"
+      "Grasas": "23.0 g",
+      "Carbohidratos": "4.6 g",
+      "Proteinas": "8.6 g",
+      "Fibra": "7.4 g",
+      "Valor energetico": "427 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/120001",
+    "titulo": "Polo refrescante mix para congelar Dia Marcelo Caramelo 600 ml",
+    "descripcion": "Polo refrescante mix para congelar Dia Marcelo Caramelo 600 ml",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 4.5,
+    "valores_nutricionales_100_g": {
+      "Grasas": "20.0 g",
+      "Carbohidratos": "8.9 g",
+      "Proteinas": "6.2 g",
+      "Fibra": "0.9 g",
+      "Valor energetico": "227 kcal"
+    }
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/256380",
+    "titulo": "Tarrina de helado menta con chocolate Dia Temptation 350 g",
+    "descripcion": "Tarrina de helado menta con chocolate Dia Temptation 350 g",
+    "categorias": [
+      "Congelados"
+    ],
+    "precio_total": 11.35,
+    "valores_nutricionales_100_g": {
+      "Grasas": "11.7 g",
+      "Carbohidratos": "10.9 g",
+      "Proteinas": "4.3 g",
+      "Fibra": "9.3 g",
+      "Valor energetico": "98 kcal"
     }
   },
   {
@@ -4982,61 +5062,13 @@
     "categorias": [
       "Congelados"
     ],
-    "precio_total": 12.58,
+    "precio_total": 2.12,
     "valores_nutricionales_100_g": {
-      "Grasas": "8.0 g",
-      "Carbohidratos": "8.6 g",
-      "Proteinas": "15.2 g",
-      "Fibra": "7.9 g",
-      "Valor energetico": "369 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/301404",
-    "titulo": "Tarrina de helado de yogur y frutos del bosque Carte D'Or 480 g",
-    "descripcion": "Tarrina de helado de yogur y frutos del bosque Carte D'Or 480 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 8.72,
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.1 g",
-      "Carbohidratos": "8.8 g",
-      "Proteinas": "17.2 g",
-      "Fibra": "9.9 g",
-      "Valor energetico": "102 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/142973",
-    "titulo": "Maxibon cookies Nestlé 4 x 90 g",
-    "descripcion": "Maxibon cookies Nestlé 4 x 90 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 4.04,
-    "valores_nutricionales_100_g": {
-      "Grasas": "14.5 g",
-      "Carbohidratos": "23.6 g",
-      "Proteinas": "4.6 g",
-      "Fibra": "3.6 g",
-      "Valor energetico": "483 kcal"
-    }
-  },
-  {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/272243",
-    "titulo": "Tarrina de helado cookie dough Ben&Jerry's 406 g",
-    "descripcion": "Tarrina de helado cookie dough Ben&Jerry's 406 g",
-    "categorias": [
-      "Congelados"
-    ],
-    "precio_total": 12.63,
-    "valores_nutricionales_100_g": {
-      "Grasas": "14.3 g",
-      "Carbohidratos": "55.1 g",
-      "Proteinas": "18.9 g",
-      "Fibra": "8.1 g",
-      "Valor energetico": "411 kcal"
+      "Grasas": "18.7 g",
+      "Carbohidratos": "37.3 g",
+      "Proteinas": "9.4 g",
+      "Fibra": "8.2 g",
+      "Valor energetico": "447 kcal"
     }
   }
 ]
