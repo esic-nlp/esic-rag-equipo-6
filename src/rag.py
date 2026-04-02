@@ -3,7 +3,7 @@ import numpy as np
 import re
 from sentence_transformers import SentenceTransformer
 
-# Modelo robusto para español
+# Modelo robusto
 embedder = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 def extraer_top_n(consulta, default=3):
@@ -33,7 +33,7 @@ def analizar_intencion(consulta):
 
 def crear_indice(df):
     # Usamos solo el título para el embedding para evitar confusión con descripciones largas
-    embeddings = embedder.encode(df["titulo"].tolist(), show_progress_bar=False)
+    embeddings = embedder.encode(df["texto_busqueda"].tolist(), show_progress_bar=False)
     index = faiss.IndexFlatL2(embeddings.shape[1])
     index.add(np.array(embeddings).astype("float32"))
     return index
@@ -42,8 +42,8 @@ def buscar_y_responder(consulta, df, index):
     intencion = analizar_intencion(consulta)
     top_n = extraer_top_n(consulta)
     
-    # 1. FILTRO DE PALABRAS CLAVE (Para evitar gazpachos en embutidos)
-    # Extraemos la palabra más importante de la consulta (quitando 'top 5', etc)
+    # 1. FILTRO DE PALABRAS CLAVE
+    # Extraemos la palabra más importante de la consulta
     palabras_clave = [p for p in intencion["termino_busqueda"].split() if len(p) > 3]
     
     if intencion["es_ranking_puro"]:
@@ -67,10 +67,10 @@ def buscar_y_responder(consulta, df, index):
         candidatos["score_texto"] = 1 - (dist[0] / max_d)
         
         # FILTRO DE CORTE ESTRICTO: Si el score de texto es bajo, fuera.
-        candidatos = candidatos[candidatos["score_texto"] > 0.45]
+        candidatos = candidatos[candidatos["score_texto"] > 0.60]
         
         # 3. RE-RANKING (80% Texto, 20% Nutrición)
-        candidatos["rank_final"] = (candidatos["score_texto"] * 0.8) + ((candidatos["norm_nutri"]/100) * 0.2)
+        candidatos["rank_final"] = ((candidatos["score_texto"] * 0.7) + ((candidatos["norm_nutri"]/100) * 0.2) +(candidatos["norm_precio"] * 0.1))
         
         mejores = candidatos.sort_values("rank_final", ascending=False).head(top_n)
         metodo = "Búsqueda Semántica Optimizada"
@@ -87,9 +87,15 @@ def buscar_y_responder(consulta, df, index):
     return res
 
 def consultar(df):
+    """Modo interactivo (consola)"""
     index = crear_indice(df)
-    print("Asistente listo. Sin emojis y con filtros estrictos.")
+    print("Asistente listo.")
     while True:
         user_input = input("Que buscas?: ")
         if user_input.lower() in ["salir", "exit"]: break
         print(buscar_y_responder(user_input, df, index))
+
+# Función para usar desde app.py
+def consultar_web(consulta, df, index):
+    """Modo web (sin interacción de consola)"""
+    return buscar_y_responder(consulta, df, index)
