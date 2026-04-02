@@ -1,99 +1,99 @@
-# 🚀 FastAPI Web Server - Asistente Nutricional DIA
+# 🚀 Servidor Web FastAPI - Asistente Nutricional DIA
 
-This is a modern web application built with FastAPI that serves your RAG-based nutritional products assistant with a clean, responsive frontend.
+Esta es una aplicación web moderna construida con FastAPI que sirve tu asistente de productos nutricionales basado en RAG con una interfaz frontal limpia y responsiva.
 
-## Features
+## Características
 
-✨ **Modern Frontend**
-- Clean, responsive design using DIA brand colors (Red #E20613, White #F9F9F7)
-- Real-time product search with RAG system integration
-- Product statistics dashboard
-- Smooth animations and transitions
-- Mobile-friendly interface
+✨ **Interfaz Frontend Moderna**
+- Diseño limpio y responsivo usando colores de marca DIA (Rojo #E20613, Blanco #F9F9F7)
+- Búsqueda de productos en tiempo real con integración del sistema RAG
+- Panel de estadísticas de productos
+- Animaciones y transiciones suaves
+- Interfaz amigable con dispositivos móviles
 
-⚡ **FastAPI Backend**
-- RESTful API endpoints for product search and retrieval
-- FAISS-based semantic search integration
-- Product filtering and pagination
-- Database statistics endpoint
-- Health check endpoint
+⚡ **Backend FastAPI**
+- Endpoints de API REST para búsqueda y recuperación de productos
+- Integración de búsqueda semántica basada en FAISS
+- Filtrado de productos y paginación
+- Endpoint de estadísticas de base de datos
+- Endpoint de verificación de estado
 
-## Getting Started
+## Comencemos
 
-### 1. Install Dependencies
+### 1. Instalar Dependencias
 
-Make sure you have Python 3.8+ installed, then:
+Asegúrate de tener Python 3.8+ instalado, luego:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Prepare Data
+### 2. Preparar Datos
 
-Ensure your cleaned product data is available at:
+Asegúrate de que tus datos de productos limpios estén disponibles en:
 ```
 data/clean/productos_limpios.csv
 ```
 
-If you haven't generated this yet, run the main pipeline first:
+Si aún no los has generado, ejecuta primero el pipeline principal:
 ```bash
 python main.py
 ```
 
-### 3. Run the Server
+### 3. Ejecutar el Servidor
 
-Start the FastAPI server with:
+Inicia el servidor FastAPI con:
 
 ```bash
 python api.py
 ```
 
-Or using uvicorn directly:
+O usa uvicorn directamente:
 
 ```bash
 uvicorn api:app --reload --host 0.0.0.0 --port 8000
 ```
 
-**Options:**
-- `--reload`: Auto-reload on code changes (development only)
-- `--host 0.0.0.0`: Listen on all available interfaces
-- `--port 8000`: Run on port 8000 (change if needed)
+**Opciones:**
+- `--reload`: Recarga automática al cambiar código (solo desarrollo)
+- `--host 0.0.0.0`: Escucha en todas las interfaces disponibles
+- `--port 8000`: Ejecuta en el puerto 8000 (cambiar si es necesario)
 
-### 4. Access the Application
+### 4. Acceder a la Aplicación
 
-Open your browser and navigate to:
+Abre tu navegador y ve a:
 ```
 http://localhost:8000
 ```
 
-## API Endpoints
+## Endpoints de la API
 
 ### GET `/`
-Returns the main HTML page with the user interface.
+Retorna la página HTML principal con la interfaz de usuario.
 
 ### GET `/api/products?limit=20&offset=0`
-Retrieve products with pagination.
+Recupera productos con paginación.
 
-**Parameters:**
-- `limit` (int): Number of products to return (default: 20)
-- `offset` (int): Starting position (default: 0)
+**Parámetros:**
+- `limit` (int): Número de productos a retornar (predeterminado: 20)
+- `offset` (int): Posición inicial (predeterminado: 0)
 
-**Example:**
+**Ejemplo:**
 ```bash
 curl http://localhost:8000/api/products?limit=10&offset=0
 ```
 
 ### POST `/api/search`
-Search products using the RAG system with semantic understanding.
+Busca productos usando el sistema RAG con comprensión semántica.
 
-**Request body:**
+**Cuerpo de la solicitud:**
 ```json
 {
   "query": "proteína alta"
 }
 ```
 
-**Example:**
+**Ejemplo:**
 ```bash
 curl -X POST http://localhost:8000/api/search \
   -H "Content-Type: application/json" \
@@ -101,162 +101,129 @@ curl -X POST http://localhost:8000/api/search \
 ```
 
 ### GET `/api/stats`
-Get database statistics (total products, average price, calories, etc.)
+Obtiene estadísticas de la base de datos (total de productos, precio promedio, calorías, etc.)
 
-**Example:**
+**Ejemplo:**
 ```bash
 curl http://localhost:8000/api/stats
 ```
 
 ### GET `/api/health`
-Health check endpoint to verify the server is running and data is loaded.
+Endpoint de verificación de estado para confirmar que el servidor está ejecutándose y los datos están cargados.
 
-**Example:**
+**Ejemplo:**
 ```bash
 curl http://localhost:8000/api/health
 ```
 
-## Frontend Usage
+## Uso de la Interfaz Frontend
 
-### Search Features
+### Características de Búsqueda
 
-The frontend supports various search queries:
+La interfaz frontal admite varios tipos de consultas de búsqueda:
 
-- **By Nutrition**: "proteína alta", "bajo en calorías", "más fibra"
-- **By Price**: "economico", "bajo precio", "más barato"
-- **By Product Type**: "frutas frescas", "carnes magras"
-- **By Quantity**: "dame 5", "top 10" (specify how many results)
+- **Por Nutrición**: "proteína alta", "bajo en calorías", "más fibra"
+- **Por Precio**: "económico", "bajo precio", "más barato"
+- **Por Tipo de Producto**: "frutas frescas", "carnes magras"
+- **Por Cantidad**: "dame 5", "top 10" (especificar cuántos resultados)
 
-### Suggestion Tags
+### Etiquetas de Sugerencia
 
-Quick search options available on the homepage:
+Opciones de búsqueda rápida disponibles en la página principal:
 - 🥇 Más Proteína
 - 💰 Económico
 - ⚡ Bajo en Calorías
 - 🍎 Frutas Frescas
 
-### Product Cards
+### Tarjetas de Productos
 
-Each product displays:
-- Price (prominent red display)
-- Nutritional information (proteins, calories, carbs, fats)
-- Direct link to the product page
-- Hover animations for better UX
+Cada producto muestra:
+- Precio (exhibición roja prominente)
+- Información nutricional (proteínas, calorías, carbohidratos, grasas)
+- Enlace directo a la página del producto
+- Animaciones al pasar el ratón para mejor experiencia de usuario
 
-### Statistics Dashboard
+### Panel de Estadísticas
 
-View overall database statistics:
-- Total number of products
-- Average price
-- Average calories
-- Average protein content
+Ver estadísticas generales de la base de datos:
+- Número total de productos
+- Precio promedio
+- Calorías promedio
+- Contenido promedio de proteínas
 
-## Project Structure
+## Estructura del Proyecto
 
 ```
 esic-rag-equipo-6/
-├── api.py                      # FastAPI application
-├── main.py                     # Original pipeline entry
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
+├── api.py                      # Aplicación FastAPI
+├── main.py                     # Punto de entrada del pipeline original
+├── requirements.txt            # Dependencias de Python
+├── README.md                   # Documentación del proyecto
 ├── data/
-│   ├── raw/                    # Raw data from web scraping
-│   ├── clean/                  # Processed CSV data
-│   └── ejemplo.json            # Example data structure
+│   ├── raw/                    # Datos sin procesar del web scraping
+│   ├── clean/                  # Datos procesados en CSV
+│   └── ejemplo.json            # Estructura de datos de ejemplo
 ├── src/
 │   ├── acquisition.py          # Web scraping
-│   ├── preprocessing.py        # Data cleaning
-│   └── rag.py                  # RAG system (search & ranking)
-└── static/                     # Frontend files
-    ├── index.html              # Main page
-    ├── style.css               # Stylesheet
-    └── script.js               # Frontend logic
+│   ├── preprocessing.py        # Limpieza de datos
+│   └── rag.py                  # Sistema RAG (búsqueda y ranking)
+└── static/                     # Archivos frontal
+    ├── index.html              # Página principal
+    ├── style.css               # Hoja de estilos
+    └── script.js               # Lógica frontal
 ```
 
-## Development Tips
+## Consejos de Desarrollo
 
-### Running with Auto-Reload
+### Ejecutar con Recarga Automática
 
-During development, use the `--reload` flag to automatically restart the server when you make changes:
+Durante el desarrollo, usa la bandera `--reload` para reiniciar automáticamente el servidor cuando hagas cambios:
 
 ```bash
 uvicorn api:app --reload --host 0.0.0.0 --port 8000
 ```
 
-### Accessing API Documentation
+### Acceder a la Documentación de la API
 
-FastAPI automatically generates interactive API documentation:
+FastAPI genera automáticamente documentación interactiva de la API:
 - **Swagger UI**: http://localhost:8000/docs
 - **ReDoc**: http://localhost:8000/redoc
 
-### Changing the Port
+### Cambiar el Puerto
 
-If port 8000 is already in use, specify a different port:
+Si el puerto 8000 ya está en uso, especifica un puerto diferente:
 
 ```bash
 uvicorn api:app --host 0.0.0.0 --port 8080
 ```
 
-Then access the app at `http://localhost:8080`
+Luego accede a la aplicación en `http://localhost:8080`
 
-## Troubleshooting
+## Solución de Problemas
 
-### "Data not loaded" Error
-- Verify `data/clean/productos_limpios.csv` exists
-- Run `python main.py` to generate the cleaned data
+### Error "Datos no cargados"
+- Verifica que `data/clean/productos_limpios.csv` exista
+- Ejecuta `python main.py` para generar los datos limpios
 
-### Slow Search Requests
-- FAISS index is created on startup - first load may take 10-30 seconds
-- Subsequent searches should be fast (< 1 second)
-- Check that `sentence-transformers` model is properly installed
+### Solicitudes de Búsqueda Lentas
+- El índice FAISS se crea al iniciar - la primera carga puede tardar 10-30 segundos
+- Las búsquedas posteriores deberían ser rápidas (< 1 segundo)
+- Verifica que el modelo `sentence-transformers` esté correctamente instalado
 
-### Port Already in Use
-- Find the process using port 8000: `lsof -i :8000` (macOS/Linux) or `netstat -ano | findstr :8000` (Windows)
-- Kill the process or use a different port
+### Puerto Ya en Uso
+- Encuentra el proceso usando el puerto 8000: `lsof -i :8000` (macOS/Linux) o `netstat -ano | findstr :8000` (Windows)
+- Mata el proceso o usa un puerto diferente
 
-### CORS Issues (if consuming API from external domain)
-- Add CORS middleware to `api.py`:
+### Problemas de CORS (si consumes la API desde un dominio externo)
+- Añade middleware CORS a `api.py`:
 
 ```python
 from fastapi.middleware.cors import CORSMiddleware
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Change to specific domains in production
+    allow_origins=["*"],  # Cambiar a dominios específicos en producción
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-```
-
-## Performance Notes
-
-- First request to `/api/search` initializes the FAISS index (10-30 seconds)
-- Subsequent searches are optimized for speed
-- Product pagination uses efficient offset-limit approach
-- Frontend lazy-loads products with "Load More" button
-
-## Browser Compatibility
-
-The frontend works on:
-- ✅ Chrome/Edge 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
-
-## Future Enhancements
-
-- 📊 Advanced filtering options
-- 🗂️ Product categories and sorting
-- ⭐ User favorites/bookmarks
-- 📱 Progressive Web App (PWA) support
-- 🔔 Price alerts for specific products
-- 🌙 Dark mode
-
-## Support
-
-For issues or questions about the RAG system, see the main [README.md](./README.md)
-
----
-
-**Built with ❤️ using FastAPI and modern web technologies**
