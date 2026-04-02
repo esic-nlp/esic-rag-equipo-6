@@ -3,99 +3,147 @@ import numpy as np
 import re
 from sentence_transformers import SentenceTransformer
 
-# Modelo robusto
+# Modelo
 embedder = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
+# =========================
+# EXTRAER TOP N
+# =========================
+
 def extraer_top_n(consulta, default=3):
+    """Detecta números en la consulta para ajustar la cantidad de resultados."""
+    # Busca patrones como 'top 5', 'los 10 mejores', 'dame 7'
     match = re.search(r"(?:top|dame|los|las)\s*(\d+)", consulta.lower())
-    if match: return int(match.group(1))
+    if match:
+        return int(match.group(1))
+    
+    # Busca un número suelto si no hay palabras clave antes
     match_simple = re.search(r"(\d+)", consulta)
-    return int(match_simple.group(1)) if match_simple else default
+    if match_simple:
+        return int(match_simple.group(1))
+        
+    return default
+
+# =========================
+# ANALIZAR INTENCIÓN
+# =========================
 
 def analizar_intencion(consulta):
-    c = consulta.lower()
+    consulta = consulta.lower()
+    
     es_ranking_puro = False
-    col = None
-    asc = False
+    columna_sort = None
+    ascendente = False
 
-    if "proteina" in c or "proteico" in c:
-        if any(x in c for x in ["más", "mas", "alto", "ranking"]):
-            es_ranking_puro, col, asc = True, "proteinas", False
-    elif any(x in c for x in ["barato", "económico", "precio"]):
-        es_ranking_puro, col, asc = True, "precio", True
-        
+    # Lógica para "más proteína"
+    if "proteina" in consulta or "proteico" in consulta:
+        if any(x in consulta for x in ["más", "mas", "alto", "mejor"]):
+            es_ranking_puro = True
+            columna_sort = "proteinas"
+            ascendente = False
+            
+    # Lógica para "más barato"
+    elif any(x in consulta for x in ["barato", "económico", "economico", "menor precio"]):
+        es_ranking_puro = True
+        columna_sort = "precio"
+        ascendente = True
+
+    # Lógica para "bajo en calorías"
+    elif "caloría" in consulta or "caloria" in consulta or "light" in consulta:
+        if "bajo" in consulta or "menos" in consulta:
+            es_ranking_puro = True
+            columna_sort = "calories"
+            ascendente = True
+
     return {
+        "saludable": "saludable" in consulta or "sano" in consulta,
+        "alto_proteina": "proteina" in consulta,
+        "bajo_calorias": "caloria" in consulta or "light" in consulta,
+        "economico": "barato" in consulta or "economico" in consulta,
         "es_ranking_puro": es_ranking_puro,
-        "columna_sort": col,
-        "ascendente": asc,
-        "termino_busqueda": c.replace("top", "").strip()
+        "columna_sort": columna_sort,
+        "ascendente": ascendente
     }
 
+# =========================
+# CREAR ÍNDICE
+# =========================
+
 def crear_indice(df):
-    # Usamos solo el título para el embedding para evitar confusión con descripciones largas
+    print("[RAG] Generando embeddings e índice FAISS...")
     embeddings = embedder.encode(df["texto_busqueda"].tolist(), show_progress_bar=False)
-    index = faiss.IndexFlatL2(embeddings.shape[1])
+    d = embeddings.shape[1]
+    index = faiss.IndexFlatL2(d)
     index.add(np.array(embeddings).astype("float32"))
     return index
+
+# =========================
+# BÚSQUEDA + RANKING
+# =========================
 
 def buscar_y_responder(consulta, df, index):
     intencion = analizar_intencion(consulta)
     top_n = extraer_top_n(consulta)
-    
-    # 1. FILTRO DE PALABRAS CLAVE
-    # Extraemos la palabra más importante de la consulta
-    palabras_clave = [p for p in intencion["termino_busqueda"].split() if len(p) > 3]
-    
+
     if intencion["es_ranking_puro"]:
-        # Si pide ranking de proteínas de ALGO específico (ej: top 5 embutidos con proteina)
-        df_filtrado = df.copy()
-        if palabras_clave:
-            # Filtramos que el título contenga al menos una de las palabras clave
-            mask = df_filtrado['titulo'].str.contains('|'.join(palabras_clave), case=False, na=False)
-            df_filtrado = df_filtrado[mask]
-        
-        mejores = df_filtrado.sort_values(intencion["columna_sort"], ascending=intencion["ascendente"]).head(top_n)
-        metodo = "Ranking Directo"
+        # Ordenación directa por columna numérica
+        mejores = df.sort_values(intencion["columna_sort"], ascending=intencion["ascendente"]).head(top_n)
+        metodo = f"Ranking directo por {intencion['columna_sort']}"
     else:
-        # 2. BÚSQUEDA SEMÁNTICA CON FILTRO DE CORTE
+        # Búsqueda semántica (vectorial)
         vec_query = embedder.encode([consulta]).astype("float32")
-        dist, indices = index.search(vec_query, 100) # Buscamos en 100 productos
+        # Buscamos un margen mayor (20) para luego filtrar y rankear
+        dist, indices = index.search(vec_query, max(20, top_n))
         candidatos = df.iloc[indices[0]].copy()
-        
-        # Invertimos la distancia para que 1 sea perfecto y 0 nada
-        max_d = dist[0].max() if dist[0].max() > 0 else 1
-        candidatos["score_texto"] = 1 - (dist[0] / max_d)
-        
-        # FILTRO DE CORTE ESTRICTO: Si el score de texto es bajo, fuera.
-        candidatos = candidatos[candidatos["score_texto"] > 0.60]
-        
-        # 3. RE-RANKING (80% Texto, 20% Nutrición)
-        candidatos["rank_final"] = ((candidatos["score_texto"] * 0.7) + ((candidatos["norm_nutri"]/100) * 0.2) +(candidatos["norm_precio"] * 0.1))
-        
+
+        max_dist = dist[0].max() if dist[0].max() > 0 else 1
+        candidatos["norm_dist"] = 1 - (dist[0] / max_dist)
+
+        # Score ponderado: 50% semántica, 25% nutrición, 25% precio
+        candidatos["rank_final"] = (
+            candidatos["norm_dist"] * 0.5 + 
+            (candidatos["norm_nutri"] / 100.0) * 0.25 + 
+            candidatos["norm_precio"] * 0.25
+        )
+
+        # Bonus por intención
+        if intencion["saludable"]: candidatos["rank_final"] += 0.2
+        if intencion["alto_proteina"]: 
+            max_p = df["proteinas"].max() if df["proteinas"].max() > 0 else 1
+            candidatos["rank_final"] += (candidatos["proteinas"] / max_p) * 0.3
+
         mejores = candidatos.sort_values("rank_final", ascending=False).head(top_n)
-        metodo = "Búsqueda Semántica Optimizada"
+        metodo = "Búsqueda Semántica + Re-ranking"
 
-    # --- FORMATO DE SALIDA ---
-    if mejores.empty:
-        return f"No encontré productos que coincidan con '{consulta}'. Intenta ser más específico."
-
-    res = f"Resultados para: {consulta} ({metodo})\n" + "="*40 + "\n"
+    # -------- CONSTRUCCIÓN DE LA RESPUESTA --------
+    res_texto = f"\nResultados para '{consulta}' ({metodo} - Cantidad: {top_n}):\n\n"
+    
     for i, (_, r) in enumerate(mejores.iterrows()):
-        res += f"{i+1}. {r['titulo']}\n"
-        res += f"   Precio: {r['precio']:.2f}€ | Prot: {r['proteinas']}g | Cal: {r['calories']}kcal\n"
-        res += f"   Link: {r.get('url', 'n/a')}\n\n"
-    return res
+        res_texto += (
+            f"{i+1}. {r['titulo']}\n"
+            f"   Precio: {r['precio']:.2f}€ | Proteínas: {r['proteinas']:.1f}g | Calorías: {r['calories']:.0f}kcal\n"
+            f"   Enlace: {r.get('url', 'No disponible')}\n\n"
+        )
+
+    return res_texto
+
+# =========================
+# LOOP PRINCIPAL
+# =========================
 
 def consultar(df):
-    """Modo interactivo (consola)"""
     index = crear_indice(df)
-    print("Asistente listo.")
+    print("\nSistema RAG listo.")
+    
     while True:
-        user_input = input("Que buscas?: ")
-        if user_input.lower() in ["salir", "exit"]: break
-        print(buscar_y_responder(user_input, df, index))
-
-# Función para usar desde app.py
-def consultar_web(consulta, df, index):
-    """Modo web (sin interacción de consola)"""
-    return buscar_y_responder(consulta, df, index)
+        consulta = input("Consulta: ")
+        
+        if consulta.lower() in ["salir", "exit", "quit"]:
+            print("Cerrando asistente.")
+            break
+            
+        if not consulta.strip():
+            continue
+            
+        respuesta = buscar_y_responder(consulta, df, index)
+        print(respuesta + "-" * 50)

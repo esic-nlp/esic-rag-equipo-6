@@ -13,7 +13,7 @@ data/clean/
 src - copia
 
 # Virtual environments
-.venv
+*venv
 
 # Particular files
 src/acquisition_result.py
