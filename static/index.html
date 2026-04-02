@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asistente Nutricional DIA</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/lucide@0.371.0"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="header-title">
+                    <svg class="lucide-icon header-icon" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg>
+                    <h1>Asistente Nutricional DIA</h1>
+                </div>
+                <p>Encuentra los mejores productos según tus necesidades nutricionales</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Search Section -->
+            <section class="search-section">
+                <div class="search-container">
+                    <input 
+                        type="text" 
+                        class="search-input" 
+                        id="searchInput" 
+                        placeholder="Busca productos... ej: 'proteína alta', 'bajo precio', 'bajo en calorías'"
+                        autocomplete="off"
+                    >
+                    <button class="search-button" id="searchBtn">
+                        <svg class="lucide-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                        Buscar
+                    </button>
+                </div>
+                <div class="suggestions">
+                    <span class="suggestion-tag" data-query="proteína alta">Más Proteína</span>
+                    <span class="suggestion-tag" data-query="bajo precio">Económico</span>
+                    <span class="suggestion-tag" data-query="bajo en calorías">Bajo en Calorías</span>
+                    <span class="suggestion-tag" data-query="frutas frescas">Frutas Frescas</span>
+                </div>
+            </section>
+
+            <!-- Stats Section -->
+            <section class="stats-section" id="statsSection">
+                <div class="stat-card">
+                    <div class="stat-number" id="totalProducts">0</div>
+                    <div class="stat-label">Productos</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="avgPrice">€0</div>
+                    <div class="stat-label">Precio Medio</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="avgCalories">0 kcal</div>
+                    <div class="stat-label">Calorías Media</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="avgProtein">0g</div>
+                    <div class="stat-label">Proteína Media</div>
+                </div>
+            </section>
+
+            <!-- Loading Indicator -->
+            <div class="loading" id="loading" style="display:none;">
+                <div class="spinner"></div>
+                <p>Buscando productos...</p>
+            </div>
+
+            <!-- Results Section -->
+            <section class="results-section" id="resultsSection" style="display:none;">
+                <div class="results-header">
+                    <h2>Resultados</h2>
+                    <button class="close-results" id="closeResults">
+                        <svg class="lucide-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6l-12 12M6 6l12 12"/></svg>
+                    </button>
+                </div>
+                <div class="results-response" id="resultsResponse"></div>
+                <div class="products-grid" id="productsGrid"></div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 Asistente Nutricional DIA. Datos de productos del supermercado.</p>
+        </footer>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
